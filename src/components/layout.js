@@ -20,44 +20,79 @@ function showMenu(){
   }
 }
 
+const ListLink = (props) => {
+  const isMobile = props.mobile;
+  if(isMobile){
+    return(
+      <li style={{display: `inline-block`}}>
+          <Link to={props.to} className="aa" onClick={showMenu}>
+              <div  ><br/><br/>{props.children}<br/><br/></div>
+              <hr/>
+          </Link>
+      </li>
+    );
+  }
+  else{
+    return(
+      <li style={{display: `inline-block`,marginLeft: `2rem`}}>
+            <Link to={props.to} className='menu_link'>
+                  {props.children}
+            </Link>
+      </li>
+    );
+  }
+}
+
+const Icon = props =>(
+  <li style={{display:`inline`}}>
+    <a href={props.href} target="_blank">
+      <img src={props.icon} className="icon" />
+    </a>
+  </li>
+)
+
+const Contact = props =>(
+  <ul className={props.className}>
+      <Icon href="https://www.facebook.com/profile.php?id=100002291973060&viewas=&show_switched_toast=false" icon={fbicon} />
+      <Icon href="Mailto:eddyeddy5825945@gmail.com" icon={mailicon} className="icon" />
+      <Icon href="https://www.instagram.com/hsiinyu.c/" icon={igicon} className="icon" />
+      <Icon href="https://www.youtube.com/channel/UCX6nVMS9VkKdd-oJ_Dqd0Vg" icon={yticon} className="icon" />
+      <Icon href="https://vimeo.com/changhsinyu" icon={vmicon} className="icon" />
+      <Icon href="https://twitter.com/ChangHsinYu3" icon={twicon} className="icon" />
+      <Icon href="https://github.com/ChangHsinYu" icon={giticon} className="icon" />
+      <Icon href="https://www.hicetnunc.xyz/tz/tz1PpCGDRWH757zKZKHuFHbjcCPg6C5snsrz" icon={shpicon} className="icon" />
+  </ul>
+)
+
+
 const Head = () =>{
     return(
       <div>
         <div id="menu_mobile">
-          <div style={{marginTop:'120px',marginLeft:'5%',width:'90%'}}>
-            <Link to="/cv"><div id="aa" onClick={showMenu}><br/><br/>CV<br/><br/></div></Link>
-            <hr/><Link to="/artworks"><div id="aa" onClick={showMenu}><br/><br/>ARTWORKS<br/><br/></div></Link>
-            <hr/><Link to="/performances"><div id="aa" onClick={showMenu}><br/><br/>PERFORMANCES<br/><br/></div></Link>
-            <hr/><Link to="/projects"><div id="aa" onClick={showMenu}><br/><br/>NEW MEDIA PROJECTS<br/><br/></div></Link>
-            <hr/><Link to="/codearts"><div id="aa" onClick={showMenu}><br/><br/>CREATIVE CODINGS<br/><br/></div></Link>
-            </div>
-          <div id="contact_mobile">
-            <a href="https://www.facebook.com/profile.php?id=100002291973060&viewas=&show_switched_toast=false" target="_blank"><img src={fbicon} id="icon" /></a>
-            <a href="Mailto:eddyeddy5825945@gmail.com"><img src={mailicon} id="icon" /></a>
-            <a href="https://www.instagram.com/hsiinyu.c/" target="_blank"><img src={igicon} id="icon" /></a>
-            <a href="https://www.youtube.com/channel/UCX6nVMS9VkKdd-oJ_Dqd0Vg" target="_blank"><img src={yticon} id="icon" /></a>
-            <a href="https://vimeo.com/changhsinyu" target="_blank"><img src={vmicon} id="icon" /></a>
-            <a href="https://twitter.com/ChangHsinYu3" target="_blank"><img src={twicon} id="icon" /></a>
-            <a href="https://github.com/ChangHsinYu" target="_blank"><img src={giticon} id="icon" /></a>
-            <a href="https://www.hicetnunc.xyz/tz/tz1PpCGDRWH757zKZKHuFHbjcCPg6C5snsrz" target="_blank"><img src={shpicon} id="icon" /></a>
-          </div>
+          <ul className='menu_mobile_list'>
+            <li><Link to="/cv"><div className="aa" onClick={showMenu}><br/><br/>CV<br/><br/></div></Link><hr/></li>
+            <li><Link to="/artworks"><div className="aa" onClick={showMenu}><br/><br/>ARTWORKS<br/><br/></div></Link><hr/></li>
+            <li><Link to="/performances"><div className="aa" onClick={showMenu}><br/><br/>PERFORMANCES<br/><br/></div></Link><hr/></li>
+            <li><Link to="/projects"><div className="aa" onClick={showMenu}><br/><br/>NEW MEDIA PROJECTS<br/><br/></div></Link><hr/></li>
+            <li><Link to="/codearts"><div className="aa" onClick={showMenu}><br/><br/>CREATIVE CODINGS<br/><br/></div></Link></li>
+          </ul>
+          <Contact className='contact_mobile'/>
         </div>
-        <div id="bar">
-          <div id="title"><Link to="/" id="home_a">CHANG&nbsp;HSIN-YU</Link></div>
-          <div id="menu_icon" onClick={showMenu}>
+
+        <div className='bar'>
+          <Link to="/" className='title'>CHANG&nbsp;HSIN-YU</Link>
+          <div className='menu_icon' onClick={showMenu}>
             <img src={menuicon} style={{width:'100%'}} />
           </div>
-          <div id="menu">
-            <Link to="/cv" id="aa_cv">CV</Link>
-            &nbsp;&nbsp;&nbsp;&nbsp;
-            <Link to="/artworks" id="aa_work">ARTWORKS</Link>
-            &nbsp;&nbsp;&nbsp;&nbsp;
-            <Link to="/performances" id="aa_performence">PERFORMANCES</Link>
-            &nbsp;&nbsp;&nbsp;&nbsp;
-            <Link to="/projects" id="aa_project">NEW MEDIA PROJECTS</Link>
-            &nbsp;&nbsp;&nbsp;&nbsp;
-            <Link to="/codearts" id="aa_creative">CREATIVE CODINGS</Link>
-          </div>
+
+          <ul className='menu'>
+            <ListLink to="/cv"            mobile={false}>CV</ListLink>
+            <ListLink to="/artworks"      mobile={false}>ARTWORKS</ListLink>
+            <ListLink to="/performances"  mobile={false}>PERFORMANCES</ListLink>
+            <ListLink to="/projects"      mobile={false}>NEW MEDIA PROJECTS</ListLink>
+            <ListLink to="/codearts"      mobile={false}>CREATIVE CODINGS</ListLink>
+          </ul>
+
         </div>
       </div>
     );
@@ -66,17 +101,8 @@ const Head = () =>{
 const Foot = () =>{
   return(
     <div style={{width:'100%',float:'left'}}>
-      <div id="contact">
-        <a href="https://www.facebook.com/profile.php?id=100002291973060&viewas=&show_switched_toast=false" target="_blank"><img src={fbicon} id="icon" /></a>
-        <a href="Mailto:eddyeddy5825945@gmail.com"><img src={mailicon} id="icon" /></a>
-        <a href="https://www.instagram.com/hsiinyu.c/" target="_blank"><img src={igicon} id="icon" /></a>
-        <a href="https://www.youtube.com/channel/UCX6nVMS9VkKdd-oJ_Dqd0Vg" target="_blank"><img src={yticon} id="icon" /></a>
-        <a href="https://vimeo.com/changhsinyu" target="_blank"><img src={vmicon} id="icon" /></a>
-        <a href="https://twitter.com/ChangHsinYu3" target="_blank"><img src={twicon} id="icon" /></a>
-        <a href="https://github.com/ChangHsinYu" target="_blank"><img src={giticon} id="icon" /></a>
-        <a href="https://www.hicetnunc.xyz/tz/tz1PpCGDRWH757zKZKHuFHbjcCPg6C5snsrz" target="_blank"><img src={shpicon} id="icon" /></a>
-        </div>
-      <div id="copyright">CHANG HSIN YU © 2020</div>
+        <Contact className="contact"/>
+        <div className="copyright">CHANG HSIN YU © 2020</div>
     </div>
   );
 }

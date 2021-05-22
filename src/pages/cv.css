@@ -1,11 +1,11 @@
-#cv_content{
+.cv_content{
   font-family: 'Kumbh Sans', sans-serif;
   width:90%;
   margin: auto;
   margin-top:50px;
   margin-bottom:50px;
 }
-#cv_content_language{
+.cv_content_language{
   width:100%;
   font-size: 0.8rem;
   text-align: justify;
@@ -13,39 +13,39 @@
   line-height:1.5rem;
   float:none;
 }
-#cv_img{
+.cv_img{
   width:50%;
   margin-left: 25%;
   margin-top:80px;
   padding-left:0;
 }
-#cv_inf{
+.cv_inf{
   width:90%;
   display: inline-block;
 }
-#cv_year{
+.cv_year{
   vertical-align: top;
   width:10%;
   height:auto;
   display: inline-block;
 }
-#cv_title{
+.cv_title{
   font-weight: 700;
 }
 
 @media screen and (min-width:800px){
-  #aa_cv{
+  .aa_cv{
     text-decoration: none;
     color: #000000;
   }
-  #cv_content{
+  .cv_content{
     font-family: 'Kumbh Sans', sans-serif;
     margin-top:50px;
     margin-bottom:50px;
     width:100%;
     text-align:justify;
   }
-  #cv_content_language{
+  .cv_content_language{
     vertical-align: top;
     width:60%;
     font-size: 0.8rem;
@@ -55,23 +55,23 @@
     float:none;
   }
 
-  #cv_img{
+  .cv_img{
     margin-top:0;
     margin-left: 0;
     width:20%;
     padding-left: 0;
   }
-  #cv_inf{
+  .cv_inf{
     width:90%;
     display: inline-block;
   }
-  #cv_year{
+  .cv_year{
     vertical-align: top;
     width:10%;
     height:auto;
     display: inline-block;
   }
-  #cv_title{
+  .cv_title{
     font-weight: 700;
   }
 }

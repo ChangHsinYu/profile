@@ -1,7 +1,7 @@
 import img from '../img-0.png';
 
 export default {
-	title: 'cyberfly',
+	title: 'Cyberfly',
 	category: 'Sound installation',
 	year: '2020',
 	to: '/artworks/cyberfly',

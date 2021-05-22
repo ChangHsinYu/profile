@@ -1,4 +1,5 @@
 import * as React from 'react';
+import { graphql } from "gatsby";
 import Portrait from "./portrait.jpg";
 import './cv.css';
 import Layout from '../components/layout'
@@ -150,11 +151,21 @@ const Cv = () =>{
     );
 }
 
-const AboutPage = () =>{
+export default function AboutPage ({ data }){
   return (
     <Layout pageTitle="cv">
+      <h1>About {data.site.siteMetadata.title}</h1>
       <Cv />
     </Layout>
   )
 }
-export default AboutPage;
+export const query = graphql`
+  query {
+    site {
+      siteMetadata {
+        title
+      }
+    }
+  }
+`
+// export default AboutPage;

@@ -1,9 +1,21 @@
 module.exports = {
+
   siteMetadata: {
     title: "profile",
   },
-  plugins: ["gatsby-plugin-gatsby-cloud"],
+
   plugins: [
+    `gatsby-plugin-gatsby-cloud`,
+    `gatsby-transformer-remark`,
+    `gatsby-plugin-emotion`,
+
+    {
+      resolve: `gatsby-plugin-typography`,
+      options: {
+        pathToConfigModule: `src/utils/typography`,
+      },
+    },
+
     {
       resolve: `gatsby-plugin-google-fonts`,
       options: {
@@ -12,6 +24,15 @@ module.exports = {
         ],
         display: 'swap'
       }
-    }
+    },
+
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `src`,
+        path: `${__dirname}/src/`,
+      },
+    },
   ],
+
 };

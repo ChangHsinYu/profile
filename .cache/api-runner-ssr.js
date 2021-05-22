@@ -1,4 +1,8 @@
 var plugins = [{
+      name: 'gatsby-plugin-typography',
+      plugin: require('/Users/eddy/Documents/profile/node_modules/gatsby-plugin-typography/gatsby-ssr'),
+      options: {"plugins":[],"pathToConfigModule":"src/utils/typography"},
+    },{
       name: 'gatsby-plugin-google-fonts',
       plugin: require('/Users/eddy/Documents/profile/node_modules/gatsby-plugin-google-fonts/gatsby-ssr'),
       options: {"plugins":[],"fonts":["Kumbh Sans"],"display":"swap"},

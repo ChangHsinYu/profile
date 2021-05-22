@@ -1,7 +1,7 @@
 ---
 title: "x611b"
 date: "2020"
-category: 'Sound installation'
+description: 'Sound installation'
 ---
 
 Do Pandas eat bananas? Check out this short video that shows that yes! pandas do seem to really enjoy bananas!

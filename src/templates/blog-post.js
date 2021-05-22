@@ -10,7 +10,7 @@ export default function BlogPost({ data }) {
       <div className="work_main">
         <div className="ttlbox">
           <div className="ttl">{post.frontmatter.title}</div>
-          <div className="inf">{post.frontmatter.category}<br />{post.frontmatter.date}</div>
+          <div className="inf">{post.frontmatter.description}<br />{post.frontmatter.date}</div>
         </div>
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
       </div>
@@ -24,6 +24,7 @@ export const query = graphql`
       html
       frontmatter {
         title
+        description
         date
       }
     }

@@ -1,6 +1,6 @@
 ---
 title: "Cross"
-category: 'Sound installation'
+description: 'Sound installation'
 date: "2021"
 ---
 

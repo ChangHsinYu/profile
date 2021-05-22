@@ -1,7 +1,9 @@
 ---
 title: "Cross (v2)"
 date: "2021"
-category: 'Sound installation'
+description: 'Sound installation'
 ---
-![](./img-0.png)
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/548477446" width="100%" height="100%" frameborder="0" allowfullscreen="1"></iframe>
+
+Do Pandas eat bananas? Check out this short video that shows that yes! pandas do seem to really enjoy bananas!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4SZl1r2O_bY" frameborder="0" allowfullscreen></iframe>

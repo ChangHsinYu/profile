@@ -19,7 +19,7 @@ function findTitle(edges, title) {
 
 const Artworks = ({ data }) =>  (
       <Layout>
-      <div id="work_main">
+      <div className="work_main">
         {artworks.map((p, index) => {
           const node = findTitle(data.allMarkdownRemark.edges, p.title);
 				  const dest = node ? node.fields.slug : '';
@@ -45,8 +45,6 @@ export const query = graphql`
           id
           frontmatter {
             title
-						description
-            date
           }
           fields {
             slug

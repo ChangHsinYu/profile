@@ -1,31 +1,28 @@
-#work{
+.work{
   margin-top:0;
-  margin-bottom:10px;
+  margin-bottom:20px;
   width:100%;
 }
 
-#work_img{
+.work_img{
   width:100%;
+  margin-bottom:0;
 }
 
-#work_inf_mobile{
+.work_inf_mobile{
   display: block;
-  margin-top: 10px;
-  margin-bottom: 10px;
+  margin-top: 0;
+  margin-bottom: 0px;
   height:24px;
   font-size: 0.8rem;
   color: #000000;
 }
-#work_inf{
+.work_inf{
   display: none;
 }
 
 @media screen and (min-width:800px){
-  #aa_work{
-    text-decoration: none;
-    color: #000000;
-  }
-  #work{
+  .work{
     display:inline-block;
     width:100%;
     height:auto;
@@ -33,15 +30,15 @@
     float: none;
   }
 
-  #work_img{
+  .work_img{
     margin-left: 0;
     width:45%;
     float:left;
   }
-  #work_inf_mobile{
+  .work_inf_mobile{
     display: none;
   }
-  #work_inf{
+  .work_inf{
     display: block;
     width:40%;
     margin-top: 0;

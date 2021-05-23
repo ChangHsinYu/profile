@@ -4,6 +4,5 @@ export default {
 	title: 'x611b',
 	category: 'Sound installation',
 	year: '2020',
-	to: '/artworks/x611b',
 	img,
 };

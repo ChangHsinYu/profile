@@ -1995,7 +1995,7 @@ var plugins = [{
   plugin: __webpack_require__(/*! ./node_modules/gatsby-plugin-google-fonts/gatsby-ssr */ "./node_modules/gatsby-plugin-google-fonts/gatsby-ssr.js"),
   options: {
     "plugins": [],
-    "fonts": ["Kumbh Sans"],
+    "fonts": ["Kumbh Sans:300,400,700"],
     "display": "swap"
   }
 }]; // During bootstrap, we write requires at top of this file which looks like:

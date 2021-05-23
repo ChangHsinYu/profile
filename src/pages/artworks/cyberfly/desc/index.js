@@ -4,6 +4,5 @@ export default {
 	title: 'Cyberfly',
 	category: 'Sound installation',
 	year: '2020',
-	to: '/artworks/cyberfly',
 	img,
 };

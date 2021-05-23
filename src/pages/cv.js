@@ -154,18 +154,8 @@ const Cv = () =>{
 export default function AboutPage ({ data }){
   return (
     <Layout pageTitle="cv">
-      <h1>About {data.site.siteMetadata.title}</h1>
       <Cv />
     </Layout>
   )
 }
-export const query = graphql`
-  query {
-    site {
-      siteMetadata {
-        title
-      }
-    }
-  }
-`
 // export default AboutPage;

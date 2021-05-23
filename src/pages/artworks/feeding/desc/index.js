@@ -4,6 +4,5 @@ export default {
 	title: 'Feeding',
 	category: 'Sound installation',
 	year: '2020',
-	to: '/artworks/feeding',
 	img,
 };

@@ -5,14 +5,22 @@ exports.components = {
   "component---cache-dev-404-page-js": () => import("./../../dev-404-page.js" /* webpackChunkName: "component---cache-dev-404-page-js" */),
   "component---src-pages-404-js": () => import("./../../../src/pages/404.js" /* webpackChunkName: "component---src-pages-404-js" */),
   "component---src-pages-artworks-artworks-content-js": () => import("./../../../src/pages/artworks/artworks.content.js" /* webpackChunkName: "component---src-pages-artworks-artworks-content-js" */),
+  "component---src-pages-artworks-broken-desc-index-js": () => import("./../../../src/pages/artworks/broken/desc/index.js" /* webpackChunkName: "component---src-pages-artworks-broken-desc-index-js" */),
   "component---src-pages-artworks-cross-desc-index-js": () => import("./../../../src/pages/artworks/cross/desc/index.js" /* webpackChunkName: "component---src-pages-artworks-cross-desc-index-js" */),
   "component---src-pages-artworks-crossv-2-desc-index-js": () => import("./../../../src/pages/artworks/crossv2/desc/index.js" /* webpackChunkName: "component---src-pages-artworks-crossv-2-desc-index-js" */),
   "component---src-pages-artworks-cyberfly-desc-index-js": () => import("./../../../src/pages/artworks/cyberfly/desc/index.js" /* webpackChunkName: "component---src-pages-artworks-cyberfly-desc-index-js" */),
   "component---src-pages-artworks-feeding-desc-index-js": () => import("./../../../src/pages/artworks/feeding/desc/index.js" /* webpackChunkName: "component---src-pages-artworks-feeding-desc-index-js" */),
+  "component---src-pages-artworks-found-desc-index-js": () => import("./../../../src/pages/artworks/found/desc/index.js" /* webpackChunkName: "component---src-pages-artworks-found-desc-index-js" */),
   "component---src-pages-artworks-js": () => import("./../../../src/pages/artworks.js" /* webpackChunkName: "component---src-pages-artworks-js" */),
+  "component---src-pages-artworks-stairs-desc-index-js": () => import("./../../../src/pages/artworks/stairs/desc/index.js" /* webpackChunkName: "component---src-pages-artworks-stairs-desc-index-js" */),
   "component---src-pages-artworks-x-611-b-desc-index-js": () => import("./../../../src/pages/artworks/x611b/desc/index.js" /* webpackChunkName: "component---src-pages-artworks-x-611-b-desc-index-js" */),
   "component---src-pages-cv-js": () => import("./../../../src/pages/cv.js" /* webpackChunkName: "component---src-pages-cv-js" */),
   "component---src-pages-index-js": () => import("./../../../src/pages/index.js" /* webpackChunkName: "component---src-pages-index-js" */),
+  "component---src-pages-performances-avsketch-desc-index-js": () => import("./../../../src/pages/performances/avsketch/desc/index.js" /* webpackChunkName: "component---src-pages-performances-avsketch-desc-index-js" */),
+  "component---src-pages-performances-cassette-desc-index-js": () => import("./../../../src/pages/performances/cassette/desc/index.js" /* webpackChunkName: "component---src-pages-performances-cassette-desc-index-js" */),
+  "component---src-pages-performances-js": () => import("./../../../src/pages/performances.js" /* webpackChunkName: "component---src-pages-performances-js" */),
+  "component---src-pages-performances-performances-content-js": () => import("./../../../src/pages/performances/performances.content.js" /* webpackChunkName: "component---src-pages-performances-performances-content-js" */),
+  "component---src-pages-performances-pronunciation-desc-index-js": () => import("./../../../src/pages/performances/pronunciation/desc/index.js" /* webpackChunkName: "component---src-pages-performances-pronunciation-desc-index-js" */),
   "component---src-templates-blog-post-js": () => import("./../../../src/templates/blog-post.js" /* webpackChunkName: "component---src-templates-blog-post-js" */)
 }
 

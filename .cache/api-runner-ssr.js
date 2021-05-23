@@ -5,7 +5,7 @@ var plugins = [{
     },{
       name: 'gatsby-plugin-google-fonts',
       plugin: require('/Users/eddy/Documents/profile/node_modules/gatsby-plugin-google-fonts/gatsby-ssr'),
-      options: {"plugins":[],"fonts":["Kumbh Sans"],"display":"swap"},
+      options: {"plugins":[],"fonts":["Kumbh Sans:300,400,700"],"display":"swap"},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
 // var plugins = [

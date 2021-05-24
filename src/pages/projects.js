@@ -32,7 +32,6 @@ const Projects = ({ data }) =>  (
 									year={p.year}
 									event={p.event}
 									location={p.location}
-									artist={p.artist}
 									others={ReactHtmlParser(p.others)}
 									img={p.img}
 									smlimg={p.smlimg}

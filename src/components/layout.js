@@ -72,34 +72,49 @@ const Foot = () =>{
 
 class Layout extends React.Component {
   constructor() {
-    super();
-    this.state = {
-      open: false,
-    };
-  }
-  showMenu = () => {
+		super();
+		this.state = {
+			open: false,
+		};
+    this.onClick = this.onClick.bind(this);
+    this.openMenu = this.openMenu.bind(this);
+    this.closeMenu = this.closeMenu.bind(this);
+	}
+
+	onClick() {
+		const { open } = this.state;
+		if (open) {
+			this.closeMenu();
+		} else {
+			this.openMenu();
+		}
+	}
+
+	openMenu() {
     document.getElementById('menu').style.height = '100%';
-   this.setState(prevState => ({
-     open: !prevState.open
-   }))
-  }
-  closeMenu = () => {
+		document.getElementById('menu').style.opacity = '0.9';
+		this.setState({
+			open: true,
+		});
+	}
+
+	closeMenu() {
+		document.getElementById('menu').style.opacity = '0';
     document.getElementById('menu').style.height = '0%';
-    this.setState({
- 			open: false,
- 		});
-  }
+		this.setState({
+			open: false,
+		});
+
+	}
 
   render(){
     return(
         <main>
           <title>{this.props.pageTitle}</title>
-
+          <div className="menu_mobile" id='menu'>
           {
             this.state.open
               ? (
-
-                  <div className="menu_mobile" id='menu'>
                   <FadeIn
                     opacity={{
                       start: 0,
@@ -132,18 +147,17 @@ class Layout extends React.Component {
                     </ul>
                     <Contact className='contact_mobile'/>
                   </FadeIn>
-                  </div>
-
                 )
                 : (
                   null
                   )
           }
+          </div>
 
 
           <div className='bar'>
             <Link to="/" className='title'>CHANG&nbsp;HSIN-YU</Link>
-            <div className='menu_icon' onClick={this.showMenu}>
+            <div className='menu_icon' onClick={this.onClick}>
               <img src={menuicon} style={{width:'100%'}} />
             </div>
             <ul className='menu'>

@@ -10,9 +10,9 @@ export default {
 	year: '2021',
 	event: '政大音樂節',
 	location: '三創clap studio',
-	artist: 'hue樂團、張欣語',
 	others:`
-						Photo by陳鴻旭
+						藝術家 : hue樂團、張欣語 <br>
+						Photo by陳鴻旭 <br>
 				 `,
 	img,
 	smlimg:[

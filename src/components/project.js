@@ -51,9 +51,9 @@ class Project extends React.Component {
                         <img src={this.props.img} style={{width:'100%'}} />
                       </div>
                     </FadeIn>
-                    <FadeIn x={{
-                              start: 100,
-                              end: 0,
+                    <FadeIn opacity={{
+                              start: 0,
+                              end: 1,
                               stiffness: 100,
                               damping: 20,}}
                     >
@@ -63,8 +63,6 @@ class Project extends React.Component {
                       時間 : {this.props.year}<br />
                       活動 : {this.props.event}<br />
                       地點 : {this.props.location}<br />
-                      <br />
-                      藝術家 : {this.props.artist}<br />
                       <br />
                       {this.props.others}
                     </div>

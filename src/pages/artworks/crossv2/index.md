@@ -2,7 +2,7 @@
 title: "Cross (v2)"
 ---
 
-  <img class="img" src="img0.jpg">
+  <img class="img" src="./img0.jpg">
   <div class="ttlbox">
     <div class="ttl">
         Cross (v2)
@@ -23,7 +23,7 @@ title: "Cross (v2)"
 
 
   <div class="box">
-      <img class="subimg" src="img1.jpg">
+      <img class="subimg" src="./img1.jpg">
   </div>
 
 
@@ -36,12 +36,12 @@ title: "Cross (v2)"
 
 
   <div class="box">
-      <img class="subimg" src="img2.jpg">
+      <img class="subimg" src="./img2.jpg">
   </div>
 
 
   <div class="box">
-      <img class="subimg" src="img3.jpg">
+      <img class="subimg" src="./img3.jpg">
   </div>
 
 

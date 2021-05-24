@@ -2,7 +2,7 @@
 title: "x611b"
 ---
 
-<img class="img" src="img0.jpg">
+<img class="img" src="./img0.jpg">
 <div class="ttlbox">
   <div class="ttl">
       x611b
@@ -22,7 +22,7 @@ title: "x611b"
 
 
 <div class="box">
-    <img class="subimg" src="img1.jpg">
+    <img class="subimg" src="./img1.jpg">
 </div>
 
 
@@ -34,12 +34,12 @@ title: "x611b"
 
 
 <div class="box">
-    <img class="subimg" src="img2.jpg">
+    <img class="subimg" src="./img2.jpg">
 </div>
 
 
 <div class="box">
-    <img class="subimg" src="img3.jpg">
+    <img class="subimg" src="./img3.jpg">
 </div>
 
 

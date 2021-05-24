@@ -8,6 +8,7 @@ module.exports = {
     `gatsby-plugin-gatsby-cloud`,
     `gatsby-transformer-remark`,
     `gatsby-plugin-emotion`,
+    `gatsby-plugin-sharp`,
 
     {
       resolve: `gatsby-plugin-typography`,
@@ -33,23 +34,22 @@ module.exports = {
         path: `${__dirname}/src/`,
       },
     },
-    `gatsby-plugin-sharp`,
-  {
-    resolve: `gatsby-transformer-remark`,
-    options: {
-      plugins: [
-        {
-          resolve: `gatsby-remark-images`,
-          options: {
-            // It's important to specify the maxWidth (in pixels) of
-            // the content container as this plugin uses this as the
-            // base for generating different widths of each image.
-            maxWidth: 1920,
-          },
-        },
-      ],
-    },
-  },
+
+    {
+  			resolve: 'gatsby-transformer-remark',
+  			options: {
+  				plugins: [
+  					{
+  						resolve: 'gatsby-remark-images',
+  						options: {
+  							maxWidth: 1200,
+  							linkImagesToOriginal: false,
+  							sizeByPixelDensity: true,
+  						},
+  					},
+  				],
+  			},
+  		},
 
   ],
 

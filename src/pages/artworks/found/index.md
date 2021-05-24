@@ -2,7 +2,7 @@
 title: "Couldn't Found"
 ---
 
-<img class="img" src="img-0.png">
+<img class="img" src="./img-0.png">
 <div class="ttlbox">
   <div class="ttl">
     Couldn't Found

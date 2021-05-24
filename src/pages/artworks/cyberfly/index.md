@@ -2,7 +2,7 @@
 title: "Cyberfly"
 ---
 
-  <img class="img" src="img0.jpg">
+  <img class="img" src="./img0.jpg">
   <div class="ttlbox">
     <div class="ttl">
         Cyberfly
@@ -21,7 +21,7 @@ title: "Cyberfly"
 
 
   <div class="box">
-      <img class="subimg" src="img1.jpg">
+      <img class="subimg" src="./img1.jpg">
   </div>
 
 
@@ -34,7 +34,7 @@ title: "Cyberfly"
 
 
   <div class="box">
-      <img class="subimg" src="img2.jpg">
+      <img class="subimg" src="./img2.jpg">
   </div>
 
 

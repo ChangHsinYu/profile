@@ -65,7 +65,7 @@ li{
   display: block;
   float: right;
 }
-#menu_mobile{
+.menu_mobile{
   font-family: 'Kumbh Sans', sans-serif;
   background-color:rgba(255,255,255, 0.9);
   position: fixed;
@@ -78,7 +78,7 @@ li{
 }
 .menu_mobile_list{
   float: left;
-  margin-top:120px;
+  margin-top:100px;
   margin-left:5%;
   width:90%;
 }
@@ -88,7 +88,7 @@ li{
 .contact_mobile{
   width:250px;
   margin-left: 5%;
-  margin-top: 100px;
+  margin-top: 20px;
   float: left;
   display:inline;
 }
@@ -139,7 +139,7 @@ li{
     float: left;
     display: block;
   }
-  #menu_mobile{
+  .menu_mobile{
     display: none;
   }
   .menu_mobile_list{

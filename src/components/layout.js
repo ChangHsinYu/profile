@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { Link } from 'gatsby'
+import FadeIn from '../utils/fade-in';
 import './layout.css';
 import fbicon from '../icon/fb.png';
 import mailicon from '../icon/mail.png';
@@ -16,11 +17,13 @@ const ListLink = (props) => {
   const isMobile = props.mobile;
   if(isMobile){
     return(
-      <li style={{display: `inline-block`}}>
-          <Link to={props.to} className="aa">
-              <div  ><br/><br/>{props.children}<br/><br/></div>
-              <hr/>
-          </Link>
+      <li>
+        <Link to={props.to}>
+          <div className="aa">
+            <br/><br/>{props.children}<br/><br/>
+          </div>
+          <hr/>
+        </Link>
       </li>
     );
   }
@@ -35,13 +38,15 @@ const ListLink = (props) => {
   }
 }
 
-const Icon = props =>(
-  <li style={{display:`inline`}}>
-    <a href={props.href} target="_blank">
-      <img src={props.icon} className="icon" />
-    </a>
-  </li>
-)
+const Icon = (props) =>{
+  return(
+    <li style={{display:`inline`}}>
+      <a href={props.href} target="_blank">
+        <img src={props.icon} className="icon" />
+      </a>
+    </li>
+  );
+}
 
 const Contact = props =>(
   <ul className={props.className}>
@@ -81,51 +86,57 @@ class Layout extends React.Component {
 
   render(){
     return(
-      <main>
-        <title>{this.props.pageTitle}</title>
+        <main>
+          <title>{this.props.pageTitle}</title>
 
-      {
-          this.state.showMenu
-            ? (
-              <div id="menu_mobile"
-                   ref={(element) => {
-                     this.dropdownMenu = element;
-                   }}
-              >
-                <ul className='menu_mobile_list'>
-                  <li><Link to="/cv"><div className="aa"><br/><br/>CV<br/><br/></div></Link><hr/></li>
-                  <li><Link to="/artworks"><div className="aa"><br/><br/>ARTWORKS<br/><br/></div></Link><hr/></li>
-                  <li><Link to="/performances"><div className="aa"><br/><br/>PERFORMANCES<br/><br/></div></Link><hr/></li>
-                  <li><Link to="/projects"><div className="aa"><br/><br/>NEW MEDIA PROJECTS<br/><br/></div></Link><hr/></li>
-                  <li><Link to="/codearts"><div className="aa"><br/><br/>CREATIVE CODINGS<br/><br/></div></Link></li>
-                </ul>
-                <Contact className='contact_mobile'/>
-              </div>
-            )
-            : (
-              null
-            )
-        }
+          {
+            this.state.showMenu
+              ? (
+                  <div className="menu_mobile"
+                    ref={(element) => {
+                      this.dropdownMenu = element;
+                    }}
+                  >
+                    <ul className='menu_mobile_list'>
+                      <ListLink to="/cv"            mobile={true}>CV</ListLink>
+                      <ListLink to="/artworks"      mobile={true}>ARTWORKS</ListLink>
+                      <ListLink to="/performances"  mobile={true}>PERFORMANCES</ListLink>
+                      <ListLink to="/projects"      mobile={true}>NEW MEDIA PROJECTS</ListLink>
+                      <ListLink to="/codearts"      mobile={true}>CREATIVE CODINGS</ListLink>
+                    </ul>
+                    <Contact className='contact_mobile'/>
+                  </div>
+                )
+                : (
+                  null
+                  )
+          }
 
-
-        <div className='bar'>
-          <Link to="/" className='title'>CHANG&nbsp;HSIN-YU</Link>
-          <div className='menu_icon' onClick={this.showMenu}>
-            <img src={menuicon} style={{width:'100%'}} />
+          <div className='bar'>
+            <Link to="/" className='title'>CHANG&nbsp;HSIN-YU</Link>
+            <div className='menu_icon' onClick={this.showMenu}>
+              <img src={menuicon} style={{width:'100%'}} />
+            </div>
+            <ul className='menu'>
+              <ListLink to="/cv"            mobile={false}>CV</ListLink>
+              <ListLink to="/artworks"      mobile={false}>ARTWORKS</ListLink>
+              <ListLink to="/performances"  mobile={false}>PERFORMANCES</ListLink>
+              <ListLink to="/projects"      mobile={false}>NEW MEDIA PROJECTS</ListLink>
+              <ListLink to="/codearts"      mobile={false}>CREATIVE CODINGS</ListLink>
+            </ul>
           </div>
-
-          <ul className='menu'>
-            <ListLink to="/cv"            mobile={false}>CV</ListLink>
-            <ListLink to="/artworks"      mobile={false}>ARTWORKS</ListLink>
-            <ListLink to="/performances"  mobile={false}>PERFORMANCES</ListLink>
-            <ListLink to="/projects"      mobile={false}>NEW MEDIA PROJECTS</ListLink>
-            <ListLink to="/codearts"      mobile={false}>CREATIVE CODINGS</ListLink>
-          </ul>
-
-        </div>
-        {this.props.children}
-      <Foot />
-  </main>
+          <FadeIn
+              opacity={{
+    						start: 0,
+    						end: 1,
+    						stiffness: 200,
+    						damping: 5,
+              }}
+            >
+              {this.props.children}
+          </FadeIn>
+          <Foot />
+        </main>
     );
   }
 }

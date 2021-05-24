@@ -2,8 +2,8 @@
 title: "Cross"
 ---
 
-  <img class="img" src="img0.jpg">
-  
+  <img class="img" src="./img0.jpg">
+
   <div class="ttlbox">
     <div class="ttl">
         Cross
@@ -24,7 +24,7 @@ title: "Cross"
 
 
   <div class="box">
-      <img class="subimg" src="img1.jpg">
+      <img class="subimg" src="./img1.jpg">
   </div>
 
 
@@ -37,7 +37,7 @@ title: "Cross"
 
 
   <div class="box">
-      <img class="subimg" src="img2.jpg">
+      <img class="subimg" src="./img2.jpg">
   </div>
 
 

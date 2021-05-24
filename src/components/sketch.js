@@ -15,7 +15,7 @@ export default function Sketch(p5) {
   p5.setup = () => {
     if(window.innerWidth>800){
       canvas = p5.createCanvas(window.innerWidth*2/3, window.innerHeight*2/3, p5.WEBGL);
-      ballSize = p5.canvas.width/15;
+      ballSize = p5.canvas.width/20;
     }
     else{
       canvas = p5.createCanvas(window.innerWidth, window.innerHeight*0.7, p5.WEBGL);
@@ -58,7 +58,7 @@ export default function Sketch(p5) {
   p5.windowResized = function() {
       if(window.innerWidth>800){
         p5.resizeCanvas(window.innerWidth*2/3, window.innerHeight*2/3);
-        ballSize = p5.canvas.width/15;
+        ballSize = p5.canvas.width/20;
       }
       else{
         p5.resizeCanvas(window.innerWidth, window.innerHeight*0.7);

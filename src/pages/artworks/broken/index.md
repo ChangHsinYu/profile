@@ -3,7 +3,7 @@ title: "Broken"
 date: "2019"
 ---
 
-<img class="img" src="img-0.png">
+<img class="img" src="./img-0.png">
 <div class="ttlbox">
   <div class="ttl">Broken</div>
   <div class="inf">Video<br>2019</div>

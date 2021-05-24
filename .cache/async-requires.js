@@ -21,6 +21,9 @@ exports.components = {
   "component---src-pages-performances-js": () => import("./../../../src/pages/performances.js" /* webpackChunkName: "component---src-pages-performances-js" */),
   "component---src-pages-performances-performances-content-js": () => import("./../../../src/pages/performances/performances.content.js" /* webpackChunkName: "component---src-pages-performances-performances-content-js" */),
   "component---src-pages-performances-pronunciation-desc-index-js": () => import("./../../../src/pages/performances/pronunciation/desc/index.js" /* webpackChunkName: "component---src-pages-performances-pronunciation-desc-index-js" */),
+  "component---src-pages-projects-js": () => import("./../../../src/pages/projects.js" /* webpackChunkName: "component---src-pages-projects-js" */),
+  "component---src-pages-projects-nccu-desc-index-js": () => import("./../../../src/pages/projects/nccu/desc/index.js" /* webpackChunkName: "component---src-pages-projects-nccu-desc-index-js" */),
+  "component---src-pages-projects-projects-content-js": () => import("./../../../src/pages/projects/projects.content.js" /* webpackChunkName: "component---src-pages-projects-projects-content-js" */),
   "component---src-templates-blog-post-js": () => import("./../../../src/templates/blog-post.js" /* webpackChunkName: "component---src-templates-blog-post-js" */)
 }
 

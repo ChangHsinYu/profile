@@ -1,7 +1,6 @@
 ---
 title: "Cross (v2)"
 ---
-
   <img class="img" src="./img0.jpg">
   <div class="ttlbox">
     <div class="ttl">

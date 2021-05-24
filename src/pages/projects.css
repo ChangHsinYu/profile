@@ -1,0 +1,133 @@
+.project{
+  /* width:50%;
+  float: left; */
+  display:inline-block;
+  width:32%;
+  margin-left: 0;
+  height:auto;
+  margin-bottom:2%;
+  float: none;
+}
+.project:hover{cursor: pointer;}
+
+.project_dtl{
+  position: fixed;
+  overflow-y:scroll;
+  top:0;
+  left: 0;
+  width:100%;
+  height:100%;
+  background-color:rgba(255,255,255, 0.9);
+  display: block;
+  z-index: 1;
+}
+.project_dtlimg{
+  width:100%;
+  height: auto;
+  margin: auto;
+  margin-top: 0;
+}
+.project_dtlinf{
+  font-family: 'Kumbh Sans', sans-serif;
+  font-size: 0.8rem;
+  width:100%;
+  color: #000000;
+  height: auto;
+  margin: auto;
+  margin-top: 20px;
+}
+.project_bar{
+  width:100%;
+  height:60px;
+}
+.project_bk{
+  cursor: w-resize;
+  font-family: 'Kumbh Sans', sans-serif;
+  font-weight: 700;
+  margin-top: 25px;
+  margin-right: 5%;
+  float:right;
+}
+.project_dtldiv{
+  width:90%;
+  float:left;
+  margin-bottom:20px;
+  margin-left: 5%;
+  text-align:justify;
+}
+.project_smlimg{
+  display:inline-block;
+  width:49%;
+  margin-top:1%;
+  height: auto;
+  float: none;
+}
+
+@media screen and (min-width:800px){
+  .project{
+    display:inline-block;
+    width:32%;
+    height:auto;
+    margin-bottom:20px;
+    float: none;
+  }
+  .project:hover{cursor: pointer;}
+
+  .project_dtl{
+    position: fixed;
+    overflow-y:scroll;
+    top:0;
+    left: 0;
+    width:100%;
+    height:100%;
+    background-color:rgba(255, 255, 255, 0.9);
+    color:#000000;
+    display: block;
+    z-index: 1;
+  }
+  .project_dtlimg{
+    width:50%;
+    height: auto;
+    /* margin-left: 10%; */
+    margin-top: 0px;
+    float: left;
+  }
+  .project_dtlinf{
+    font-family: 'Kumbh Sans', sans-serif;
+    width:45%;
+    color:#000000;
+    height: auto;
+    font-size: 0.8rem;
+    margin-left: 5%;
+    margin-top: 0px;
+    float: left;
+  }
+  .project_bar{
+    width:100%;
+    height:50px;
+  }
+  .project_bk{
+    cursor: w-resize;
+    font-family: 'Kumbh Sans', sans-serif;
+    font-weight: 700;
+    margin-top: 30px;
+    margin-right: 10%;
+    float:right;
+  }
+  .project_dtldiv{
+    width:80%;
+    height: auto;
+    margin-left: 10%;
+    margin-top: 20px;
+    float: left;
+    text-align:justify;
+  }
+  .project_smlimg{
+    display:inline-block;
+    width:24.5%;
+    height: auto;
+    margin-top:20px;
+    float: none;
+  }
+
+}

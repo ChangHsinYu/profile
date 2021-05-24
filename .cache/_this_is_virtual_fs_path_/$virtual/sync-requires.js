@@ -23,6 +23,9 @@ exports.components = {
   "component---src-pages-performances-js": preferDefault(require("/Users/eddy/Documents/profile/src/pages/performances.js")),
   "component---src-pages-performances-performances-content-js": preferDefault(require("/Users/eddy/Documents/profile/src/pages/performances/performances.content.js")),
   "component---src-pages-performances-pronunciation-desc-index-js": preferDefault(require("/Users/eddy/Documents/profile/src/pages/performances/pronunciation/desc/index.js")),
+  "component---src-pages-projects-js": preferDefault(require("/Users/eddy/Documents/profile/src/pages/projects.js")),
+  "component---src-pages-projects-nccu-desc-index-js": preferDefault(require("/Users/eddy/Documents/profile/src/pages/projects/nccu/desc/index.js")),
+  "component---src-pages-projects-projects-content-js": preferDefault(require("/Users/eddy/Documents/profile/src/pages/projects/projects.content.js")),
   "component---src-templates-blog-post-js": preferDefault(require("/Users/eddy/Documents/profile/src/templates/blog-post.js"))
 }
 

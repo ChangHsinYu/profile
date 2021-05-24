@@ -1,6 +1,6 @@
 import * as React from "react"
 import Layout from '../components/layout'
-import P5 from '../components/p5'
+import P5 from '../components/p5/p5'
 import { Link, graphql } from "gatsby"
 import { rhythm } from "../utils/typography"
 

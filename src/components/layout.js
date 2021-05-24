@@ -19,10 +19,9 @@ const ListLink = (props) => {
     return(
       <li>
         <Link to={props.to}>
-          <div className="aa">
+          <div className="aa" onClick={props.click}>
             <br/><br/>{props.children}<br/><br/>
           </div>
-          <hr/>
         </Link>
       </li>
     );
@@ -75,13 +74,20 @@ class Layout extends React.Component {
   constructor() {
     super();
     this.state = {
-      showMenu: false,
+      open: false,
     };
   }
   showMenu = () => {
+    document.getElementById('menu').style.height = '100%';
    this.setState(prevState => ({
-     showMenu: !prevState.showMenu
+     open: !prevState.open
    }))
+  }
+  closeMenu = () => {
+    document.getElementById('menu').style.height = '0%';
+    this.setState({
+ 			open: false,
+ 		});
   }
 
   render(){
@@ -90,27 +96,50 @@ class Layout extends React.Component {
           <title>{this.props.pageTitle}</title>
 
           {
-            this.state.showMenu
+            this.state.open
               ? (
-                  <div className="menu_mobile"
-                    ref={(element) => {
-                      this.dropdownMenu = element;
+
+                  <div className="menu_mobile" id='menu'>
+                  <FadeIn
+                    opacity={{
+                      start: 0,
+                      end: 1,
+                      stiffness: 120,
+                      damping: 17,
                     }}
                   >
                     <ul className='menu_mobile_list'>
-                      <ListLink to="/cv"            mobile={true}>CV</ListLink>
-                      <ListLink to="/artworks"      mobile={true}>ARTWORKS</ListLink>
-                      <ListLink to="/performances"  mobile={true}>PERFORMANCES</ListLink>
-                      <ListLink to="/projects"      mobile={true}>NEW MEDIA PROJECTS</ListLink>
-                      <ListLink to="/codearts"      mobile={true}>CREATIVE CODINGS</ListLink>
+                      <FadeIn x={{start: 20, end: 0, stiffness: 100, damping: 20,}}>
+                        <ListLink to="/cv"            mobile={true} click={this.closeMenu}>CV</ListLink>
+                      </FadeIn>
+                      <hr/>
+                      <FadeIn x={{start: 60, end: 0, stiffness: 100, damping: 20,}}>
+                        <ListLink to="/artworks"      mobile={true} click={this.closeMenu}>ARTWORKS</ListLink>
+                      </FadeIn>
+                      <hr/>
+                      <FadeIn x={{start: 100, end: 0, stiffness: 100, damping: 20,}}>
+                        <ListLink to="/performances"  mobile={true} click={this.closeMenu}>PERFORMANCES</ListLink>
+                      </FadeIn>
+                      <hr/>
+                      <FadeIn x={{start: 140, end: 0, stiffness: 100, damping: 20,}}>
+                        <ListLink to="/projects"      mobile={true} click={this.closeMenu}>NEW MEDIA PROJECTS</ListLink>
+                      </FadeIn>
+                      <hr/>
+                      <FadeIn x={{start: 180, end: 0, stiffness: 100, damping: 20,}}>
+                        <ListLink to="/codearts"      mobile={true} click={this.closeMenu}>CREATIVE CODINGS</ListLink>
+                      </FadeIn>
+                      <hr/>
                     </ul>
                     <Contact className='contact_mobile'/>
+                  </FadeIn>
                   </div>
+
                 )
                 : (
                   null
                   )
           }
+
 
           <div className='bar'>
             <Link to="/" className='title'>CHANG&nbsp;HSIN-YU</Link>

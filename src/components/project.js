@@ -1,6 +1,7 @@
 import React from 'react';
 import FadeIn from '../utils/fade-in';
 import Link from 'gatsby-link';
+import InlineBlock from 'react-inline-block';
 
 class Project extends React.Component {
   constructor() {
@@ -21,10 +22,8 @@ class Project extends React.Component {
   }
 	render() {
 		return (
-      <div>
-      <div className="project" onClick={this.show}>
-        <img src={this.props.img} style={{width:'100%'}} />
-      </div>
+      <InlineBlock className='project'>
+      <img className='project_img' src={this.props.img} style={{width:'100%'}} onClick={this.show}/>
       {
         this.state.open
           ? (
@@ -78,7 +77,7 @@ class Project extends React.Component {
               null
             )
       }
-      </div>
+      </InlineBlock>
 		);
 	}
 }

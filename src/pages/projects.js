@@ -3,6 +3,7 @@ import { Link, graphql } from "gatsby"
 import { rhythm } from "../utils/typography"
 import './projects.css';
 import ReactHtmlParser from 'react-html-parser';
+import InlineBlock from 'react-inline-block';
 import projects from './projects/projects.content';
 import Project from '../components/project';
 import Layout from '../components/layout'
@@ -24,11 +25,9 @@ const Projects = ({ data }) =>  (
           const node = findTitle(data.allMarkdownRemark.edges, p.title);
 				  const dest = node ? node.fields.slug : '';
           return (
-            <div>
               <Project
 									title={p.title}
 									position={p.position}
-									index={index}
 									year={p.year}
 									event={p.event}
 									location={p.location}
@@ -37,8 +36,6 @@ const Projects = ({ data }) =>  (
 									smlimg={p.smlimg}
 									to={dest}
 							/>
-              {index < projects.length - 1 ? '': ''}
-            </div>
 					);
         })}
       </div>

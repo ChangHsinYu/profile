@@ -1,14 +1,12 @@
 .project{
-  /* width:50%;
-  float: left; */
-  display:inline-block;
+  /* display:inline-block; */
   width:32%;
-  margin-left: 0;
+  margin-left: 1%;
   height:auto;
   margin-bottom:2%;
   float: none;
 }
-.project:hover{cursor: pointer;}
+.project_img:hover{cursor: pointer;}
 
 .project_dtl{
   position: fixed;
@@ -65,13 +63,13 @@
 
 @media screen and (min-width:800px){
   .project{
-    display:inline-block;
+    /* display:inline-block; */
     width:32%;
     height:auto;
     margin-bottom:20px;
     float: none;
   }
-  .project:hover{cursor: pointer;}
+  .project_img:hover{cursor: pointer;}
 
   .project_dtl{
     position: fixed;
@@ -88,7 +86,6 @@
   .project_dtlimg{
     width:50%;
     height: auto;
-    /* margin-left: 10%; */
     margin-top: 0px;
     float: left;
   }

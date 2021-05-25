@@ -1,8 +1,14 @@
+html{
+  font: 1rem/1.2 'Kumbh Sans', sans-serif;
+}
 body{
   font-family: 'Kumbh Sans', sans-serif;
   width:100%;
   margin:auto;
   overflow-x:hidden;
+}
+img{
+  margin: 0;
 }
 .work_main{
   top:0;
@@ -59,11 +65,11 @@ li{
 .title{
   text-decoration: none;
   color: #000000;
-  font-family: 'Kumbh Sans', sans-serif;
+  font-family: 1.2rem/'Kumbh Sans', sans-serif;
   font-weight:700;
   text-align: left;
   letter-spacing: 2px;
-  font-size: 1rem;
+  font-size: ;
   margin-top: 25px;
   margin-left: 5%;
   float: left;

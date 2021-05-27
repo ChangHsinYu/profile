@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link, graphql } from "gatsby"
+import { graphql } from "gatsby"
 import { rhythm } from "../utils/typography"
 import './artworks.css';
 import ReactHtmlParser from 'react-html-parser';
@@ -24,7 +24,7 @@ const Artworks = ({ data }) =>  (
           const node = findTitle(data.allMarkdownRemark.edges, p.title);
 				  const dest = node ? node.fields.slug : '';
           return (
-            <div>
+            <div key={p.title}>
               <Artwork title={p.title} index={index} category={p.category} year={p.year} img={p.img} to={dest}/>
               {index < artworks.length - 1 ? '': ''}
             </div>

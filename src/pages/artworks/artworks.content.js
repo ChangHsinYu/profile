@@ -5,7 +5,7 @@ import cyberfly from "./cyberfly/desc";
 import feeding from "./feeding/desc";
 import stairs from "./stairs/desc";
 import broken from "./broken/desc";
-import found from "./found/desc";
+import find from "./find/desc";
 
 export default [
   crossv2,
@@ -15,5 +15,5 @@ export default [
   feeding,
   stairs,
   broken,
-  found
+  find
 ];

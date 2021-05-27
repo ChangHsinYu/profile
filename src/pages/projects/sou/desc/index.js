@@ -1,8 +1,6 @@
 import img from '../img-0.png';
 import img1 from '../img-1.png';
 import img2 from '../img-2.png';
-import img3 from '../img-3.png';
-import img4 from '../img-4.png';
 
 export default {
 	title: '浮田舞影─邵族水沙連湖畔的夏夜杵歌',
@@ -27,7 +25,5 @@ export default {
 	smlimg:[
 		img1,
 		img2,
-		img3,
-		img4,
 	],
 };

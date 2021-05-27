@@ -1,0 +1,2 @@
+(self.webpackChunkprofile=self.webpackChunkprofile||[]).push([[513],{5756:function(t,e,i){"use strict";i.r(e),i.d(e,{default:function(){return n}});var n={title:"入眠自習",position:"Technical Design 技術設計",year:"2021",event:"99%的真實：馬維元、林哲志雙個展",location:"臺北數位藝術中心",others:"\n\t\t\t\t\t\t藝術家 : 馬維元 <br>\n\t\t\t\t ",img:i.p+"static/img-0-2bd345971babf2b0f91224c027db15bc.png",smlimg:[]}}}]);
+//# sourceMappingURL=component---src-pages-projects-sleep-desc-index-js-558f1e2ea284ca796007.js.map

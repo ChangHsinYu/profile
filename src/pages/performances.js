@@ -24,7 +24,7 @@ const Prfrmncs = ({ data }) =>  (
           const node = findTitle(data.allMarkdownRemark.edges, p.title);
 				  const dest = node ? node.fields.slug : '';
           return (
-            <div>
+            <div key={p.title}>
               <Artwork title={p.title} index={index} category={p.category} year={p.year} img={p.img} to={dest}/>
               {index < prfrmncs.length - 1 ? '': ''}
             </div>

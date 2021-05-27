@@ -1,0 +1,16 @@
+.creative{
+  margin-top:10px;
+  width:100%;
+  padding-left: 0px;
+}
+
+@media screen and (min-width:800px){
+  .creative{
+    display:inline-block;
+    width:49%;
+    height:auto;
+    margin-bottom:20px;
+    float: none;
+  }
+
+}

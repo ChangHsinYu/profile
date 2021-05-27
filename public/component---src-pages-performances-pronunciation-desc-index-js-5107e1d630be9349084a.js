@@ -1,0 +1,2 @@
+(self.webpackChunkprofile=self.webpackChunkprofile||[]).push([[232],{8312:function(e,i,c){"use strict";c.r(i),c.d(i,{default:function(){return r}});var r={title:"Pronunciation Exercise",category:"Audio visual performance",year:"2021",img:c.p+"static/img-0-d06ce5614430ac55def9eaefe473ce09.png"}}}]);
+//# sourceMappingURL=component---src-pages-performances-pronunciation-desc-index-js-5107e1d630be9349084a.js.map

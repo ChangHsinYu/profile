@@ -1,0 +1,2 @@
+(self.webpackChunkprofile=self.webpackChunkprofile||[]).push([[605],{8557:function(e,t,a){"use strict";a.r(t),a.d(t,{default:function(){return i}});var i={title:"x611b",category:"Sound installation",year:"2020",img:a.p+"static/img-0-7d43194bef440bce1e7ac2fe4e48bae2.png"}}}]);
+//# sourceMappingURL=component---src-pages-artworks-x-611-b-desc-index-js-9f267a4a1d52141218f5.js.map

@@ -7,7 +7,7 @@ export default function BlogPost({ data }) {
   const post = data.markdownRemark
   return (
     <Layout>
-    <div class="work_main">
+    <div className="work_main">
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
     </div>
     </Layout>

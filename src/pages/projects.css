@@ -1,9 +1,8 @@
 .project{
-  /* display:inline-block; */
   width:32%;
-  margin-left: 1%;
+  margin-left: 0;
   height:auto;
-  margin-bottom:2%;
+  margin-bottom:0.5%;
   float: none;
 }
 .project_img:hover{cursor: pointer;}
@@ -49,24 +48,22 @@
 .project_dtldiv{
   width:90%;
   float:left;
-  margin-bottom:20px;
   margin-left: 5%;
   text-align:justify;
 }
 .project_smlimg{
   display:inline-block;
   width:49%;
-  margin-top:1%;
+  margin-top:2%;
   height: auto;
   float: none;
 }
 
 @media screen and (min-width:800px){
   .project{
-    /* display:inline-block; */
-    width:32%;
+    width:24%;
     height:auto;
-    margin-bottom:20px;
+    margin-bottom:0.5%;
     float: none;
   }
   .project_img:hover{cursor: pointer;}
@@ -122,8 +119,8 @@
   .project_smlimg{
     display:inline-block;
     width:24.5%;
+    margin-top: 0;
     height: auto;
-    margin-top:20px;
     float: none;
   }
 

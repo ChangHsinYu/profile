@@ -1,7 +1,5 @@
 import React from 'react';
 import FadeIn from '../utils/fade-in';
-import Link from 'gatsby-link';
-import InlineBlock from 'react-inline-block';
 
 class Project extends React.Component {
   constructor() {
@@ -22,7 +20,7 @@ class Project extends React.Component {
   }
 	render() {
 		return (
-      <InlineBlock className='project'>
+      <div className='project'>
       <img className='project_img' src={this.props.img} style={{width:'100%'}} onClick={this.show}/>
       {
         this.state.open
@@ -67,9 +65,14 @@ class Project extends React.Component {
                     </div>
                     </FadeIn>
                   </div>
-                  <div className="project_dtldiv">
-                    <img className="project_smlimg" src={this.props.smlimg[0]}/> <img className="project_smlimg" src={this.props.smlimg[1]}/> <img className="project_smlimg" src={this.props.smlimg[2]}/> <img className="project_smlimg" src={this.props.smlimg[3]}/> <div className="project_smlimg"></div>
+                  <div className="project_dtldiv" style={{display:'flex', justifyContent:'space-between', flexWrap:'wrap'}}>
+                    {this.props.smlimg.map((p, index) => {
+                  	   return (
+                         <img className="project_smlimg" src={p} key={index}/>
+        						   );
+                	  })}
                   </div>
+                  <div className="project_dtldiv">&nbsp;&nbsp;</div>
                 </FadeIn>
               </div>
             )
@@ -77,7 +80,7 @@ class Project extends React.Component {
               null
             )
       }
-      </InlineBlock>
+      </div>
 		);
 	}
 }

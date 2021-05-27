@@ -1,0 +1,2 @@
+(self.webpackChunkprofile=self.webpackChunkprofile||[]).push([[758],{706:function(t,e,n){"use strict";n.r(e),n.d(e,{default:function(){return c}});var c={title:"顫弩的吟詠",position:"Electronic Sound Engineer 聲音工程",year:"2021",event:"陳裕禮擊樂畢業獨奏會",location:"北藝大舞蹈廳",others:"\n\t\t\t\t\t\t作品委託、演出者 : 陳裕禮 <br>\n\t\t\t\t\t\t作曲 : 王之筠 <br>\n\t\t\t\t\t\t聲音工程 : 張欣語 <br>\n\t\t\t\t ",img:n.p+"static/img-0-b52ce6908800f0ea745ac08c96f6cc3c.png",smlimg:[]}}}]);
+//# sourceMappingURL=component---src-pages-projects-ulai-desc-index-js-64c24aeb7c00fbae4efb.js.map

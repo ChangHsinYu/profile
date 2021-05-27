@@ -21,10 +21,11 @@ function findTitle(edges, title) {
 const Projects = ({ data }) =>  (
   <Layout>
       <div className="work_main">
-        {projects.map((p, index) => {
-          const node = findTitle(data.allMarkdownRemark.edges, p.title);
-				  const dest = node ? node.fields.slug : '';
-          return (
+				<div style={{width:'100%', display:'flex', justifyContent:'space-between', flexWrap:'wrap'}}>
+        	{projects.map((p, index) => {
+          	const node = findTitle(data.allMarkdownRemark.edges, p.title);
+				  	const dest = node ? node.fields.slug : '';
+          	return (
               <Project
 									title={p.title}
 									position={p.position}
@@ -35,9 +36,11 @@ const Projects = ({ data }) =>  (
 									img={p.img}
 									smlimg={p.smlimg}
 									to={dest}
+									key={p.title}
 							/>
-					);
-        })}
+						);
+        	})}
+				</div>
       </div>
   </Layout>
 );

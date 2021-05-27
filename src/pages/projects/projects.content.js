@@ -11,7 +11,8 @@ import nolight from "./nolight/desc";
 import sou from "./sou/desc";
 import train from "./train/desc";
 
-export default [
+const contents =
+[
   nccu,
   ulai,
   sleep,
@@ -23,5 +24,6 @@ export default [
   hysteria,
   nolight,
   sou,
-  train,
+  train
 ];
+export default contents;

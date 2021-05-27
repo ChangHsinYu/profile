@@ -3,7 +3,7 @@ import img1 from '../img-1.png';
 import img2 from '../img-2.png';
 import img3 from '../img-3.png';
 
-export default {
+const data = {
 	title: '車過枋寮-余光中音樂劇',
 	position: 'Projection Design 影像設計',
 	year: '2019',
@@ -40,3 +40,4 @@ export default {
 		img3,
 	],
 };
+export default data;

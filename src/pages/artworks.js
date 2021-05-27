@@ -1,8 +1,6 @@
 import React from 'react';
 import { graphql } from "gatsby"
-import { rhythm } from "../utils/typography"
 import './artworks.css';
-import ReactHtmlParser from 'react-html-parser';
 import artworks from './artworks/artworks.content';
 import Artwork from '../components/artwork';
 import Layout from '../components/layout'

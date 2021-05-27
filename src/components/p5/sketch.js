@@ -1,24 +1,22 @@
 export default function Sketch(p5) {
-  let canvas;
-
-  var ballNum = 10;
-  var ballSize = 15;
-  var ballX = [];
-  var ballY = [];
-  var ballZ = [];
-  var ballTh = [];
-  var ballPh = [];
-  var thSpeed = [];
-  var phSpeed = [];
-  var rad = 0;
+  let ballNum = 10;
+  let ballSize = 15;
+  let ballX = [];
+  let ballY = [];
+  let ballZ = [];
+  let ballTh = [];
+  let ballPh = [];
+  let thSpeed = [];
+  let phSpeed = [];
+  let rad = 0;
 
   p5.setup = () => {
     if(window.innerWidth>800){
-      canvas = p5.createCanvas(window.innerWidth*2/3, window.innerHeight*2/3, p5.WEBGL);
+      p5.createCanvas(window.innerWidth*2/3, window.innerHeight*2/3, p5.WEBGL);
       ballSize = p5.canvas.width/20;
     }
     else{
-      canvas = p5.createCanvas(window.innerWidth, window.innerHeight*0.7, p5.WEBGL);
+      p5.createCanvas(window.innerWidth, window.innerHeight*0.7, p5.WEBGL);
       ballSize = p5.canvas.height/15;
     }
     p5.noStroke();

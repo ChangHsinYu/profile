@@ -21,7 +21,7 @@ class Project extends React.Component {
 	render() {
 		return (
       <div className='project'>
-      <img className='project_img' src={this.props.img} style={{width:'100%'}} onClick={this.show}/>
+      <button onClick={this.show}><img className='project_img' src={this.props.img} style={{width:'100%'}} alt="my project"/></button>
       {
         this.state.open
           ? (
@@ -35,7 +35,7 @@ class Project extends React.Component {
                   }}
                 >
                   <div className="project_bar">
-                    <div className="project_bk" onClick={this.close}>back</div>
+                    <button className="project_bk" onClick={this.close}>back</button>
                   </div>
                   <div className="project_dtldiv">
                     <FadeIn opacity={{
@@ -45,7 +45,7 @@ class Project extends React.Component {
                               damping: 20,}}
                     >
                       <div className="project_dtlimg">
-                        <img src={this.props.img} style={{width:'100%'}} />
+                        <img src={this.props.img} style={{width:'100%'}} alt="my project"/>
                       </div>
                     </FadeIn>
                     <FadeIn opacity={{
@@ -68,7 +68,7 @@ class Project extends React.Component {
                   <div className="project_dtldiv" style={{display:'flex', justifyContent:'space-between', flexWrap:'wrap'}}>
                     {this.props.smlimg.map((p, index) => {
                   	   return (
-                         <img className="project_smlimg" src={p} key={index}/>
+                         <img className="project_smlimg" src={p} key={index} alt="others"/>
         						   );
                 	  })}
                   </div>

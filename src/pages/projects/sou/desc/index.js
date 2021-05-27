@@ -2,7 +2,7 @@ import img from '../img-0.png';
 import img1 from '../img-1.png';
 import img2 from '../img-2.png';
 
-export default {
+const data = {
 	title: '浮田舞影─邵族水沙連湖畔的夏夜杵歌',
 	position: 'Projection Design 影像設計',
 	year: '2019',
@@ -27,3 +27,4 @@ export default {
 		img2,
 	],
 };
+export default data;

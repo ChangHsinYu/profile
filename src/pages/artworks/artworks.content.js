@@ -7,7 +7,8 @@ import stairs from "./stairs/desc";
 import broken from "./broken/desc";
 import find from "./find/desc";
 
-export default [
+const contents =
+[
   crossv2,
   cross,
   x611b,
@@ -17,3 +18,4 @@ export default [
   broken,
   find
 ];
+export default contents;

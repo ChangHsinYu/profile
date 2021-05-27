@@ -1,6 +1,6 @@
 import img from '../img-0.png';
 
-export default {
+const data = {
 	title: '顫弩的吟詠',
 	position: 'Electronic Sound Engineer 聲音工程',
 	year: '2021',
@@ -15,3 +15,4 @@ export default {
 	smlimg:[
 	],
 };
+export default data;

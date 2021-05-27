@@ -6,15 +6,14 @@ import img4 from './img-4.jpg';
 import img5 from './img-5.jpg';
 import img6 from './img-6.jpg';
 
+const contents = [
+  img6,
+  img5,
+  img4,
+  img3,
+  img2,
+  img1,
+  img0
+];
 
-export default{
-  img:[
-    img6,
-    img5,
-    img4,
-    img3,
-    img2,
-    img1,
-    img0,
-  ]
-};
+export default contents;

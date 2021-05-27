@@ -1,6 +1,6 @@
 import img from '../img-0.png';
 
-export default {
+const data = {
 	title: '後花園-科技與音樂跨域實驗劇場',
 	position: 'Electronic Sound Design, Installation Design 電聲設計 裝置設計',
 	year: '2020',
@@ -20,3 +20,4 @@ export default {
 	smlimg:[
 	],
 };
+export default data;

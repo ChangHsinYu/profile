@@ -4,7 +4,7 @@ import img2 from '../img-2.png';
 import img3 from '../img-3.png';
 import img4 from '../img-4.png';
 
-export default {
+const data = {
 	title: '政大音樂節',
 	position: 'Video Design 影像設計',
 	year: '2021',
@@ -22,3 +22,4 @@ export default {
 		img4,
 	],
 };
+export default data;

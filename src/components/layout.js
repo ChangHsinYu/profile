@@ -19,9 +19,9 @@ const ListLink = (props) => {
     return(
       <li>
         <Link to={props.to}>
-          <div className="aa" onClick={props.click}>
+          <button className="aa" onClick={props.click}>
             <br/><br/>{props.children}<br/><br/>
-          </div>
+          </button>
         </Link>
       </li>
     );
@@ -40,8 +40,8 @@ const ListLink = (props) => {
 const Icon = (props) =>{
   return(
     <li style={{display:`inline`}}>
-      <a href={props.href} target="_blank">
-        <img src={props.icon} className="icon" />
+      <a href={props.href} target="_blank" rel="noreferrer">
+        <img src={props.icon} className="icon" alt="icon"/>
       </a>
     </li>
   );
@@ -157,9 +157,9 @@ class Layout extends React.Component {
 
           <div className='bar'>
             <Link to="/" className='title'>CHANG&nbsp;HSIN-YU</Link>
-            <div className='menu_icon' onClick={this.onClick}>
-              <img src={menuicon} style={{width:'100%'}} />
-            </div>
+            <button className='menu_icon' onClick={this.onClick}>
+              <img src={menuicon} style={{width:'100%'}} alt="menu icon"/>
+            </button>
             <ul className='menu'>
               <ListLink to="/cv"            mobile={false}>CV</ListLink>
               <ListLink to="/artworks"      mobile={false}>ARTWORKS</ListLink>

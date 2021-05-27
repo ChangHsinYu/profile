@@ -1,6 +1,6 @@
 import img from '../img-0.png';
 
-export default {
+const data = {
 	title: '入眠自習',
 	position: 'Technical Design 技術設計',
 	year: '2021',
@@ -13,3 +13,4 @@ export default {
 	smlimg:[
 	],
 };
+export default data;

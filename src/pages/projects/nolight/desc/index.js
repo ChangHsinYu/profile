@@ -4,7 +4,7 @@ import img2 from '../img-2.png';
 import img3 from '../img-3.png';
 import img4 from '../img-4.png';
 
-export default {
+const data = {
 	title: '無光風景-NTT TIFA駐館藝術家王連晟創作',
 	position: 'New Media Art Design 新媒體藝術設計',
 	year: '2020',
@@ -53,3 +53,5 @@ export default {
 		img4,
 	],
 };
+
+export default data;

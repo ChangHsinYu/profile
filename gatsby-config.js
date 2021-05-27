@@ -9,6 +9,7 @@ module.exports = {
     `gatsby-transformer-remark`,
     `gatsby-plugin-emotion`,
     `gatsby-plugin-sharp`,
+    `gatsby-transformer-javascript-static-exports`,
 
     {
       resolve: `gatsby-plugin-typography`,

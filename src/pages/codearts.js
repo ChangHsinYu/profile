@@ -1,32 +1,18 @@
 import React from 'react';
-import { Link, graphql } from "gatsby"
-import { rhythm } from "../utils/typography"
+import { graphql } from "gatsby"
 import './codearts.css';
-import ReactHtmlParser from 'react-html-parser';
 import codearts from './codearts/codearts.content';
 import Layout from '../components/layout'
-
-function findTitle(edges, title) {
-	for (let i = 0; i < edges.length; i += 1) {
-		const { node } = edges[i];
-		if (node.frontmatter.title && node.frontmatter.title === title) {
-			return node;
-		}
-	}
-	return 0;
-}
 
 const Codearts = ({ data }) =>  (
       <Layout>
       	<div className="work_main">
 					<div style={{display:'flex', justifyContent:'space-between', flexWrap:'wrap'}}>
-        		{codearts.img.map((p, index) => {
-          		const node = findTitle(data.allMarkdownRemark.edges, p.title);
-				  		const dest = node ? node.fields.slug : '';
+        		{codearts.map((p, index) => {
           		return (
             		<div className="creative" key={index}>
-									<img style={{width:'100%'}} src={p} />
-              		{index < codearts.img.length - 1 ? '': ''}
+									<img style={{width:'100%'}} src={p} alt="generative"/>
+              		{index < codearts.length - 1 ? '': ''}
             		</div>
 				          	);
         		})}

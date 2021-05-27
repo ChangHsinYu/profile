@@ -1,6 +1,6 @@
 import img from '../img-0.png';
 
-export default {
+const data = {
 	title: '歇斯底里的房間',
 	position: 'Projection Design, Sound Design 影像設計 聲音設計',
 	year: '2020',
@@ -21,3 +21,4 @@ export default {
 	smlimg:[
 	],
 };
+export default data;

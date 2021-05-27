@@ -10,6 +10,14 @@ body{
 img{
   margin: 0;
 }
+button{
+  background-color: Transparent;
+  background-repeat:no-repeat;
+  border: none;
+  cursor:pointer;
+  overflow: hidden;
+  padding: 0;
+}
 .work_main{
   top:0;
   font-family: 'Kumbh Sans', sans-serif;

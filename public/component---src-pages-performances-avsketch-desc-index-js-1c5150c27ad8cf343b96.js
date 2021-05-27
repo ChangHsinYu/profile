@@ -1,0 +1,2 @@
+(self.webpackChunkprofile=self.webpackChunkprofile||[]).push([[7899],{6187:function(e,c,a){"use strict";a.r(c),a.d(c,{default:function(){return i}});var i={title:"Sketch of Audio Visual",category:"Audio visual performance",year:"2020",img:a.p+"static/img-0-41c791b3a25633aec38c3c6ed0ae3cdb.png"}}}]);
+//# sourceMappingURL=component---src-pages-performances-avsketch-desc-index-js-1c5150c27ad8cf343b96.js.map

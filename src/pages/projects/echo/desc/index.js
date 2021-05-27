@@ -1,6 +1,6 @@
 import img from '../img-0.png';
 
-export default {
+const data = {
 	title: '貴人散步音樂節',
 	position: 'Visual Code Design 影像程式設計',
 	year: '2020',
@@ -13,3 +13,4 @@ export default {
 	smlimg:[
 	],
 };
+export default data;

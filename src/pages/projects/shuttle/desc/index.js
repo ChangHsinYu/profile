@@ -1,6 +1,6 @@
 import img from '../img-0.png';
 
-export default {
+const data = {
 	title: '異日方梭',
 	position: 'Projection Design 影像設計',
 	year: '2020',
@@ -21,3 +21,5 @@ export default {
 	smlimg:[
 	],
 };
+
+export default data;

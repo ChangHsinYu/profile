@@ -1,7 +1,6 @@
 import React from 'react';
 import { graphql } from "gatsby"
 import './artworks.css';
-// import prfrmncs from './performances/performances.content';
 import Artwork from '../components/artwork';
 import Layout from '../components/layout'
 

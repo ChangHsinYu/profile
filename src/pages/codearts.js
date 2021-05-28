@@ -1,8 +1,25 @@
+import img0 from './codearts/img-0.jpg';
+import img1 from './codearts/img-1.jpg';
+import img2 from './codearts/img-2.jpg';
+import img3 from './codearts/img-3.jpg';
+import img4 from './codearts/img-4.jpg';
+import img5 from './codearts/img-5.jpg';
+import img6 from './codearts/img-6.jpg';
+
 import React from 'react';
 import { graphql } from "gatsby"
 import './codearts.css';
-import codearts from './codearts/codearts.content';
 import Layout from '../components/layout'
+
+const codearts = [
+  img6,
+  img5,
+  img4,
+  img3,
+  img2,
+  img1,
+  img0
+];
 
 const Codearts = ({ data }) =>  (
       <Layout>

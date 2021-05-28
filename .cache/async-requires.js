@@ -5,7 +5,6 @@ exports.components = {
   "component---cache-dev-404-page-js": () => import("./../../dev-404-page.js" /* webpackChunkName: "component---cache-dev-404-page-js" */),
   "component---src-pages-404-js": () => import("./../../../src/pages/404.js" /* webpackChunkName: "component---src-pages-404-js" */),
   "component---src-pages-artworks-js": () => import("./../../../src/pages/artworks.js" /* webpackChunkName: "component---src-pages-artworks-js" */),
-  "component---src-pages-codearts-codearts-content-js": () => import("./../../../src/pages/codearts/codearts.content.js" /* webpackChunkName: "component---src-pages-codearts-codearts-content-js" */),
   "component---src-pages-codearts-js": () => import("./../../../src/pages/codearts.js" /* webpackChunkName: "component---src-pages-codearts-js" */),
   "component---src-pages-cv-js": () => import("./../../../src/pages/cv.js" /* webpackChunkName: "component---src-pages-cv-js" */),
   "component---src-pages-index-js": () => import("./../../../src/pages/index.js" /* webpackChunkName: "component---src-pages-index-js" */),

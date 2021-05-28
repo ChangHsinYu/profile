@@ -10,13 +10,13 @@ export default function BlogPost({ data }) {
   return (
     <Layout>
     <div className="work_main">
-        <GatsbyImage image={featuredImg} layout="fullWidth" style={{width:'100%'}}/>
+        <GatsbyImage image={featuredImg} layout="fullWidth" style={{width:'100%'}} alt='artwork'/>
 
-        <div class="ttlbox">
-          <div class="ttl">
+        <div className="ttlbox">
+          <div className="ttl">
               {post.frontmatter.title}
           </div>
-          <div class="inf">
+          <div className="inf">
               {post.frontmatter.category}<br />
               {post.frontmatter.date}
           </div>

@@ -6,7 +6,9 @@
 
 .work_img{
   width:100%;
-  margin-bottom:0;
+  height: auto;
+  aspect-ratio: 8/5;
+  margin-bottom:10px;
 }
 
 .work_inf_mobile{
@@ -33,6 +35,9 @@
   .work_img{
     margin-left: 0;
     width:45%;
+    height: auto;
+    aspect-ratio: 8/5;
+    margin-bottom:0;
     float:left;
   }
   .work_inf_mobile{

@@ -1,9 +1,19 @@
 import React from 'react';
 import { graphql } from "gatsby"
 import './artworks.css';
-import artworks from './artworks/artworks.content';
 import Artwork from '../components/artwork';
 import Layout from '../components/layout'
+
+const artworks = [
+	`Cross (v2)`,
+	`Cross`,
+	`x611b`,
+	`Cyberfly`,
+	`Feeding`,
+	`No Name`,
+	`Broken`,
+	`Couldn't Find`,
+];
 
 function findTitle(edges, title) {
 	for (let i = 0; i < edges.length; i += 1) {
@@ -19,11 +29,20 @@ const Artworks = ({ data }) =>  (
       <Layout>
       <div className="work_main">
         {artworks.map((p, index) => {
-          const node = findTitle(data.allMarkdownRemark.edges, p.title);
+          const node = findTitle(data.allMarkdownRemark.edges, p);
 				  const dest = node ? node.fields.slug : '';
+					// const img = node.frontmatter.featuredImage.childImageSharp.gatsbyImageData.images.fallback.src;
+					const img = node.frontmatter.featuredImage.childImageSharp.gatsbyImageData;
           return (
-            <div key={node.frontmatter.title}>
-              <Artwork title={node.frontmatter.title} index={index} category={node.frontmatter.category} year={node.frontmatter.date} img={p.img} to={dest}/>
+            <div key={p}>
+              <Artwork
+												title={node.frontmatter.title}
+												category={node.frontmatter.category}
+												date={node.frontmatter.date}
+												img={img}
+												to={dest}
+												index={index}
+							/>
               {index < artworks.length - 1 ? '': ''}
             </div>
 				          );
@@ -47,7 +66,7 @@ export const query = graphql`
 		        category
 						featuredImage {
 		          childImageSharp {
-		            gatsbyImageData(layout: FULL_WIDTH)
+		            gatsbyImageData
 		          }
 		        }
           }

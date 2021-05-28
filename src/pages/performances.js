@@ -23,7 +23,7 @@ const Prfrmncs = ({ data }) =>  (
 				  const dest = node ? node.fields.slug : '';
           return (
             <div key={p.title}>
-              <Artwork title={p.title} index={index} category={p.category} year={p.year} img={p.img} to={dest}/>
+              <Artwork title={node.frontmatter.title} index={index} category={node.frontmatter.category} year={node.frontmatter.date} img={p.img} to={dest}/>
               {index < prfrmncs.length - 1 ? '': ''}
             </div>
 				          );
@@ -42,7 +42,14 @@ export const query = graphql`
         node {
           id
           frontmatter {
-            title
+						title
+		        date
+		        category
+						featuredImage {
+		          childImageSharp {
+		            gatsbyImageData(layout: FULL_WIDTH)
+		          }
+		        }
           }
           fields {
             slug

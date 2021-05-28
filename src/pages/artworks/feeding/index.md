@@ -1,19 +1,9 @@
 ---
 title: "Feeding"
+date: '2020'
+category: 'Sound installation'
+featuredImage: img0.jpg
 ---
-
-<img class="img" src="./img0.jpg">
-<div class="ttlbox">
-  <div class="ttl">
-    Feeding
-  </div>
-  <div class="inf">
-    Sound installation<br>
-    2020
-  </div>
-</div>
-
-
 <div class="box">
   <div class="dscrptn">
     Feeding is a sound installation work. There are eight units in the space. Each unit consists of a metal sculpture of a fishing rod, a condenser microphone, a speaker and a volume sensor. When the volume is too low, the string will relax so that the microphone will drop close to the speaker, and if the sound is too loud, it will rise away from the speaker to form a state of looking for balance.<br>

@@ -1,19 +1,9 @@
 ---
 title: "Couldn't Find"
+date: '2018'
+category: 'Installation'
+featuredImage: img-0.png
 ---
-
-<img class="img" src="./img-0.png">
-<div class="ttlbox">
-  <div class="ttl">
-    Couldn't Find
-  </div>
-  <div class="inf">
-    Video<br>
-    2019
-  </div>
-</div>
-
-
 <div class="box">
     <div class="dscrptn">
     </div>

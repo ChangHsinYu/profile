@@ -6,10 +6,11 @@ module.exports = {
 
   plugins: [
     `gatsby-plugin-gatsby-cloud`,
-    `gatsby-transformer-remark`,
     `gatsby-plugin-emotion`,
     `gatsby-plugin-sharp`,
-    `gatsby-transformer-javascript-static-exports`,
+    `gatsby-plugin-image`,
+    `gatsby-transformer-remark`,
+    `gatsby-transformer-sharp`,
 
     {
       resolve: `gatsby-plugin-typography`,
@@ -35,13 +36,6 @@ module.exports = {
         path: `${__dirname}/src/`,
       },
     },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        name: `pages`,
-        path: `${__dirname}/src/pages`,
-      },
-    },
 
     {
   			resolve: 'gatsby-transformer-remark',
@@ -56,7 +50,6 @@ module.exports = {
   				],
   			},
   		},
-
   ],
 
 };

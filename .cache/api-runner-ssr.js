@@ -1,4 +1,8 @@
 var plugins = [{
+      name: 'gatsby-plugin-image',
+      plugin: require('/Users/eddy/Documents/profile/node_modules/gatsby-plugin-image/gatsby-ssr'),
+      options: {"plugins":[]},
+    },{
       name: 'gatsby-plugin-typography',
       plugin: require('/Users/eddy/Documents/profile/node_modules/gatsby-plugin-typography/gatsby-ssr'),
       options: {"plugins":[],"pathToConfigModule":"src/utils/typography"},

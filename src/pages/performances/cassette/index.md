@@ -1,19 +1,9 @@
 ---
 title: "Memory Noise"
+date: '2021'
+category: 'Sound performance'
+featuredImage: img-0.png
 ---
-
-  <img class="img" src="./img-0.png">
-  <div class="ttlbox">
-    <div class="ttl">
-        Memory Noise
-    </div>
-    <div class="inf">
-        Sound performance<br>
-        2021
-    </div>
-  </div>
-
-
   <div class="box">
       <div class="dscrptn">
       </div>

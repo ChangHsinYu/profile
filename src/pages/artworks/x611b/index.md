@@ -1,19 +1,9 @@
 ---
 title: "x611b"
+date: '2020'
+category: 'Sound installation'
+featuredImage: img0.jpg
 ---
-
-<img class="img" src="./img0.jpg">
-<div class="ttlbox">
-  <div class="ttl">
-      x611b
-  </div>
-  <div class="inf">
-      Sound installation<br>
-      2020
-  </div>
-</div>
-
-
 <div class="box">
     <div class="dscrptn">
       UTF-8 (8-bit Unicode Transformation Format) is now the most important character encoding format on the Internet. UTF-8 encoding is used when storing or sending text using e-mail, web pages or dating software. I used UTF-8 to encode and convert the articles and message discussions in the sex board and the love board of Internet forums PTT(well-known Internet forums in Taiwan) into binary signals. These binary signals were used as the basis for the speaker to be powered on and off, and a series of click sounds were emitted. Although the sentences are full of strong emotions, the process of encoding is like deconstructing these words and emptying their own meaning.<br>

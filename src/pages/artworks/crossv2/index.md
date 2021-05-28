@@ -1,18 +1,9 @@
 ---
 title: "Cross (v2)"
+date: '2021'
+category: 'Sound installation'
+featuredImage: img0.jpg
 ---
-  <img class="img" src="./img0.jpg">
-  <div class="ttlbox">
-    <div class="ttl">
-        Cross (v2)
-    </div>
-    <div class="inf">
-        Sound installation<br>
-        2021
-    </div>
-  </div>
-
-
   <div class="box">
       <div class="dscrptn">
       "Cross" is a sound installation work. I continue my previous creation and start from the wrong sound experiment. This time I want to advance the sound I experimented with the work "Feeding" last year, create another more complex sound feedback system, and try to use sculptures to create a state of flying and jumping to imply the relationship between receiving, amplifying and the state of sound transmission in space.<br>

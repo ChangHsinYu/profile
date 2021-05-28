@@ -1,19 +1,9 @@
 ---
 title: "Cyberfly"
+date: '2020'
+category: 'Sound installation'
+featuredImage: img0.jpg
 ---
-
-  <img class="img" src="./img0.jpg">
-  <div class="ttlbox">
-    <div class="ttl">
-        Cyberfly
-    </div>
-    <div class="inf">
-        Sound installation<br>
-        2020
-    </div>
-  </div>
-
-
   <div class="box">
       <div class="dscrptn">
       </div>

@@ -1,5 +1,6 @@
 import React from 'react';
 import FadeIn from '../utils/fade-in';
+import { GatsbyImage } from "gatsby-plugin-image";
 
 class Project extends React.Component {
   constructor() {
@@ -21,7 +22,9 @@ class Project extends React.Component {
 	render() {
 		return (
       <div className='project'>
-      <button onClick={this.show}><img className='project_img' src={this.props.img} style={{width:'100%'}} alt="my project"/></button>
+      <button onClick={this.show} className='project_img'>
+          <GatsbyImage image={this.props.img} style={{width:'100%', height:'100%'}} alt='project'/>
+      </button>
       {
         this.state.open
           ? (
@@ -45,7 +48,7 @@ class Project extends React.Component {
                               damping: 20,}}
                     >
                       <div className="project_dtlimg">
-                        <img src={this.props.img} style={{width:'100%'}} alt="my project"/>
+                        <GatsbyImage image={this.props.img} style={{width:'100%', height:'100%'}} alt='project'/>
                       </div>
                     </FadeIn>
                     <FadeIn opacity={{
@@ -57,18 +60,20 @@ class Project extends React.Component {
                     <div className="project_dtlinf">
                       {this.props.title}&nbsp;&nbsp;|&nbsp;&nbsp;{this.props.position}<br />
                       <br />
-                      時間 : {this.props.year}<br />
+                      時間 : {this.props.date}<br />
                       活動 : {this.props.event}<br />
                       地點 : {this.props.location}<br />
                       <br />
-                      {this.props.others}
+                      {this.props.discription}
                     </div>
                     </FadeIn>
                   </div>
                   <div className="project_dtldiv" style={{display:'flex', justifyContent:'space-between', flexWrap:'wrap'}}>
                     {this.props.smlimg.map((p, index) => {
                   	   return (
-                         <img className="project_smlimg" src={p} key={index} alt="others"/>
+                         <div className="project_smlimg">
+                              <GatsbyImage image={p.childImageSharp.gatsbyImageData} style={{width:'100%', height:'100%'}} alt='project'/>
+                         </div>
         						   );
                 	  })}
                   </div>

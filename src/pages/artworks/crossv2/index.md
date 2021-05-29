@@ -1,7 +1,7 @@
 ---
 title: "Cross (v2)"
-date: '2021'
-category: 'Sound installation'
+date: "2021"
+category: "Sound installation"
 featuredImage: img0.jpg
 ---
   <div class="box">

@@ -5,14 +5,14 @@ import Artwork from '../components/artwork';
 import Layout from '../components/layout'
 
 const artworks = [
-	`Cross (v2)`,
-	`Cross`,
-	`x611b`,
-	`Cyberfly`,
-	`Feeding`,
-	`No Name`,
-	`Broken`,
-	`Couldn't Find`,
+	"Cross (v2)",
+	"Cross",
+	"x611b",
+	"Cyberfly",
+	"Feeding",
+	"No Name",
+	"Broken",
+	"Couldn't Find",
 ];
 
 function findTitle(edges, title) {
@@ -31,7 +31,6 @@ const Artworks = ({ data }) =>  (
         {artworks.map((p, index) => {
           const node = findTitle(data.allMarkdownRemark.edges, p);
 				  const dest = node ? node.fields.slug : '';
-					// const img = node.frontmatter.featuredImage.childImageSharp.gatsbyImageData.images.fallback.src;
 					const img = node.frontmatter.featuredImage.childImageSharp.gatsbyImageData;
           return (
             <div key={p}>

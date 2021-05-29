@@ -1,7 +1,7 @@
 ---
 title: "Feeding"
-date: '2020'
-category: 'Sound installation'
+date: "2020"
+category: "Sound installation"
 featuredImage: img0.jpg
 ---
 <div class="box">

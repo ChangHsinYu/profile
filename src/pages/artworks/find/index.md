@@ -1,7 +1,7 @@
 ---
 title: "Couldn't Find"
-date: '2018'
-category: 'Installation'
+date: "2018"
+category: "Installation"
 featuredImage: img-0.png
 ---
 <div class="box">

@@ -43,6 +43,7 @@
     "react-motion": "^0.5.2",
     "react-p5-wrapper": "^2.4.0",
     "react-typography": "^0.16.20",
+    "sharp": "^0.28.3",
     "typography": "^0.16.21",
     "typography-theme-kirkham": "^0.16.19"
   }

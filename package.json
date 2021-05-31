@@ -29,6 +29,7 @@
     "gatsby-plugin-mdx": "^2.5.1",
     "gatsby-plugin-nprogress": "^3.6.0",
     "gatsby-plugin-sharp": "^3.6.0",
+    "gatsby-plugin-sitemap": "^4.2.0",
     "gatsby-plugin-typography": "^3.5.0",
     "gatsby-remark-images": "^5.2.1",
     "gatsby-source-filesystem": "^3.5.0",

@@ -2,9 +2,11 @@ module.exports = {
 
   siteMetadata: {
     title: "profile",
+    siteUrl: `https://www.hsiinyu.com`,
   },
 
   plugins: [
+    `gatsby-plugin-sitemap`,
     `gatsby-plugin-gatsby-cloud`,
     `gatsby-plugin-emotion`,
     `gatsby-plugin-sharp`,

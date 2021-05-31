@@ -1,0 +1,2 @@
+(self.webpackChunkprofile=self.webpackChunkprofile||[]).push([[4115],{5815:function(e,r,t){"use strict";t.r(r),t.d(r,{default:function(){return a}});var a={title:"Memory Noise",category:"Sound performance",year:"2021",img:t.p+"static/img-0-662c048ae6213df347ad6b607d6385d8.png"}}}]);
+//# sourceMappingURL=component---src-pages-performances-cassette-desc-index-js-63a202b735e88d26c5cd.js.map

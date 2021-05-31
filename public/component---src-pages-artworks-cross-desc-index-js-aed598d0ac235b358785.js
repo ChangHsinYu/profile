@@ -1,0 +1,2 @@
+(self.webpackChunkprofile=self.webpackChunkprofile||[]).push([[773],{4291:function(a,e,t){"use strict";t.r(e),t.d(e,{default:function(){return f}});var f={title:"Cross",category:"Sound installation",year:"2021",img:t.p+"static/img-0-7b78f6fa3d5ca5cfe8ab1b5aa8fbf7a3.png"}}}]);
+//# sourceMappingURL=component---src-pages-artworks-cross-desc-index-js-aed598d0ac235b358785.js.map

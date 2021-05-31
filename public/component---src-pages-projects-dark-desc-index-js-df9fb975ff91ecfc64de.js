@@ -1,0 +1,2 @@
+(self.webpackChunkprofile=self.webpackChunkprofile||[]).push([[105],{7218:function(t,n,e){"use strict";e.r(n),e.d(n,{default:function(){return i}});var i={title:"闇物種",position:"Projection Design 影像設計",year:"2020",event:"桃園科技文化城x文策院聯合記者會",location:"松菸文創園區",others:"\n\t\t\t\t\t舞者 : 彭若寧 <br>\n\t\t\t\t\t音樂 : 胡哲豪 <br>\n\t\t\t\t\t影像 : 張欣語 <br>\n\t\t\t\t\tPhoto by 胡哲豪 <br>\n\t\t\t\t ",img:e.p+"static/img-0-d4f9266ba8d40bd8d7e8a46a157f7dc8.png",smlimg:[]}}}]);
+//# sourceMappingURL=component---src-pages-projects-dark-desc-index-js-df9fb975ff91ecfc64de.js.map

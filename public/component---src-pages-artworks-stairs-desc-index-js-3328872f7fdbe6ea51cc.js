@@ -1,0 +1,2 @@
+(self.webpackChunkprofile=self.webpackChunkprofile||[]).push([[587],{8612:function(e,t,c){"use strict";c.r(t),c.d(t,{default:function(){return r}});var r={title:"No Name",category:"Sculpture",year:"2019",img:c.p+"static/img-0-efc78e5b916001db8d441e26dc516f5b.png"}}}]);
+//# sourceMappingURL=component---src-pages-artworks-stairs-desc-index-js-3328872f7fdbe6ea51cc.js.map

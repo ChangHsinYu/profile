@@ -1,1 +1,0 @@
-module.exports = require("/Users/eddy/Documents/profile/src/utils/typography")

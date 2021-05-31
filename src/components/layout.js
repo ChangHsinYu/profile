@@ -1,7 +1,6 @@
 import React from 'react';
 import { Link } from 'gatsby'
 import FadeIn from '../utils/fade-in';
-import Loadable from 'react-loading-overlay';
 import './layout.css';
 import fbicon from '../icon/fb.png';
 import mailicon from '../icon/mail.png';
@@ -177,14 +176,7 @@ class Layout extends React.Component {
     						damping: 5,
               }}
             >
-            <Loadable
-              background="rgba(200, 200, 200, 1)"
-              style={{ height: '100%' }}
-              active={this.state.loading}
-              spinner
-            >
               {this.props.children}
-            </Loadable>
           </FadeIn>
           <Foot />
         </main>

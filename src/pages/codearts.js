@@ -7,7 +7,6 @@ import img5 from './codearts/img-5.jpg';
 import img6 from './codearts/img-6.jpg';
 
 import React from 'react';
-import { graphql } from "gatsby"
 import './codearts.css';
 import Layout from '../components/layout'
 
@@ -40,23 +39,3 @@ const Codearts = ({ data }) =>  (
 );
 
 export default Codearts;
-
-export const query = graphql`
-  query {
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
-      totalCount
-      edges {
-        node {
-          id
-          frontmatter {
-            title
-          }
-          fields {
-            slug
-          }
-          excerpt
-        }
-      }
-    }
-  }
-`

@@ -4,6 +4,7 @@ const preferDefault = m => (m && m.default) || m
 
 
 exports.components = {
+  "component---cache-dev-404-page-js": preferDefault(require("/Users/eddy/Documents/profile/.cache/dev-404-page.js")),
   "component---src-pages-404-js": preferDefault(require("/Users/eddy/Documents/profile/src/pages/404.js")),
   "component---src-pages-artworks-js": preferDefault(require("/Users/eddy/Documents/profile/src/pages/artworks.js")),
   "component---src-pages-codearts-js": preferDefault(require("/Users/eddy/Documents/profile/src/pages/codearts.js")),

@@ -7,7 +7,7 @@ featuredImage: img0.jpg
   <div class="box">
       <div class="dscrptn">
       "Cross" is a sound installation work. I continue my previous creation and start from the wrong sound experiment. This time I want to advance the sound I experimented with the work "Feeding" last year, create another more complex sound feedback system, and try to use sculptures to create a state of flying and jumping to imply the relationship between receiving, amplifying and the state of sound transmission in space.<br>
-      The way the sound works this time is that there are four sets of microphones and speakers (here called ABCD) statically placed in the space. A microphone receives the sound amplified by the A speaker and transmits the sound to the B speaker. After the B microphone receives the sound amplified by the B speaker It will be transmitted to the C speaker, and so on. Finally, the sound received by the D microphone will be sent back to the A speaker, thereby forming a feedback that has undergone four deformations (the volume and frequency of the sound will be different in each different single speaker. ) .Unpredictable sound is formed due to the deformation of feedback, space (space affects the reflection of sound) and the intervention of the viewer.<br>
+      The way the sound works this time is that there are four sets of microphones and speakers (here called ABCD) statically placed in the space. The A microphone receives the sound amplified by the A speaker and transmits the sound to the B speaker. After the B microphone receives the sound amplified by the B speaker It will be transmitted to the C speaker, and so on. Finally, the sound received by the D microphone will be sent back to the A speaker, thereby forming a feedback that has undergone four deformations (the volume and frequency of the sound will be different in each different single speaker. ) .Unpredictable sound is formed due to the deformation of feedback, space (space affects the reflection of sound) and the intervention of the viewer.<br>
       </div>
   </div>
 
@@ -29,7 +29,24 @@ featuredImage: img0.jpg
       <img class="subimg" src="./img2.jpg">
   </div>
 
-
   <div class="box"></div>
 
   <iframe title="vimeo-player" src="https://player.vimeo.com/video/530008996" frameborder="0" allowfullscreen></iframe>
+
+  <div class="box">
+      <img class="subimg" src="./img3.jpg">
+  </div>
+
+  <div class="box">
+      <img class="subimg" src="./img4.jpg">
+  </div>
+
+  <div class="box">
+      <img class="subimg" src="./img5.jpg">
+  </div>
+
+  <div class="box">
+      <img class="subimg" src="./img6.jpg">
+  </div>
+
+  <iframe title="vimeo-player" src="https://player.vimeo.com/video/548477446" frameborder="0" allowfullscreen></iframe>

@@ -5,7 +5,6 @@ import Artwork from '../components/artwork';
 import Layout from '../components/layout'
 
 const artworks = [
-	"Cross (v2)",
 	"Cross",
 	"x611b",
 	"Cyberfly",

@@ -45,3 +45,5 @@ featuredImage: img0.jpg
 </div>
 
 <div class="box"></div>
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/475359390" frameborder="0" allowfullscreen></iframe>

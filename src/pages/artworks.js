@@ -10,7 +10,6 @@ const artworks = [
 	"Cyberfly",
 	"Feeding",
 	"No Name",
-	"Broken",
 	"Couldn't Find",
 ];
 

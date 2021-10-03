@@ -37,6 +37,13 @@ featuredImage: img0.jpg
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/454239749" frameborder="0" allowfullscreen></iframe>
 
 <div class="box">
+  <br>
+</div>
+<div class="box">
+  <br>
+</div>
+
+<div class="box">
     <img class="subimg" src="./img3.jpg">
 </div>
 

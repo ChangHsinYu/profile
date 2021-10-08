@@ -53,9 +53,10 @@ const Cv = () =>{
           <br/>
           <br/>
           <span className="cv_title">Design</span><br/>
-          <List year="2021">Genesis One Prometheus' Dream : curtains up for new artist, Sound Design.(Taichung, Taiwan)</List>
+          <List year="2021">Future Media Arts Festival-Technological Finding Netbot, Installation Design.(Taipei, Taiwan)</List>
+          <List year="    ">Genesis One Prometheus' Dream : curtains up for new artist, Sound Design.(Taichung, Taiwan)</List>
           <List year="    ">NCCU Music Festival, Video Design.(Taipei, Taiwan)</List>
-          <List year="    ">Cantilena of Shivering Bow : U-Lai Chan Percussion Recital , Electronic Sound Engineer.(Taipei, Taiwan)</List>
+          <List year="    ">Cantilena of Shivering Bow : U-Lai Chan Percussion Recital, Electronic Sound Engineer.(Taipei, Taiwan)</List>
           <List year="    ">99% Truth : MA Wei-Yuan and LIN Zhe-Zhi Double Solo Exhibitions, Technical Design.(Taipei, Taiwan)</List>
           <List year="    ">1:1 : MA Wei-Yuan solo performence, Technical Design.(Taipei, Taiwan)</List>
           <List year="2020">Post Garden : Technology and Music Transdisciplinary Experimental Theater, Electronic Sound Design.(Taipei, Taiwan)</List>
@@ -101,7 +102,8 @@ const Cv = () =>{
           <br/>
           <br/>
           <span className="cv_title">設計</span><br/>
-          <List year="2021">創世紀首部曲普羅米修斯的夢境：開場計畫。聲音設計。臺中歌劇院，臺中，台灣</List>
+          <List year="2021">未來媒體藝術節-TFN線上爬。裝置設計。Clab台灣當代文化實驗場，臺北，台灣</List>
+          <List year="    ">創世紀首部曲普羅米修斯的夢境：開場計畫。聲音設計。臺中歌劇院，臺中，台灣</List>
           <List year="    ">政大音樂節。影像設計。三創clap studio，臺北，台灣</List>
           <List year="    ">顫弩的吟詠：陳裕禮擊樂畢業獨奏會。聲音工程。北藝大舞蹈廳，臺北，台灣</List>
           <List year="    ">99%的真實：馬維元、林哲志雙個展。技術設計。台北數位藝術中心，臺北，台灣</List>

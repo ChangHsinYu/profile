@@ -14,7 +14,7 @@ class Artwork extends React.Component {
 					</Link>
 
           <div className="work_inf_mobile">
-							{this.props.title}, {this.props.category}, {this.props.date}
+							<span style={{fontWeight:'700'}}>{this.props.title}</span>, {this.props.category}, {this.props.date}
 					</div>
 
           <ul className="work_inf">

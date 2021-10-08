@@ -6,6 +6,8 @@ import Project from '../components/project';
 import Layout from '../components/layout'
 
 const projects = [
+	"TFN線上爬",
+	"創世紀首部曲普羅米修斯的夢境",
 	"政大音樂節",
 	"顫弩的吟詠",
 	"入眠自習",
@@ -62,6 +64,8 @@ const Projects = ({ data }) =>  (
 							/>
 						);
         	})}
+					<div className='project'></div>
+					<div className='project'></div>
 				</div>
       </div>
   </Layout>

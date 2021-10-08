@@ -5,6 +5,7 @@ import Artwork from '../components/artwork';
 import Layout from '../components/layout'
 
 const artworks = [
+	"Building",
 	"Cross",
 	"x611b",
 	"Cyberfly",

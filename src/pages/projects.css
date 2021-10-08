@@ -19,6 +19,7 @@
   z-index: 1;
 }
 .project_dtlimg{
+  position: relative;
   width:100%;
   height: auto;
   margin: auto;
@@ -81,7 +82,8 @@
     z-index: 1;
   }
   .project_dtlimg{
-    width:50%;
+    position: fixed;
+    width:42%;
     height: auto;
     margin-top: 0px;
     float: left;
@@ -94,7 +96,7 @@
     font-size: 0.8rem;
     margin-left: 5%;
     margin-top: 0px;
-    float: left;
+    float: right;
   }
   .project_bar{
     width:100%;
@@ -114,14 +116,12 @@
     margin-left: 10%;
     margin-top: 20px;
     float: left;
-    text-align:justify;
   }
   .project_smlimg{
     display:inline-block;
-    width:24.5%;
-    margin-top: 0;
+    width:49%;
+    margin-top: 2%;
     height: auto;
-    float: none;
   }
 
 }

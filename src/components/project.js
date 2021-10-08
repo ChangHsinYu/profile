@@ -40,23 +40,11 @@ class Project extends React.Component {
                   <div className="project_bar">
                     <button className="project_bk" onClick={this.close}>back</button>
                   </div>
+
                   <div className="project_dtldiv">
-                    <FadeIn opacity={{
-                              start: 0,
-                              end: 1,
-                              stiffness: 100,
-                              damping: 20,}}
-                    >
-                      <div className="project_dtlimg">
-                        <GatsbyImage image={this.props.img} style={{width:'100%', height:'100%'}} alt='project'/>
-                      </div>
-                    </FadeIn>
-                    <FadeIn opacity={{
-                              start: 0,
-                              end: 1,
-                              stiffness: 100,
-                              damping: 20,}}
-                    >
+                    <div className="project_dtlimg">
+                      <GatsbyImage image={this.props.img} style={{width:'100%', height:'100%'}} alt='project'/>
+                    </div>
                     <div className="project_dtlinf">
                       {this.props.title}&nbsp;&nbsp;|&nbsp;&nbsp;{this.props.position}<br />
                       <br />
@@ -65,19 +53,19 @@ class Project extends React.Component {
                       地點 : {this.props.location}<br />
                       <br />
                       {this.props.discription}
+                      <div style={{display:'flex', justifyContent:'space-between', flexWrap:'wrap'}}>
+                        {this.props.smlimg.map((p, index) => {
+                    	     return (
+                             <div className="project_smlimg">
+                                <GatsbyImage image={p.childImageSharp.gatsbyImageData} style={{width:'100%', height:'100%'}} alt='project'/>
+                             </div>
+          						     );
+                  	    })}
+                      </div>
+                      &nbsp;&nbsp;
                     </div>
-                    </FadeIn>
                   </div>
-                  <div className="project_dtldiv" style={{display:'flex', justifyContent:'space-between', flexWrap:'wrap'}}>
-                    {this.props.smlimg.map((p, index) => {
-                  	   return (
-                         <div className="project_smlimg">
-                              <GatsbyImage image={p.childImageSharp.gatsbyImageData} style={{width:'100%', height:'100%'}} alt='project'/>
-                         </div>
-        						   );
-                	  })}
-                  </div>
-                  <div className="project_dtldiv">&nbsp;&nbsp;</div>
+
                 </FadeIn>
               </div>
             )

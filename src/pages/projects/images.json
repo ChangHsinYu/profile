@@ -36,7 +36,9 @@
   {
     "title": "入眠自習",
     "urls": [
-      "./sleep/img-0.png"
+      "./sleep/img-1.png",
+      "./sleep/img-2.png",
+      "./sleep/img-3.png"
     ]
   },
 
@@ -85,7 +87,10 @@
   {
     "title": "歇斯底里的房間",
     "urls": [
-      "./hysteria/img-0.png"
+      "./hysteria/img-1.png",
+      "./hysteria/img-2.png",
+      "./hysteria/img-3.png",
+      "./hysteria/img-4.png"
     ]
   },
 

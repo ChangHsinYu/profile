@@ -4,7 +4,7 @@ position: "Electronic Sound Design, Installation Design 電聲設計 裝置設�
 date: "2020"
 event: "關渡藝術節"
 location: "北藝大戲劇廳"
-discription:  "
+description:  "
                 藝術指導 : 王俊傑、王連晟 <br>
                 音樂指導 : 吳思珊、陳立立 <br>
                 藝術音樂顧問 : Jean Geoffroy <br>

@@ -52,7 +52,7 @@ class Project extends React.Component {
                       活動 : {this.props.event}<br />
                       地點 : {this.props.location}<br />
                       <br />
-                      {this.props.discription}
+                      {this.props.description}
                       <div style={{display:'flex', justifyContent:'space-between', flexWrap:'wrap'}}>
                         {this.props.smlimg.map((p, index) => {
                     	     return (

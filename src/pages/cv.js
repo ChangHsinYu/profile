@@ -102,7 +102,7 @@ const Cv = () =>{
           <br/>
           <br/>
           <span className="cv_title">設計</span><br/>
-          <List year="2021">未來媒體藝術節-TFN線上爬。裝置設計。Clab台灣當代文化實驗場，臺北，台灣</List>
+          <List year="2021">未來媒體藝術節-TFN線上爬。裝置設計。空總臺灣當代文化實驗場，臺北，台灣</List>
           <List year="    ">創世紀首部曲普羅米修斯的夢境：開場計畫。聲音設計。臺中歌劇院，臺中，台灣</List>
           <List year="    ">政大音樂節。影像設計。三創clap studio，臺北，台灣</List>
           <List year="    ">顫弩的吟詠：陳裕禮擊樂畢業獨奏會。聲音工程。北藝大舞蹈廳，臺北，台灣</List>

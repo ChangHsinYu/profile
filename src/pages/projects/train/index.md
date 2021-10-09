@@ -4,7 +4,7 @@ position: "Projection Design 影像設計"
 date: "2019"
 event: "關渡藝術節"
 location: "北藝大舞蹈聽、屏東演藝廳"
-discription: "
+description: "
           製作人 : 蘇顯達 <br>
           音樂總監 : 盧文雅 <br>
           藝術總監 : 王俊傑 <br>

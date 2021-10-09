@@ -4,7 +4,7 @@ position: "Installation Design 裝置設計"
 date: "2020"
 event: "馬維元單人表演"
 location: "牿嶺街小劇場、立方七樓"
-discription:  "
+description:  "
                 創作與表演 : 馬維元 <br>
                 影像執行 : 汪紹綱 <br>
                 執行製作與空間設計 : 陳韋綸 <br>

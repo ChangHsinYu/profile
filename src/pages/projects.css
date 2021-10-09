@@ -28,6 +28,8 @@
 .project_dtlinf{
   font-family: 'Kumbh Sans', sans-serif;
   font-size: 0.8rem;
+  line-height: 1.3rem;
+  letter-spacing: 0.05rem;
   width:100%;
   color: #000000;
   height: auto;
@@ -94,6 +96,8 @@
     color:#000000;
     height: auto;
     font-size: 0.8rem;
+    line-height: 1.3rem;
+    letter-spacing: 0.05rem;
     margin-left: 5%;
     margin-top: 0px;
     float: right;

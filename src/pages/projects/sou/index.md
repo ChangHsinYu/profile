@@ -4,7 +4,7 @@ position: "Projection Design 影像設計"
 date: "2019"
 event: "臺灣族群音樂紀實系列"
 location: "臺灣音樂館"
-discription:  "
+description:  "
                 策展 : 魏心怡、袁百宏 <br>
                 演出 : 南投縣魚池鄉邵族文化發展協會、邵族杵音班、國立暨南大學原住民文化產業與社會工作學士學位學程原住民族專班、楊晴儀等。 <br>
                 舞臺監督 : 張舜捷 <br>

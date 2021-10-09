@@ -50,7 +50,8 @@
   {
     "title": "貴人散步音樂節",
     "urls": [
-      "./echo/img-0.png"
+      "./echo/img-0.png",
+      "./echo/img-1.png"
     ]
   },
 
@@ -64,14 +65,20 @@
   {
     "title": "闇物種",
     "urls": [
-      "./dark/img-0.png"
+      "./dark/img-1.png",
+      "./dark/img-2.png",
+      "./dark/img-3.png",
+      "./dark/img-4.png"
     ]
   },
 
   {
     "title": "異日方梭",
     "urls": [
-      "./shuttle/img-0.png"
+      "./shuttle/img-1.png",
+      "./shuttle/img-2.png",
+      "./shuttle/img-3.png",
+      "./shuttle/img-4.png"
     ]
   },
 

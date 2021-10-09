@@ -4,7 +4,7 @@ position: "Projection Design 影像設計"
 date: "2020"
 event: "桃園科技藝術表演獎"
 location: "北藝大研究大樓黑盒子"
-discription:  "
+description:  "
                 藝術統籌 : 謝竺勳 <br>
                 導演＆演員 : 程壬宣 <br>
                 舞台監督 : 蘇呈軒 <br>

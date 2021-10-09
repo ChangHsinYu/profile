@@ -57,7 +57,7 @@ const Projects = ({ data }) =>  (
 									date={node.frontmatter.date}
 									event={node.frontmatter.event}
 									location={node.frontmatter.location}
-									discription={ReactHtmlParser(node.frontmatter.discription)}
+									description={ReactHtmlParser(node.frontmatter.description)}
 									img={img}
 									smlimg={imgArray}
 									key={p}
@@ -84,7 +84,7 @@ export const query = graphql`
           	position
           	location
           	event
-          	discription
+          	description
           	featuredImage {
             	childImageSharp {
               	gatsbyImageData(breakpoints: 10)

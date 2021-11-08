@@ -1,6 +1,6 @@
 ---
 title: "後花園-科技與音樂跨域實驗劇場"
-position: "Electronic Sound Design, Installation Design 電聲設計 裝置設計"
+position: "Electronic Sound Design 電聲設計, Installation Design 裝置設計"
 date: "2020"
 event: "關渡藝術節"
 location: "北藝大戲劇廳"

@@ -1,6 +1,6 @@
 ---
 title: "創世紀首部曲普羅米修斯的夢境"
-position: "Sound Design 聲音設計"
+position: "Artist 藝術家, Sound Design 聲音設計"
 date: "2021"
 event: "NTT-TIFA開場計畫"
 location: "臺中歌劇院"

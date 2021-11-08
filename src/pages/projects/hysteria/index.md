@@ -1,6 +1,6 @@
 ---
 title: "歇斯底里的房間"
-position: "Projection Design, Sound Design 影像設計 聲音設計"
+position: "Projection Design 影像設計, Sound Design 聲音設計"
 date: "2020"
 event: "桃園科技藝術表演獎"
 location: "北藝大燈光實驗室"

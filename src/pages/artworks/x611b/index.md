@@ -1,5 +1,5 @@
 ---
-title: "x611b"
+title: "&#x611b"
 date: "2020"
 category: "Sound installation"
 featuredImage: img0.jpg

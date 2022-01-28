@@ -5,8 +5,9 @@ import Artwork from '../components/artwork';
 import Layout from '../components/layout'
 
 const artworks = [
+	"&#x611b (online version)",
 	"Cross",
-	"x611b",
+	"&#x611b",
 	"Cyberfly",
 	"Feeding",
 	"Couldn't Find",

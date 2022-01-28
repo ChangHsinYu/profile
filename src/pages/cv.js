@@ -32,13 +32,16 @@ const Cv = () =>{
           <br/>
           <br/>
           <span className="cv_title">Award</span><br/>
-          <List year="2021">Taiwan emerging art awards - shortlist.(Taichung, Taiwan)</List>
-          <List year="    ">Contemporary art prize - exellence award.(Taipei, Taiwan)</List>
-          <List year="    ">24th Japan media art festival - art divition jury selection. (Japan)</List>
-          <List year="2020">Taoyuan technology performing art awards - exellence award.(Taoyuan, Taiwan)</List>
+          <List year="2022">Kaohsiung Award - shortlist.(Kaohsiung, Taiwan)</List>
+          <List year="2021">Taiwan Emerging Art Awards - shortlist.(Taichung, Taiwan)</List>
+          <List year="    ">Contemporary Art Prize - exellence award.(Taipei, Taiwan)</List>
+          <List year="    ">24th Japan Media Art Festival - art divition jury selection. (Japan)</List>
+          <List year="2020">Taoyuan Technology Performing Art Awards - exellence award.(Taoyuan, Taiwan)</List>
           <br/>
           <br/>
           <span className="cv_title">Exhibition</span><br/>
+          <List year="2022">Kaohsiung Award Exhibition. (Kaohsuing, Taiwan)</List>
+          <List year="    ">Generation Bored Stiff (online). (New Art City)</List>
           <List year="2021">Nuit Blanche Taipei (online). (Taipei, Taiwan)</List>
           <List year="    ">Contemporary Art Prize. (Taipei, Taiwan)</List>
           <List year="2020">Taipei Digital Art Festival. (Taipei, Taiwan)</List>
@@ -46,6 +49,7 @@ const Cv = () =>{
           <br/>
           <br/>
           <span className="cv_title">Performence</span><br/>
+          <List year="2022">Lacking Sound Festival : DiffuSound Vol.2.(Taipei, Taiwan)</List>
           <List year="2021">New Media Art Department 106 graduated production opening.(Taipei, Taiwan)</List>
           <List year="    ">New Media Art Department Exhibition 8th opening.(Taipei, Taiwan)</List>
           <List year="2020">New Media Art Department Exhibition 7th opening.(Taipei, Taiwan)</List>
@@ -53,7 +57,8 @@ const Cv = () =>{
           <br/>
           <br/>
           <span className="cv_title">Design</span><br/>
-          <List year="2021">Future Media Arts Festival-Technological Finding Netbot, Installation Design.(Taipei, Taiwan)</List>
+          <List year="2021">reCONNECT2021, Performer.(Taichung, Taiwan)</List>
+          <List year="    ">Future Media Arts Festival-Technological Finding Netbot, Installation Design.(Taipei, Taiwan)</List>
           <List year="    ">Genesis One Prometheus' Dream : curtains up for new artist, Sound Design.(Taichung, Taiwan)</List>
           <List year="    ">NCCU Music Festival, Video Design.(Taipei, Taiwan)</List>
           <List year="    ">Cantilena of Shivering Bow : U-Lai Chan Percussion Recital, Electronic Sound Engineer.(Taipei, Taiwan)</List>
@@ -81,6 +86,7 @@ const Cv = () =>{
           <br/>
           <br/>
           <span className="cv_title">獲獎</span><br/>
+          <List year="2022">高雄獎。入選獎，台灣</List>
           <List year="2021">臺灣美術新貌獎。入圍，台灣</List>
           <List year="    ">北藝當代藝術獎。優選，台灣</List>
           <List year="    ">文化廳媒體藝術祭24th。藝術類評審團獎，日本</List>
@@ -88,6 +94,8 @@ const Cv = () =>{
           <br/>
           <br/>
           <span className="cv_title">展覽</span><br/>
+          <List year="2022">高雄獎。高雄市立美術館，高雄，台灣</List>
+          <List year="    ">不幸福利社。線上，水谷藝術，New Art City</List>
           <List year="2021">臺北白晝之夜。線上，臺北，台灣</List>
           <List year="    ">北藝當代藝術獎。地下美術館，臺北，台灣</List>
           <List year="2020">10_LOVE愛情數據：台北數位藝術節。松菸四號倉庫，臺北，台灣</List>
@@ -95,6 +103,7 @@ const Cv = () =>{
           <br/>
           <br/>
           <span className="cv_title">表演</span><br/>
+          <List year="2022">失聲祭：瀰音。臺北數位藝術中心，臺北，台灣</List>
           <List year="2021">新媒體藝術系106級畢業製作開幕表演。四四南村，臺北，台灣</List>
           <List year="    ">新媒體藝術系系展8th開幕。北藝大地下美術館，臺北，台灣</List>
           <List year="2020">新媒體藝術系系展7th開幕。北藝大地下美術館，臺北，台灣</List>
@@ -102,8 +111,9 @@ const Cv = () =>{
           <br/>
           <br/>
           <span className="cv_title">設計</span><br/>
-          <List year="2021">未來媒體藝術節-TFN線上爬。裝置設計。空總臺灣當代文化實驗場，臺北，台灣</List>
-          <List year="    ">創世紀首部曲普羅米修斯的夢境：開場計畫。聲音設計。臺中歌劇院，臺中，台灣</List>
+          <List year="2021">reCONNECT2021。表演者。臺中國家歌劇院，臺中，台灣</List>
+          <List year="    ">未來媒體藝術節-TFN線上爬。裝置設計。空總臺灣當代文化實驗場，臺北，台灣</List>
+          <List year="    ">創世紀首部曲普羅米修斯的夢境：開場計畫。聲音設計。臺中國家歌劇院，臺中，台灣</List>
           <List year="    ">政大音樂節。影像設計。三創clap studio，臺北，台灣</List>
           <List year="    ">顫弩的吟詠：陳裕禮擊樂畢業獨奏會。聲音工程。北藝大舞蹈廳，臺北，台灣</List>
           <List year="    ">99%的真實：馬維元、林哲志雙個展。技術設計。台北數位藝術中心，臺北，台灣</List>

@@ -6,6 +6,7 @@ import Project from '../components/project';
 import Layout from '../components/layout'
 
 const projects = [
+	"reCONNECT2021",
 	"高樓",
 	"TFN線上爬",
 	"創世紀首部曲普羅米修斯的夢境",

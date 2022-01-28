@@ -5,12 +5,22 @@ import img3 from './codearts/img-3.jpg';
 import img4 from './codearts/img-4.jpg';
 import img5 from './codearts/img-5.jpg';
 import img6 from './codearts/img-6.jpg';
+import img7 from './codearts/img-7.jpg';
+import img8 from './codearts/img-8.jpg';
+import img9 from './codearts/img-9.jpg';
+import img10 from './codearts/img-10.jpg';
+import img11 from './codearts/img-11.jpg';
 
 import React from 'react';
 import './codearts.css';
 import Layout from '../components/layout'
 
 const codearts = [
+  img11,
+  img10,
+  img9,
+  img8,
+  img7,
   img6,
   img5,
   img4,

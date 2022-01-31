@@ -1,4 +1,5 @@
 ---
+posttype: "work"
 title: "Cyberfly"
 date: "2020"
 category: "Sound installation"

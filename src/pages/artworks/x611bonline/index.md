@@ -1,4 +1,5 @@
 ---
+posttype: "work"
 title: "&#x611b (online version)"
 date: "2022"
 category: "3D Sculpture"

@@ -49,6 +49,7 @@ const Projects = ({ data }) =>  (
 				<div style={{width:'100%', display:'flex', justifyContent:'space-between', flexWrap:'wrap'}}>
         	{projects.map((p, index) => {
 						const node = findTitle(data.allMarkdownRemark.edges, p);
+						const dest = node ? node.fields.slug : '';
 						const img = node.frontmatter.featuredImage.childImageSharp.gatsbyImageData;
           	const jsonNode = findJsonTitle(data.allImagesJson.edges, p);
 						const imgArray = jsonNode.urls;
@@ -59,6 +60,7 @@ const Projects = ({ data }) =>  (
 									date={node.frontmatter.date}
 									event={node.frontmatter.event}
 									location={node.frontmatter.location}
+									to={dest}
 									description={ReactHtmlParser(node.frontmatter.description)}
 									img={img}
 									smlimg={imgArray}
@@ -93,6 +95,9 @@ export const query = graphql`
             	}
           	}
         	}
+					fields {
+            slug
+          }
       	}
     	}
   	}

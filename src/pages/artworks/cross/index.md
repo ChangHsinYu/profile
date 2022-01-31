@@ -1,4 +1,5 @@
 ---
+posttype: "work"
 title: "Cross"
 date: "2021"
 category: "Sound installation"
@@ -32,7 +33,7 @@ featuredImage: img0.jpg
   <div class="box"></div>
 
   <iframe title="vimeo-player" src="https://player.vimeo.com/video/530008996" frameborder="0" allowfullscreen></iframe>
-  
+
   <div class="box">
     <br>
   </div>

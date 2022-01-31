@@ -1,4 +1,5 @@
 ---
+posttype: "project"
 title: "入眠自習"
 position: "Installation Design 裝置設計"
 date: "2021"
@@ -9,3 +10,17 @@ description:  "
               "
 featuredImage: img-0.png
 ---
+藝術家 : 馬維元 <br>
+<div class="box">
+<img class="subimg" src="./img-0.png">
+</div>
+<div class="box">
+<img class="subimg" src="./img-1.png">
+</div>
+<div class="box">
+<img class="subimg" src="./img-2.png">
+</div>
+<div class="box">
+<img class="subimg" src="./img-3.png">
+</div>
+<div class="box"></div>

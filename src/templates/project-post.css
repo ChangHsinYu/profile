@@ -1,0 +1,114 @@
+.main_img{
+  overflow: hidden;
+  width: 100%;
+  height:calc(30*1.25vw);
+}
+.project_main{
+  width:100%;
+  margin: 0;
+}
+.subimg{
+  width:100%;
+  margin-top:50px;
+}
+.ttl{
+  font-family: 'Kumbh Sans', sans-serif;
+  font-weight: 300;
+  width:100%;
+  margin-top: 10px;
+  font-size: 1.2rem;
+  letter-spacing: 0.1rem;
+  text-align: left;
+}
+.inf{
+  font-family: 'Kumbh Sans', sans-serif;
+  font-weight: 300;
+  width:100%;
+  margin-top: 10px;
+  font-size: 1rem;
+  letter-spacing: 0.05rem;
+  text-align: left;
+  line-height:1.5rem;
+}
+.box{
+  display: inline-block;
+  width:100%;
+}
+.ttlbox{
+  display: inline-block;
+  width:100%;
+  margin-bottom: 10px;
+}
+.dscrptn{
+  font-family: 'Kumbh Sans', sans-serif;
+  font-weight: 300;
+  width:100%;
+  font-size: 0.8rem;
+  letter-spacing: 0.03rem;
+  text-align:justify;
+  line-height:1.2rem;
+}
+iframe{
+  width:100%;
+  height:calc(56.25*0.9vw);
+  margin: auto;
+}
+@media screen and (min-width:1000px){
+  .project_main{
+    width:80%;
+    margin-left: 10%;
+  }
+  .main_img{
+    overflow: hidden;
+    width: 100%;
+    height:calc(30vw);
+  }
+  .subimg{
+    width:100%;
+    margin-top:10px;
+  }
+  .ttl{
+    font-family: 'Kumbh Sans', sans-serif;
+    font-weight: 300;
+    width:100%;
+    margin-top: 20px;
+    font-size: 2rem;
+    letter-spacing: 0.1rem;
+    text-align: left;
+  }
+  .ttlbox{
+    display: inline-block;
+    width:100%;
+    margin-bottom: 20px;
+  }
+  .inf{
+    font-family: 'Kumbh Sans', sans-serif;
+    font-weight: 300;
+    width:100%;
+    margin-top: 10px;
+    font-size: 1.2rem;
+    letter-spacing: 0.05rem;
+    text-align: left;
+    line-height:2rem;
+  }
+  .box{
+    display: inline-block;
+    width:49%;
+    margin-bottom: 10px;
+    vertical-align : top;
+  }
+  .dscrptn{
+    font-family: 'Kumbh Sans', sans-serif;
+    font-weight: 300;
+    width:100%;
+    font-size: 1rem;
+    letter-spacing: 0.03rem;
+    text-align:justify;
+    line-height:1.5rem;
+  }
+  iframe{
+    width:100%;
+    height:calc(56.25*0.8vw);
+    margin: auto;
+  }
+}

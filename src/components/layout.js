@@ -129,7 +129,7 @@ class Layout extends React.Component {
                       </FadeIn>
                       <hr/>
                       <FadeIn x={{start: 60, end: 0, stiffness: 100, damping: 20,}}>
-                        <ListLink to="/artworks"      mobile={true} click={this.closeMenu}>ARTWORKS</ListLink>
+                        <ListLink to="/artworks"      mobile={true} click={this.closeMenu}>WORKS</ListLink>
                       </FadeIn>
                       <hr/>
                       <FadeIn x={{start: 100, end: 0, stiffness: 100, damping: 20,}}>
@@ -137,7 +137,7 @@ class Layout extends React.Component {
                       </FadeIn>
                       <hr/>
                       <FadeIn x={{start: 140, end: 0, stiffness: 100, damping: 20,}}>
-                        <ListLink to="/projects"      mobile={true} click={this.closeMenu}>NEW MEDIA PROJECTS</ListLink>
+                        <ListLink to="/projects"      mobile={true} click={this.closeMenu}>PROJECTS</ListLink>
                       </FadeIn>
                       <hr/>
                       <FadeIn x={{start: 180, end: 0, stiffness: 100, damping: 20,}}>
@@ -162,9 +162,9 @@ class Layout extends React.Component {
             </button>
             <ul className='menu'>
               <ListLink to="/cv"            mobile={false}>CV</ListLink>
-              <ListLink to="/artworks"      mobile={false}>ARTWORKS</ListLink>
+              <ListLink to="/artworks"      mobile={false}>WORKS</ListLink>
               <ListLink to="/performances"  mobile={false}>PERFORMANCES</ListLink>
-              <ListLink to="/projects"      mobile={false}>NEW MEDIA PROJECTS</ListLink>
+              <ListLink to="/projects"      mobile={false}>PROJECTS</ListLink>
               <ListLink to="/codearts"      mobile={false}>CREATIVE CODINGS</ListLink>
             </ul>
           </div>

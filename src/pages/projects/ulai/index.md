@@ -1,4 +1,5 @@
 ---
+posttype: "project"
 title: "顫弩的吟詠"
 position: "Electronic Sound Engineer 聲音工程"
 date: "2021"
@@ -11,3 +12,10 @@ description:  "
               "
 featuredImage: img-0.png
 ---
+作品委託、演出者 : 陳裕禮 <br>
+作曲 : 王之筠 <br>
+聲音工程 : 張欣語 <br>
+<div class="box">
+<img class="subimg" src="./img-0.png">
+</div>
+<div class="box"></div>

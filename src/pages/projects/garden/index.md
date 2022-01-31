@@ -26,7 +26,7 @@ featuredImage: img-0.png
 新媒體藝術團隊 : 新媒體藝術學系106級同學 <br>
 Photo by王世邦 <br>
 
-<div class="box">
-<img class="subimg" src="./img-0.png">
+<div class="project_box">
+<img class="project_subimg" src="./img-0.png">
 </div>
-<div class="box"></div>
+<div class="project_box"></div>

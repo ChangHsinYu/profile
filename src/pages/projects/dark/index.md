@@ -19,19 +19,19 @@ featuredImage: img-0.png
 影像 : 張欣語 <br>
 Photo by 胡哲豪 <br>
 
-<div class="box">
-<img class="subimg" src="./img-0.png">
+<div class="project_box">
+<img class="project_subimg" src="./img-0.png">
 </div>
-<div class="box">
-<img class="subimg" src="./img-1.png">
+<div class="project_box">
+<img class="project_subimg" src="./img-1.png">
 </div>
-<div class="box">
-<img class="subimg" src="./img-2.png">
+<div class="project_box">
+<img class="project_subimg" src="./img-2.png">
 </div>
-<div class="box">
-<img class="subimg" src="./img-3.png">
+<div class="project_box">
+<img class="project_subimg" src="./img-3.png">
 </div>
-<div class="box">
-<img class="subimg" src="./img-4.png">
+<div class="project_box">
+<img class="project_subimg" src="./img-4.png">
 </div>
-<div class="box"></div>
+<div class="project_box"></div>

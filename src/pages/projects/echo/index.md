@@ -13,10 +13,10 @@ featuredImage: img-0.png
 
 藝術家 : 吳柏蒼、王連晟 <br>
 
-<div class="box">
-<img class="subimg" src="./img-0.png">
+<div class="project_box">
+<img class="project_subimg" src="./img-0.png">
 </div>
-<div class="box">
-<img class="subimg" src="./img-1.png">
+<div class="project_box">
+<img class="project_subimg" src="./img-1.png">
 </div>
-<div class="box"></div>
+<div class="project_box"></div>

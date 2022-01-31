@@ -11,20 +11,20 @@ export default function ProjectPost({ data }) {
     <Layout>
     <div className="work_main">
     <div className="project_main">
-        <div className="main_img">
+        <div className="project_main_img">
           <GatsbyImage image={featuredImg} style={{top:'-25%'}} alt='project'/>
         </div>
-        <div className="ttlbox">
-          <div className="ttl">
+        <div className="project_ttlbox">
+          <div className="project_ttl">
               {post.frontmatter.title}
           </div>
-          <div className="inf">
+          <div className="project_inf">
               {post.frontmatter.position}<br/>
               {post.frontmatter.date}
           </div>
         </div>
 
-        <div className="dscrptn" dangerouslySetInnerHTML={{ __html: post.html }} />
+        <div className="project_dscrptn" dangerouslySetInnerHTML={{ __html: post.html }} />
     </div>
     </div>
     </Layout>

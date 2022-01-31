@@ -78,16 +78,16 @@ Organizer：Dimension Plus<br>
 Co-organizer：National Taichung Theater<br>
 <br>
 
-<div class="box">
-<img class="subimg" src="./img-0.png">
+<div class="project_box">
+<img class="project_subimg" src="./img-0.png">
 </div>
-<div class="box">
-<img class="subimg" src="./img-1.png">
+<div class="project_box">
+<img class="project_subimg" src="./img-1.png">
 </div>
-<div class="box">
-<img class="subimg" src="./img-2.png">
+<div class="project_box">
+<img class="project_subimg" src="./img-2.png">
 </div>
-<div class="box">
-<img class="subimg" src="./img-3.png">
+<div class="project_box">
+<img class="project_subimg" src="./img-3.png">
 </div>
-<div class="box"></div>
+<div class="project_box"></div>

@@ -28,19 +28,19 @@ featuredImage: img-0.png
 新媒體暨聲音設計與執行 : 胡哲豪、張欣語 <br>
 攝影 : 沙韋懷 <br>
 
-<div class="box">
-<img class="subimg" src="./img-0.png">
+<div class="project_box">
+<img class="project_subimg" src="./img-0.png">
 </div>
-<div class="box">
-<img class="subimg" src="./img-1.png">
+<div class="project_box">
+<img class="project_subimg" src="./img-1.png">
 </div>
-<div class="box">
-<img class="subimg" src="./img-2.png">
+<div class="project_box">
+<img class="project_subimg" src="./img-2.png">
 </div>
-<div class="box">
-<img class="subimg" src="./img-3.png">
+<div class="project_box">
+<img class="project_subimg" src="./img-3.png">
 </div>
-<div class="box">
-<img class="subimg" src="./img-4.png">
+<div class="project_box">
+<img class="project_subimg" src="./img-4.png">
 </div>
-<div class="box"></div>
+<div class="project_box"></div>

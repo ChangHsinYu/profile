@@ -15,7 +15,7 @@ featuredImage: img-0.png
 作品委託、演出者 : 陳裕禮 <br>
 作曲 : 王之筠 <br>
 聲音工程 : 張欣語 <br>
-<div class="box">
-<img class="subimg" src="./img-0.png">
+<div class="project_box">
+<img class="project_subimg" src="./img-0.png">
 </div>
-<div class="box"></div>
+<div class="project_box"></div>

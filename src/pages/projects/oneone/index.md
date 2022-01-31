@@ -27,7 +27,7 @@ featuredImage: img-0.png
 贊助單位 : 台北市文化局、牯嶺街小劇場、立方七樓 <br>
 Photo by林厚成 <br>
 
-<div class="box">
-<img class="subimg" src="./img-0.png">
+<div class="project_box">
+<img class="project_subimg" src="./img-0.png">
 </div>
-<div class="box"></div>
+<div class="project_box"></div>

@@ -28,10 +28,10 @@ TFN-Technological Finding Netbot is a joint production of the Taiwan C-LAB Futur
 In March 2021, after American digital artist Beeple's digital work Everydays: The First 5000 Days was sold for an unprecedentedly high price of US$70 million (about NT$1.9 billion). It instantly detonated a heated wave of NFT trends. Tweets, videos, a piece of music and even a digital license for a classical painting could sell at sky-high prices.<br>
 TFN-Technological Finding Netbot also release the question: Are people only concerned about the soaring prices of NFTs and how to join in the NFT market nowadays?<br>
 
-<div class="box">
-<img class="subimg" src="./img-0.png">
+<div class="project_box">
+<img class="project_subimg" src="./img-0.png">
 </div>
-<div class="box">
-<img class="subimg" src="./img-1.png">
+<div class="project_box">
+<img class="project_subimg" src="./img-1.png">
 </div>
-<div class="box"></div>
+<div class="project_box"></div>

@@ -1,4 +1,4 @@
-.main_img{
+.project_main_img{
   overflow: hidden;
   width: 100%;
   height:calc(30*1.25vw);
@@ -7,10 +7,10 @@
   width:100%;
   margin: 0;
 }
-.subimg{
+.project_subimg{
   width:100%;
 }
-.ttl{
+.project_ttl{
   font-family: 'Kumbh Sans', sans-serif;
   font-weight: 300;
   width:100%;
@@ -19,7 +19,7 @@
   letter-spacing: 0.1rem;
   text-align: left;
 }
-.inf{
+.project_inf{
   font-family: 'Kumbh Sans', sans-serif;
   font-weight: 300;
   width:100%;
@@ -29,18 +29,18 @@
   text-align: left;
   line-height:1.5rem;
 }
-.box{
+.project_box{
   display: inline-block;
   width:49%;
   margin-bottom: 10px;
   vertical-align : top;
 }
-.ttlbox{
+.project_ttlbox{
   display: inline-block;
   width:100%;
   margin-bottom: 10px;
 }
-.dscrptn{
+.project_dscrptn{
   font-family: 'Kumbh Sans', sans-serif;
   font-weight: 300;
   width:100%;
@@ -59,15 +59,15 @@ iframe{
     width:80%;
     margin-left: 10%;
   }
-  .main_img{
+  .project_main_img{
     overflow: hidden;
     width: 100%;
     height:calc(30vw);
   }
-  .subimg{
+  .project_subimg{
     width:100%;
   }
-  .ttl{
+  .project_ttl{
     font-family: 'Kumbh Sans', sans-serif;
     font-weight: 300;
     width:100%;
@@ -76,12 +76,12 @@ iframe{
     letter-spacing: 0.1rem;
     text-align: left;
   }
-  .ttlbox{
+  .project_ttlbox{
     display: inline-block;
     width:100%;
     margin-bottom: 20px;
   }
-  .inf{
+  .project_inf{
     font-family: 'Kumbh Sans', sans-serif;
     font-weight: 300;
     width:100%;
@@ -91,13 +91,13 @@ iframe{
     text-align: left;
     line-height:2rem;
   }
-  .box{
+  .project_box{
     display: inline-block;
     width:49%;
     margin-bottom: 10px;
     vertical-align : top;
   }
-  .dscrptn{
+  .project_dscrptn{
     font-family: 'Kumbh Sans', sans-serif;
     font-weight: 300;
     width:100%;

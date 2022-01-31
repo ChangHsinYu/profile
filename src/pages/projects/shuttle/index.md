@@ -27,19 +27,19 @@ featuredImage: img-0.png
 服裝設計 : 陳苡欣 <br>
 劇場裝置設計 : 鍾皓宇 <br>
 新媒體裝置設計 : 田子平、顏瑋辰 <br>
-<div class="box">
-<img class="subimg" src="./img-0.png">
+<div class="project_box">
+<img class="project_subimg" src="./img-0.png">
 </div>
-<div class="box">
-<img class="subimg" src="./img-1.png">
+<div class="project_box">
+<img class="project_subimg" src="./img-1.png">
 </div>
-<div class="box">
-<img class="subimg" src="./img-2.png">
+<div class="project_box">
+<img class="project_subimg" src="./img-2.png">
 </div>
-<div class="box">
-<img class="subimg" src="./img-3.png">
+<div class="project_box">
+<img class="project_subimg" src="./img-3.png">
 </div>
-<div class="box">
-<img class="subimg" src="./img-4.png">
+<div class="project_box">
+<img class="project_subimg" src="./img-4.png">
 </div>
-<div class="box"></div>
+<div class="project_box"></div>

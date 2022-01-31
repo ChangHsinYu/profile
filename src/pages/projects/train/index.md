@@ -53,16 +53,16 @@ featuredImage: img-0.png
 新媒體設計 : 黃茵綺、蕭合萱、王藝璇、徐紹恩、張欣語、曹書誠、陳恩澤 <br>
 行政團隊 : 張謙惠、林貞吟、游璧霞、洪雅惠、陳紀為、張琪翊、莊季璇、鍾孟芯 <br>
 Photo by吳俊諺 <br>
-<div class="box">
-<img class="subimg" src="./img-0.png">
+<div class="project_box">
+<img class="project_subimg" src="./img-0.png">
 </div>
-<div class="box">
-<img class="subimg" src="./img-1.png">
+<div class="project_box">
+<img class="project_subimg" src="./img-1.png">
 </div>
-<div class="box">
-<img class="subimg" src="./img-2.png">
+<div class="project_box">
+<img class="project_subimg" src="./img-2.png">
 </div>
-<div class="box">
-<img class="subimg" src="./img-3.png">
+<div class="project_box">
+<img class="project_subimg" src="./img-3.png">
 </div>
-<div class="box"></div>
+<div class="project_box"></div>

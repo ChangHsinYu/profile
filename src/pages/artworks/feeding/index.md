@@ -55,3 +55,22 @@ featuredImage: img0.jpg
 <div class="box"></div>
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/475359390" frameborder="0" allowfullscreen></iframe>
+
+<div class="box">
+  <br>
+</div>
+<div class="box">
+  <br>
+</div>
+
+<div class="box">
+    <img class="subimg" src="./img5.jpg">
+</div>
+
+<div class="box">
+    <img class="subimg" src="./img6.jpg">
+</div>
+
+<div class="box"></div>
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/679300979?h=37fa56bf34" frameborder="0" allowfullscreen></iframe>

@@ -5,6 +5,7 @@ date: "2022"
 category: "3D Sculpture"
 featuredImage: img0.jpg
 ---
+<a href="https://newart.city/show/changhsinyu" target="_blank">LINK</a>
 <div class="box">
     <div class="dscrptn">
       UTF-8 (8-bit Unicode Transformation Format) is now the most important character encoding format on the Internet. UTF-8 encoding is used when storing or sending text using e-mail, web pages or dating software. I used UTF-8 to encode and convert the articles and message discussions in the sex board and the love board of Internet forums PTT(well-known Internet forums in Taiwan) into binary signals. These binary signals were used as the basis for the speaker to be powered on and off, and a series of click sounds were emitted. Although the sentences are full of strong emotions, the process of encoding is like deconstructing these words and emptying their own meaning.<br>
@@ -35,5 +36,3 @@ featuredImage: img0.jpg
 
 
 <div class="box"></div>
-
-<!-- <iframe title="vimeo-player" src="https://player.vimeo.com/video/475363366" frameborder="0" allowfullscreen></iframe> -->

@@ -23,13 +23,13 @@ const Cv = () =>{
           <div className="cv_content_language">
             <div style={{fontSize:'1.4rem'}}>Chang Hsin Yu<br/></div>
           <br/>
-          Chang Hsin Yu is an interactive / sound / installation artist based in Taiwan, born in HsinChu in 1999, currently studying in the Department of New Media Art of Taipei University of Arts.
-For him, sound is an exploration of the world , an abstract but direct energy and an invisible mental power. His sound installation works discuss the spatiality, mechanism and translation of sound, and through the generative mechanism to response life experiences and issues. Compare to the complete planning and control, the randomness of sound is more exciting and vitality.
+          Chang Hsin Yu is an interactive, sound, installation artist based in Taiwan, born in HsinChu in 1999, currently studying in the Department of New Media Art of Taipei National University of the Arts.<br/>
+For him, sound is an exploration of the world , an abstract but direct energy and an invisible mental power. His sound installation works discuss the spatiality, mechanism and translation of sound, and through the generative mechanism to response life experiences and issues. Compare to the complete planning and control, he think the randomness of sound and mechanism is more exciting and vitality.<br/>
 His audio/visual performances are usually created through programming, focused on the relationship between sound and image and extend possibilities of the purest elements. He generally create and destroy structures in performances, and seem noise as a liberating energy.<br/>
           <br/><br/>
           <span className="cv_title">Education</span><br/>
           <div className="cv_year">2021</div><div className="cv_inf"></div><br/>
-          <List year="&nbsp;&nbsp;&nbsp;&nbsp;|">Taipei National University of Art Department of New Media Arts</List>
+          <List year="&nbsp;&nbsp;&nbsp;&nbsp;|">Taipei National University of the Arts Department of New Media Arts</List>
           <div className="cv_year">2017</div><div className="cv_inf"></div><br/>
           <br/>
           <br/>

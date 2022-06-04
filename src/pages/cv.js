@@ -34,7 +34,8 @@ His audio/visual performances are usually created through programming, focused o
           <br/>
           <br/>
           <span className="cv_title">Award</span><br/>
-          <List year="2022">Kaohsiung Award - shortlist.(Kaohsiung, Taiwan)</List>
+          <List year="2022">Like Water NFT Award - Second Award.(Taipei, Taiwan)</List>
+          <List year="    ">Kaohsiung Award - shortlist.(Kaohsiung, Taiwan)</List>
           <List year="2021">Taiwan Emerging Art Awards - shortlist.(Taichung, Taiwan)</List>
           <List year="    ">Contemporary Art Prize - exellence award.(Taipei, Taiwan)</List>
           <List year="    ">24th Japan Media Art Festival - art divition jury selection. (Japan)</List>
@@ -42,7 +43,11 @@ His audio/visual performances are usually created through programming, focused o
           <br/>
           <br/>
           <span className="cv_title">Exhibition</span><br/>
-          <List year="2022">Kaohsiung Award Exhibition. (Kaohsuing, Taiwan)</List>
+          <List year="2022">NOW ON AIR. (Taipei, Taiwan)</List>
+          <List year="    ">International Contemporary Art Fair. (Taipei, Taiwan)</List>
+          <List year="    ">Reality is Virtually Virtual. (Taipei, Taiwan)</List>
+          <List year="    ">DiffuSound. (Taipei, Taiwan)</List>
+          <List year="    ">Kaohsiung Award Exhibition. (Kaohsuing, Taiwan)</List>
           <List year="    ">Generation Bored Stiff (online). (New Art City)</List>
           <List year="2021">Nuit Blanche Taipei (online). (Taipei, Taiwan)</List>
           <List year="    ">Contemporary Art Prize. (Taipei, Taiwan)</List>
@@ -51,7 +56,8 @@ His audio/visual performances are usually created through programming, focused o
           <br/>
           <br/>
           <span className="cv_title">Performence</span><br/>
-          <List year="2022">Lacking Sound Festival : DiffuSound Vol.2.(Taipei, Taiwan)</List>
+          <List year="2022">NOW ON AIR.(Taipei, Taiwan)</List>
+          <List year="    ">Lacking Sound Festival : DiffuSound Vol.2.(Taipei, Taiwan)</List>
           <List year="2021">New Media Art Department 106 graduated production opening.(Taipei, Taiwan)</List>
           <List year="    ">New Media Art Department Exhibition 8th opening.(Taipei, Taiwan)</List>
           <List year="2020">New Media Art Department Exhibition 7th opening.(Taipei, Taiwan)</List>
@@ -88,7 +94,8 @@ His audio/visual performances are usually created through programming, focused o
           <br/>
           <br/>
           <span className="cv_title">獲獎</span><br/>
-          <List year="2022">高雄獎。入選獎，台灣</List>
+          <List year="2022">若水NFT藝術獎。貳獎，台灣</List>
+          <List year="    ">高雄獎。入選獎，台灣</List>
           <List year="2021">臺灣美術新貌獎。入圍，台灣</List>
           <List year="    ">北藝當代藝術獎。優選，台灣</List>
           <List year="    ">文化廳媒體藝術祭24th。藝術類評審團獎，日本</List>
@@ -96,7 +103,11 @@ His audio/visual performances are usually created through programming, focused o
           <br/>
           <br/>
           <span className="cv_title">展覽</span><br/>
-          <List year="2022">高雄獎。高雄市立美術館，高雄，台灣</List>
+          <List year="2022">北流無極限電台計畫。臺北流行音樂中心，臺北，台灣</List>
+          <List year="    ">WHATZ國際當代藝術博覽會。臺北喜來登飯店，臺北，台灣</List>
+          <List year="    ">假視說。San Gallerie，臺北，台灣</List>
+          <List year="    ">瀰音。了了藝術空間，臺北，台灣</List>
+          <List year="    ">高雄獎。高雄市立美術館，高雄，台灣</List>
           <List year="    ">不幸福利社。線上，水谷藝術，New Art City</List>
           <List year="2021">臺北白晝之夜。線上，臺北，台灣</List>
           <List year="    ">北藝當代藝術獎。地下美術館，臺北，台灣</List>
@@ -105,7 +116,8 @@ His audio/visual performances are usually created through programming, focused o
           <br/>
           <br/>
           <span className="cv_title">表演</span><br/>
-          <List year="2022">失聲祭：瀰音。臺北數位藝術中心，臺北，台灣</List>
+          <List year="2022">北流無極限電台計畫。臺北流行音樂中心，臺北，台灣</List>
+          <List year="    ">失聲祭：瀰音。臺北數位藝術中心，臺北，台灣</List>
           <List year="2021">新媒體藝術系106級畢業製作開幕表演。四四南村，臺北，台灣</List>
           <List year="    ">新媒體藝術系系展8th開幕。北藝大地下美術館，臺北，台灣</List>
           <List year="2020">新媒體藝術系系展7th開幕。北藝大地下美術館，臺北，台灣</List>
@@ -113,6 +125,7 @@ His audio/visual performances are usually created through programming, focused o
           <br/>
           <br/>
           <span className="cv_title">設計</span><br/>
+          <List year="2022">漸漸：古名伸x王連晟。技術及聲音執行。衛武營國家藝術文化中心，高雄，台灣</List>
           <List year="2021">reCONNECT2021。表演者。臺中國家歌劇院，臺中，台灣</List>
           <List year="    ">未來媒體藝術節-TFN線上爬。裝置設計。空總臺灣當代文化實驗場，臺北，台灣</List>
           <List year="    ">創世紀首部曲普羅米修斯的夢境：開場計畫。聲音設計。臺中國家歌劇院，臺中，台灣</List>

@@ -2,7 +2,7 @@
 title: "Memory Noise"
 date: '2021'
 category: 'Sound performance'
-featuredImage: img-0.png
+featuredImage: img0.jpg
 ---
   <div class="box">
       <div class="dscrptn">

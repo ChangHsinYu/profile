@@ -2,7 +2,7 @@
 title: "Sketch of Audio Visual"
 date: '2020'
 category: 'Audio visual performance'
-featuredImage: img-0.png
+featuredImage: img0.jpg
 ---
   <div class="box">
       <div class="dscrptn">

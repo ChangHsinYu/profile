@@ -3,6 +3,7 @@ posttype: "work"
 title: "Listen to the Light"
 date: "2022"
 category: "Sound installation"
+event: " "
 featuredImage: img0.jpg
 ---
   <div class="box">

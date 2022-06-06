@@ -3,6 +3,7 @@ posttype: "work"
 title: "&#x611b (online version)"
 date: "2022"
 category: "3D Sculpture"
+event: " "
 featuredImage: img0.jpg
 ---
 <a href="https://newart.city/show/changhsinyu" target="_blank">LINK</a>

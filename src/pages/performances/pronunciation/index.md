@@ -2,6 +2,7 @@
 title: "Pronunciation Exercise"
 date: '2021'
 category: 'Audio visual performance'
+event: " "
 featuredImage: img0.jpg
 ---
   <div class="box">

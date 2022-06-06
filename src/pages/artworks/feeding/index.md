@@ -3,6 +3,7 @@ posttype: "work"
 title: "Feeding"
 date: "2020"
 category: "Sound installation"
+event: " "
 featuredImage: img0.jpg
 ---
 <div class="box">

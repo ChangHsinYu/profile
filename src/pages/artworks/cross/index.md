@@ -3,6 +3,7 @@ posttype: "work"
 title: "Cross"
 date: "2021"
 category: "Sound installation"
+event: " "
 featuredImage: img0.jpg
 ---
   <div class="box">

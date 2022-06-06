@@ -3,6 +3,7 @@ posttype: "work"
 title: "Soul"
 date: "2022"
 category: "Sound installation"
+event: " "
 featuredImage: img0.jpg
 ---
   <div class="box">
@@ -48,4 +49,4 @@ featuredImage: img0.jpg
 
   <div class="box"></div>
 
-  <!-- <iframe title="vimeo-player" src="https://player.vimeo.com/video/530008996" frameborder="0" allowfullscreen></iframe> -->
+  <iframe title="vimeo-player" src="https://player.vimeo.com/video/717440499?h=69f2dc7100" frameborder="0" allowfullscreen></iframe>

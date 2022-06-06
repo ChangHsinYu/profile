@@ -2,6 +2,7 @@
 title: "Sketch of Audio Visual"
 date: '2020'
 category: 'Audio visual performance'
+event: " "
 featuredImage: img0.jpg
 ---
   <div class="box">

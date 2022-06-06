@@ -38,6 +38,7 @@ const Artworks = ({ data }) =>  (
 												title={node.frontmatter.title}
 												category={node.frontmatter.category}
 												date={node.frontmatter.date}
+												event={node.frontmatter.event}
 												img={img}
 												to={dest}
 												index={index}
@@ -63,6 +64,7 @@ export const query = graphql`
 						title
 		        date
 		        category
+						event
 						featuredImage {
 		          childImageSharp {
 		            gatsbyImageData

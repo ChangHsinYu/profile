@@ -8,9 +8,9 @@ class Artwork extends React.Component {
         <div className="work">
 
           <Link to={this.props.to}>
-								<div className="work_img">
-									<GatsbyImage image={this.props.img} style={{width:'100%', height:'100%'}} alt='artwork'/>
-								</div>
+					<div className="work_img">
+							<GatsbyImage image={this.props.img} style={{width:'100%', height:'100%'}} alt='artwork'/>
+					</div>
 					</Link>
 
           <div className="work_inf_mobile">
@@ -21,6 +21,9 @@ class Artwork extends React.Component {
 							<li style={{fontWeight:'700'}}>{this.props.title}<br /><br /></li>
 							<li>{this.props.category}<br /></li>
 							<li>{this.props.date}</li>
+					</ul>
+					<ul className="work_inf2">
+							<li>{this.props.event}</li>
 					</ul>
 
         </div>

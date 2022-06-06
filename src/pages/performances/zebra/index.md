@@ -2,6 +2,7 @@
 title: "Zebra's Dream"
 date: '2022'
 category: 'Audio visual performance'
+event: " "
 featuredImage: img0.jpg
 ---
   <div class="box">

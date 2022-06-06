@@ -3,6 +3,7 @@ posttype: "work"
 title: "Couldn't Find"
 date: "2018"
 category: "Installation"
+event: " "
 featuredImage: img-0.png
 ---
 <div class="box">

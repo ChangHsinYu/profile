@@ -10,12 +10,24 @@ import img8 from './codearts/img-8.jpg';
 import img9 from './codearts/img-9.jpg';
 import img10 from './codearts/img-10.jpg';
 import img11 from './codearts/img-11.jpg';
+import img12 from './codearts/img-12.jpg';
+import img13 from './codearts/img-13.jpg';
+import img14 from './codearts/img-14.jpg';
+import img15 from './codearts/img-15.jpg';
+import img16 from './codearts/img-16.jpg';
+import img17 from './codearts/img-17.jpg';
 
 import React from 'react';
 import './codearts.css';
 import Layout from '../components/layout'
 
 const codearts = [
+  img17,
+  img16,
+  img15,
+  img14,
+  img13,
+  img12,
   img11,
   img10,
   img9,

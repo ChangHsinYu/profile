@@ -36,8 +36,7 @@ His audio/visual performances are usually created through programming, focused o
           <span className="cv_title">Award</span><br/>
           <List year="2022">Like Water NFT Award - Second Award.(Taipei, Taiwan)</List>
           <List year="    ">Kaohsiung Award - shortlist.(Kaohsiung, Taiwan)</List>
-          <List year="2021">Taiwan Emerging Art Awards - shortlist.(Taichung, Taiwan)</List>
-          <List year="    ">Contemporary Art Prize - exellence award.(Taipei, Taiwan)</List>
+          <List year="2021">Contemporary Art Prize - exellence award.(Taipei, Taiwan)</List>
           <List year="    ">24th Japan Media Art Festival - art divition jury selection. (Japan)</List>
           <List year="2020">Taoyuan Technology Performing Art Awards - exellence award.(Taoyuan, Taiwan)</List>
           <br/>
@@ -96,8 +95,7 @@ His audio/visual performances are usually created through programming, focused o
           <span className="cv_title">獲獎</span><br/>
           <List year="2022">若水NFT藝術獎。貳獎，台灣</List>
           <List year="    ">高雄獎。入選獎，台灣</List>
-          <List year="2021">臺灣美術新貌獎。入圍，台灣</List>
-          <List year="    ">北藝當代藝術獎。優選，台灣</List>
+          <List year="2021">北藝當代藝術獎。優選，台灣</List>
           <List year="    ">文化廳媒體藝術祭24th。藝術類評審團獎，日本</List>
           <List year="2020">桃園科技藝術表演獎。優秀獎，台灣</List>
           <br/>

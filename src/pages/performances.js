@@ -5,6 +5,7 @@ import Artwork from '../components/artwork';
 import Layout from '../components/layout'
 
 const prfrmncs = [
+	"Counter",
 	"Zebra's Dream",
 	"Pronunciation Exercise",
 	"Memory Noise",

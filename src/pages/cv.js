@@ -34,15 +34,18 @@ His audio/visual performances are usually created through programming, focused o
           <br/>
           <br/>
           <span className="cv_title">Award</span><br/>
-          <List year="2022">Like Water NFT Award - Second Award.(Taipei, Taiwan)</List>
+          <List year="2022">Arte Laguna Prize - Final List.(Venis, Italy)</List>
+          <List year="    ">Like Water NFT Award - Second Award.(Taipei, Taiwan)</List>
           <List year="    ">Kaohsiung Award - shortlist.(Kaohsiung, Taiwan)</List>
           <List year="2021">Contemporary Art Prize - exellence award.(Taipei, Taiwan)</List>
-          <List year="    ">24th Japan Media Art Festival - art divition jury selection. (Japan)</List>
+          <List year="    ">24th Japan Media Art Festival - art divition jury selection. (Tokyo, Japan)</List>
           <List year="2020">Taoyuan Technology Performing Art Awards - exellence award.(Taoyuan, Taiwan)</List>
           <br/>
           <br/>
           <span className="cv_title">Exhibition</span><br/>
-          <List year="2022">NOW ON AIR. (Taipei, Taiwan)</List>
+          <List year="2022">Taiwan International Light Festival. (Taichung, Taiwan)</List>
+          <List year="    ">Meeting of style Taiwan. (New Taipei City, Taiwan)</List>
+          <List year="    ">NOW ON AIR. (Taipei, Taiwan)</List>
           <List year="    ">International Contemporary Art Fair. (Taipei, Taiwan)</List>
           <List year="    ">Reality is Virtually Virtual. (Taipei, Taiwan)</List>
           <List year="    ">DiffuSound. (Taipei, Taiwan)</List>
@@ -55,7 +58,12 @@ His audio/visual performances are usually created through programming, focused o
           <br/>
           <br/>
           <span className="cv_title">Performence</span><br/>
-          <List year="2022">NOW ON AIR.(Taipei, Taiwan)</List>
+          <List year="2022">off menu. (Taipei, Taiwan)</List>
+          <List year="    ">Kuan Du Light Art Festival opening. (Taipei, Taiwan)</List>
+          <List year="    ">Wandering Music Festival. (Taipei Taiwan)</List>
+          <List year="    ">Taipei Digital Art Festival opening. (Taipei, Taiwan)</List>
+          <List year="    ">Taoyuan Art x Technology Festival opening. (Taoyuan, Taiwan)</List>
+          <List year="    ">NOW ON AIR.(Taipei, Taiwan)</List>
           <List year="    ">Lacking Sound Festival : DiffuSound Vol.2.(Taipei, Taiwan)</List>
           <List year="2021">New Media Art Department 106 graduated production opening.(Taipei, Taiwan)</List>
           <List year="    ">New Media Art Department Exhibition 8th opening.(Taipei, Taiwan)</List>
@@ -64,6 +72,7 @@ His audio/visual performances are usually created through programming, focused o
           <br/>
           <br/>
           <span className="cv_title">Design</span><br/>
+          <List year="2022">Taoyuan Art x Technology Festival opening feat.DJ RAYRAY, Video Design.(Taichung, Taiwan)</List>
           <List year="2021">reCONNECT2021, Performer.(Taichung, Taiwan)</List>
           <List year="    ">Future Media Arts Festival-Technological Finding Netbot, Installation Design.(Taipei, Taiwan)</List>
           <List year="    ">Genesis One Prometheus' Dream : curtains up for new artist, Sound Design.(Taichung, Taiwan)</List>
@@ -72,8 +81,8 @@ His audio/visual performances are usually created through programming, focused o
           <List year="    ">99% Truth : MA Wei-Yuan and LIN Zhe-Zhi Double Solo Exhibitions, Technical Design.(Taipei, Taiwan)</List>
           <List year="    ">1:1 : MA Wei-Yuan solo performence, Technical Design.(Taipei, Taiwan)</List>
           <List year="2020">Post Garden : Technology and Music Transdisciplinary Experimental Theater, Electronic Sound Design.(Taipei, Taiwan)</List>
-          <List year="    ">Chambre of Hysteria : Taoyuan technology performing art awards, Sound and Visual Design.(Taipei, Taiwan)</List>
-          <List year="    ">The Future Shuttle : Taoyuan technology performing art awards, Visual Design.(Taipei, Taiwan)</List>
+          <List year="    ">Chambre of Hysteria : Taoyuan technology performing art awards, Sound and Video Design.(Taipei, Taiwan)</List>
+          <List year="    ">The Future Shuttle : Taoyuan technology performing art awards, Video Design.(Taipei, Taiwan)</List>
           <List year="    ">The Scenery of Little Light : NTT-TIFA Artist in Residence WANG Lien-Cheng's Project, New Media Design.(Taichung, Taiwan)</List>
           <List year="2019">Moving Me Badly : KuanDu Light Art Festival, New Media design.(Taipei, Taiwan)</List>
           <br/>
@@ -83,7 +92,7 @@ His audio/visual performances are usually created through programming, focused o
           <div className="cv_content_language">
           <div style={{fontSize:'1.4rem'}}>張欣語<br/></div>
           <br/>
-          1999年生於新竹，現就讀北藝大新媒體藝術學系，互動、聲音、裝置創作者。喜歡實驗聲響。裝置作品經常探討聲音的空間性、發聲機制及訊號的轉譯，注重聲音生成的方法，同時透過運作的規則呼應生活中的經驗感受及議題。比起完整規劃並控制最後的結果，在他創造的機制下產生的聲音的隨機性是更令人期待且有生命力的。音像表演習慣透過編寫程式創作，關注聲音與影像之間相互觸發的關係，常用最單純的元素延展出豐富的可能性，喜歡在表演中創造結構並破壞結構，以噪音作為某種解放的能量。<br/>
+          1999年生於新竹，互動、聲音、裝置創作者。喜歡實驗聲響。裝置作品經常探討聲音的空間性、發 聲機制及訊號的轉譯，注重聲音生成的方法，同時透過運作的規則呼應生活中的經驗感受及議題。 比起完整規劃並控制最後的結果，在他創造的機制下產生的聲音的隨機性是更令人期待且有生命力 的。音像表演習慣透過編寫程式創作，關注聲音與影像之間相互觸發的關係，常用最單純的元素延 展出豐富的可能性。<br/>
           <br/>
           <br/>
           <span className="cv_title">學歷</span><br/>
@@ -93,7 +102,8 @@ His audio/visual performances are usually created through programming, focused o
           <br/>
           <br/>
           <span className="cv_title">獲獎</span><br/>
-          <List year="2022">若水NFT藝術獎。貳獎，台灣</List>
+          <List year="2022">拉古納藝術獎。決選，義大利</List>
+          <List year="    ">若水NFT藝術獎。貳獎，台灣</List>
           <List year="    ">高雄獎。入選獎，台灣</List>
           <List year="2021">北藝當代藝術獎。優選，台灣</List>
           <List year="    ">文化廳媒體藝術祭24th。藝術類評審團獎，日本</List>
@@ -101,7 +111,9 @@ His audio/visual performances are usually created through programming, focused o
           <br/>
           <br/>
           <span className="cv_title">展覽</span><br/>
-          <List year="2022">北流無極限電台計畫。臺北流行音樂中心，臺北，台灣</List>
+          <List year="2022">數據光景:臺灣國際光影藝術節。國立臺灣美術館，台中，台灣</List>
+          <List year="    ">Meeting of style Taiwan。廢棄大樓，新北，台灣</List>
+          <List year="    ">北流無極限電台計畫。臺北流行音樂中心，臺北，台灣</List>
           <List year="    ">WHATZ國際當代藝術博覽會。臺北喜來登飯店，臺北，台灣</List>
           <List year="    ">假視說。San Gallerie，臺北，台灣</List>
           <List year="    ">瀰音。了了藝術空間，臺北，台灣</List>
@@ -114,7 +126,12 @@ His audio/visual performances are usually created through programming, focused o
           <br/>
           <br/>
           <span className="cv_title">表演</span><br/>
-          <List year="2022">北流無極限電台計畫。臺北流行音樂中心，臺北，台灣</List>
+          <List year="2022">Off Menu。松菸五號倉庫，台北，台灣</List>
+          <List year="    ">關渡光藝術節開幕。關渡碼頭，台北，台灣</List>
+          <List year="    ">聲徜音樂節。台灣當代文化實驗場，台北，台灣</List>
+          <List year="    ">臺北數位藝術節開幕。台北數位藝術中心，台北，台灣</List>
+          <List year="    ">桃園科技藝術節開幕。桃園展演中心，桃園，台灣</List>
+          <List year="    ">北流無極限電台計畫。臺北流行音樂中心，臺北，台灣</List>
           <List year="    ">失聲祭：瀰音。臺北數位藝術中心，臺北，台灣</List>
           <List year="2021">新媒體藝術系106級畢業製作開幕表演。四四南村，臺北，台灣</List>
           <List year="    ">新媒體藝術系系展8th開幕。北藝大地下美術館，臺北，台灣</List>
@@ -123,7 +140,8 @@ His audio/visual performances are usually created through programming, focused o
           <br/>
           <br/>
           <span className="cv_title">設計</span><br/>
-          <List year="2022">漸漸：古名伸x王連晟。技術及聲音執行。衛武營國家藝術文化中心，高雄，台灣</List>
+          <List year="2022">桃園科技藝術節 DJ RAYRAY共演。影像設計。桃園展演中心，桃園，台灣</List>
+          <List year="    ">漸漸：古名伸x王連晟。技術及聲音執行。衛武營國家藝術文化中心，高雄，台灣</List>
           <List year="2021">reCONNECT2021。表演者。臺中國家歌劇院，臺中，台灣</List>
           <List year="    ">未來媒體藝術節-TFN線上爬。裝置設計。空總臺灣當代文化實驗場，臺北，台灣</List>
           <List year="    ">創世紀首部曲普羅米修斯的夢境：開場計畫。聲音設計。臺中國家歌劇院，臺中，台灣</List>

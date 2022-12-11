@@ -6,6 +6,7 @@ import Project from '../components/project';
 import Layout from '../components/layout'
 
 const projects = [
+	"桃園科技藝術節前夜派對",
 	"reCONNECT2021",
 	"高樓",
 	"TFN線上爬",

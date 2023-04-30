@@ -34,8 +34,8 @@ His audio/visual performances are usually created through programming, focused o
           <br/>
           <br/>
           <span className="cv_title">Award</span><br/>
-          <List year="2022">Arte Laguna Prize - Final List.(Venis, Italy)</List>
-          <List year="    ">Like Water NFT Award - Second Award.(Taipei, Taiwan)</List>
+          <List year="2023">16th Arte Laguna Prize - Final List.(Venis, Italy)</List>
+          <List year="2022">Like Water NFT Award - Second Award.(Taipei, Taiwan)</List>
           <List year="    ">Kaohsiung Award - shortlist.(Kaohsiung, Taiwan)</List>
           <List year="2021">Contemporary Art Prize - exellence award.(Taipei, Taiwan)</List>
           <List year="    ">24th Japan Media Art Festival - art divition jury selection. (Tokyo, Japan)</List>
@@ -43,6 +43,7 @@ His audio/visual performances are usually created through programming, focused o
           <br/>
           <br/>
           <span className="cv_title">Exhibition</span><br/>
+          <List year="2023">Arte Laguna. (Venice, Italy)</List>
           <List year="2022">Taiwan International Light Festival. (Taichung, Taiwan)</List>
           <List year="    ">Meeting of style Taiwan. (New Taipei City, Taiwan)</List>
           <List year="    ">NOW ON AIR. (Taipei, Taiwan)</List>
@@ -58,6 +59,8 @@ His audio/visual performances are usually created through programming, focused o
           <br/>
           <br/>
           <span className="cv_title">Performence</span><br/>
+          <List year="2023">Taiwan Lantern Festival. (Taipei, Taiwan)</List>
+          <List year="    ">Future Vision Lab Dome. (Hualien, Taiwan)</List>
           <List year="2022">off menu. (Taipei, Taiwan)</List>
           <List year="    ">Kuan Du Light Art Festival opening. (Taipei, Taiwan)</List>
           <List year="    ">Wandering Music Festival. (Taipei Taiwan)</List>
@@ -102,8 +105,8 @@ His audio/visual performances are usually created through programming, focused o
           <br/>
           <br/>
           <span className="cv_title">獲獎</span><br/>
-          <List year="2022">拉古納藝術獎。決選，義大利</List>
-          <List year="    ">若水NFT藝術獎。貳獎，台灣</List>
+          <List year="2023">拉古納藝術獎16th。決選，義大利</List>
+          <List year="2022">若水NFT藝術獎。貳獎，台灣</List>
           <List year="    ">高雄獎。入選獎，台灣</List>
           <List year="2021">北藝當代藝術獎。優選，台灣</List>
           <List year="    ">文化廳媒體藝術祭24th。藝術類評審團獎，日本</List>
@@ -111,6 +114,7 @@ His audio/visual performances are usually created through programming, focused o
           <br/>
           <br/>
           <span className="cv_title">展覽</span><br/>
+          <List year="2023">拉古納藝術獎。威尼斯軍火庫，威尼斯，義大利</List>
           <List year="2022">數據光景:臺灣國際光影藝術節。國立臺灣美術館，台中，台灣</List>
           <List year="    ">Meeting of style Taiwan。廢棄大樓，新北，台灣</List>
           <List year="    ">北流無極限電台計畫。臺北流行音樂中心，臺北，台灣</List>
@@ -126,6 +130,8 @@ His audio/visual performances are usually created through programming, focused o
           <br/>
           <br/>
           <span className="cv_title">表演</span><br/>
+          <List year="2023">台灣燈會。台灣燈會未來舞台，台北，台灣</List>
+          <List year="    ">未來視覺派對Dome。花蓮創意產業園區，花蓮，台灣</List>
           <List year="2022">Off Menu。松菸五號倉庫，台北，台灣</List>
           <List year="    ">關渡光藝術節開幕。關渡碼頭，台北，台灣</List>
           <List year="    ">聲徜音樂節。台灣當代文化實驗場，台北，台灣</List>

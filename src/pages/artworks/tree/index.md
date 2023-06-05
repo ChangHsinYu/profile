@@ -8,6 +8,7 @@ featuredImage: img0.jpg
 ---
   <div class="box">
       <div class="dscrptn">
+        In electricity, magnetism, sound, and light, vibration, wave, and particles all play the role of transmitting signals. Due to the limitation of receivers, we can never fully receive cosmos-traversing signals. Although human beings have never stopped finding ways to survey the world, there are always unknown signals that are enchanting. Tree Noise resembles a survey of living organisms-it uses vibration detection to locate secret messages passing within and through plants. The mushroom-shaped device in the work receives sounds from within trees, and forms complicated neural networks among them. The installation, which looks like an enormous fungus, coexists with the trees, using sounds as its nutrients and carrying with it the pulses of trees as well as the unique sounds from surrounding animals and the changing environment.<br>
       </div>
   </div>
 

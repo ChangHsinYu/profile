@@ -3,7 +3,7 @@ title: "Pronunciation Exercise"
 date: '2021'
 category: 'Audio visual performance'
 event: " "
-featuredImage: img3.jpg
+featuredImage: img4.jpg
 ---
   <div class="box">
       <div class="dscrptn">

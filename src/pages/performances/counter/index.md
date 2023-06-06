@@ -30,6 +30,9 @@ featuredImage: img0.jpg
   <div class="box">
       <img class="subimg" src="./img5.jpg"/>
   </div>
+  <div class="box">
+      <img class="subimg" src="./img6.jpg"/>
+  </div>
 
   <div class="box"></div>
 

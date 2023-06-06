@@ -3,7 +3,7 @@ title: "Pronunciation Exercise"
 date: '2021'
 category: 'Audio visual performance'
 event: " "
-featuredImage: img4.jpg
+featuredImage: img0.jpg
 ---
   <div class="box">
       <div class="dscrptn">
@@ -27,10 +27,10 @@ featuredImage: img4.jpg
       <img class="subimg" src="./img5.jpg">
   </div>
 
-  <div class="box"></div>
+  <!-- <div class="box"></div> -->
 
   <div class="box">
-      <img class="subimg" src="./img0.jpg">
+      <img class="subimg" src="./img1.jpg">
   </div>
   <div class="box">
       <img class="subimg" src="./img2.jpg">

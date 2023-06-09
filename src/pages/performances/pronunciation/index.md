@@ -19,11 +19,11 @@ featuredImage: img0.jpg
 
   <div class="box">
       <img class="subimg" src="./img3.jpg">
-      <div class="photocredit">(photo credit : 葉廷皓)</div>
+      <div class="photocredit">(photo by : 葉廷皓)</div>
   </div>
   <div class="box">
       <img class="subimg" src="./img4.jpg">
-      <div class="photocredit">(photo credit : 葉廷皓)</div>
+      <div class="photocredit">(photo by : 葉廷皓)</div>
   </div>
  <!--  <div class="box">
       <img class="subimg" src="./img5.jpg">

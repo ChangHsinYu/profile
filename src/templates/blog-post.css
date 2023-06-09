@@ -27,6 +27,7 @@
 .box{
   display: inline-block;
   width:100%;
+  margin-bottom: 20px;
 }
 .ttlbox{
   display: inline-block;
@@ -43,10 +44,11 @@
   line-height:1.2rem;
 }
 .photocredit{
+  margin-top: 5px;
   font-family: 'Kumbh Sans', sans-serif;
   font-weight: 100;
   width:100%;
-  font-size: 0.1rem;
+  font-size: 0.8rem;
   letter-spacing: 0.03rem;
   text-align:left;
 }
@@ -90,7 +92,7 @@ iframe{
   .box{
     display: inline-block;
     width:48%;
-    margin-bottom: 20px;
+    margin-bottom: 5px;
     vertical-align : top;
   }
   .dscrptn{
@@ -103,6 +105,7 @@ iframe{
     line-height:1.5rem;
   }
   .photocredit{
+    margin-top: 2px;
     font-family: 'Kumbh Sans', sans-serif;
     font-weight: 100;
     width:100%;

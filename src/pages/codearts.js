@@ -43,7 +43,7 @@ const codearts = [
 ];
 
 const Codearts = ({ data }) =>  (
-      <Layout>
+      <Layout pageTitle="chang hsin-yu 張欣語 codearts">
       	<div className="work_main">
 					<div style={{display:'flex', justifyContent:'space-between', flexWrap:'wrap'}}>
         		{codearts.map((p, index) => {

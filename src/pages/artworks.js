@@ -30,7 +30,7 @@ function findTitle(edges, title) {
 }
 
 const Artworks = ({ data }) =>  (
-      <Layout>
+      <Layout pageTitle="chang hsin-yu 張欣語 works">
       <div className="work_main">
         {artworks.map((p, index) => {
           const node = findTitle(data.allMarkdownRemark.edges, p);

@@ -45,7 +45,7 @@ function findTitle(edges, title) {
 }
 
 const Projects = ({ data }) =>  (
-  <Layout>
+  <Layout pageTitle="chang hsin-yu 張欣語 projects">
       <div className="work_main">
 				<div style={{width:'100%', display:'flex', justifyContent:'space-between', flexWrap:'wrap'}}>
         	{projects.map((p, index) => {

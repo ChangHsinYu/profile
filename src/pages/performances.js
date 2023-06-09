@@ -25,7 +25,7 @@ function findTitle(edges, title) {
 }
 
 const Prfrmncs = ({ data }) =>  (
-      <Layout>
+      <Layout pageTitle="chang hsin-yu 張欣語 performance">
       <div className="work_main">
         {prfrmncs.map((p, index) => {
           const node = findTitle(data.allMarkdownRemark.edges, p);

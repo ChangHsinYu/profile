@@ -179,7 +179,7 @@ His audio/visual performances are usually created through programming, focused o
 
 export default function AboutPage ({ data }){
   return (
-    <Layout pageTitle="cv">
+    <Layout pageTitle="chang hsin-yu 張欣語 cv">
       <Cv />
     </Layout>
   )

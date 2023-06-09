@@ -15,6 +15,7 @@ featuredImage: img0.jpg
 
 <div class="box">
     <img class="subimg" src="./img1.jpg">
+    <div class="photocredit">(photo credit : 臺北數位藝術節)</div>
 </div>
 
 
@@ -27,11 +28,13 @@ featuredImage: img0.jpg
 
 <div class="box">
     <img class="subimg" src="./img2.jpg">
+    <div class="photocredit">(photo credit : 臺北數位藝術節)</div>
 </div>
 
 
 <div class="box">
     <img class="subimg" src="./img3.jpg">
+    <div class="photocredit">(photo credit : 臺北數位藝術節)</div>
 </div>
 
 

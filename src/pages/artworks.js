@@ -15,6 +15,7 @@ const artworks = [
 	"&#x611b",
 	"Cyberfly",
 	"Feeding",
+	"Stairway to Nothing",
 	"Couldn't Find",
 ];
 

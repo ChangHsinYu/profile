@@ -19,9 +19,11 @@ featuredImage: img0.jpg
 
   <div class="box">
       <img class="subimg" src="./img1.jpg">
+      <div class="photocredit">(photo by : 陳智彥)</div>
   </div>
   <div class="box">
       <img class="subimg" src="./img2.jpg">
+      <div class="photocredit">(photo by : 陳智彥)</div>
   </div>
 
   <div class="box"></div>

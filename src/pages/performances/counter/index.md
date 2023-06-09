@@ -17,21 +17,27 @@ featuredImage: img2.jpg
 
   <div class="box">
       <img class="subimg" src="./img0.jpg">
+      <div class="photocredit">(photo credit : 台灣燈會)</div>
   </div>
   <div class="box">
       <img class="subimg" src="./img1.jpg">
+      <div class="photocredit">(photo credit : 台灣燈會)</div>
   </div>
   <div class="box">
       <img class="subimg" src="./img3.jpg">
+      <div class="photocredit">(photo by : Jia-rong Lan)</div>
   </div>
   <div class="box">
       <img class="subimg" src="./img4.jpg"/>
+      <div class="photocredit">(photo by : Jia-rong Lan)</div>
   </div>
   <div class="box">
       <img class="subimg" src="./img5.jpg"/>
+      <div class="photocredit">(photo by : Jia-rong Lan)</div>
   </div>
   <div class="box">
       <img class="subimg" src="./img6.jpg"/>
+      <div class="photocredit">(photo by : Jia-rong Lan)</div>
   </div>
 
   <div class="box"></div>

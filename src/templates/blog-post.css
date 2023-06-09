@@ -42,6 +42,14 @@
   text-align:justify;
   line-height:1.2rem;
 }
+.photocredit{
+  font-family: 'Kumbh Sans', sans-serif;
+  font-weight: 100;
+  width:100%;
+  font-size: 0.1rem;
+  letter-spacing: 0.03rem;
+  text-align:left;
+}
 iframe{
   width:100%;
   height:calc(56.25*0.9vw);
@@ -93,6 +101,14 @@ iframe{
     letter-spacing: 0.03rem;
     text-align:justify;
     line-height:1.5rem;
+  }
+  .photocredit{
+    font-family: 'Kumbh Sans', sans-serif;
+    font-weight: 100;
+    width:100%;
+    font-size: 0.1rem;
+    letter-spacing: 0.03rem;
+    text-align:left;
   }
   iframe{
     width:100%;

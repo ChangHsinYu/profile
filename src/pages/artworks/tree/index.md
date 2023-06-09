@@ -15,6 +15,7 @@ featuredImage: img0.jpg
 
   <div class="box">
       <img class="subimg" src="./img1.jpg">
+      <div class="photocredit">(photo credit : 均勻製作)</div>
   </div>
 
 
@@ -27,14 +28,17 @@ featuredImage: img0.jpg
 
   <div class="box">
       <img class="subimg" src="./img2.jpg">
+      <div class="photocredit">(photo credit : 均勻製作)</div>
   </div>
 
   <div class="box">
       <img class="subimg" src="./img3.jpg">
+      <div class="photocredit">(photo credit : 國立臺灣美術館, by : 汪正翔)</div>
   </div>
 
   <div class="box">
       <img class="subimg" src="./img4.jpg">
+      <div class="photocredit">(photo credit : 國立臺灣美術館, by : 汪正翔)</div>
   </div>
 
   <div class="box"></div>

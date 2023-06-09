@@ -18,42 +18,54 @@ featuredImage: img1.jpg
 
   <div class="box">
       <img class="subimg" src="./img9.jpg">
+      <div class="photocredit">(photo credit : 桃園科技藝術節)</div>
   </div>
   <div class="box">
       <img class="subimg" src="./img10.jpg">
+      <div class="photocredit">(photo credit : 桃園科技藝術節)</div>
   </div>
   <div class="box">
       <img class="subimg" src="./img11.jpg">
+      <div class="photocredit">(photo credit : 桃園科技藝術節)</div>
   </div>
   <div class="box">
       <img class="subimg" src="./img12.jpg">
+      <div class="photocredit">(photo credit : 桃園科技藝術節)</div>
   </div>
 
   <div class="box">
       <img class="subimg" src="./img5.jpg">
+      <div class="photocredit">(photo credit : 台北流行音樂中心)</div>
   </div>
   <div class="box">
       <img class="subimg" src="./img6.jpg">
+      <div class="photocredit">(photo credit : 台北流行音樂中心)</div>
   </div>
   <div class="box">
       <img class="subimg" src="./img7.jpg">
+      <div class="photocredit">(photo credit : 台北流行音樂中心)</div>
   </div>
   <div class="box">
       <img class="subimg" src="./img8.jpg"/>
+      <div class="photocredit">(photo credit : 台北流行音樂中心)</div>
   </div>
 
 
   <div class="box">
       <img class="subimg" src="./img0.jpg">
+      <div class="photocredit">(photo credit : 失聲祭, by RiMao)</div>
   </div>
   <div class="box">
       <img class="subimg" src="./img2.jpg">
+      <div class="photocredit">(photo credit : 失聲祭, by RiMao)</div>
   </div>
   <div class="box">
       <img class="subimg" src="./img3.jpg">
+      <div class="photocredit">(photo credit : 失聲祭, by RiMao)</div>
   </div>
   <div class="box">
       <img class="subimg" src="./img4.jpg"/>
+      <div class="photocredit">(photo credit : 失聲祭, by RiMao)</div>
   </div>
 
   <div class="box"></div>

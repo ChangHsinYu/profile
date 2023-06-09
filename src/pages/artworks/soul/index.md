@@ -17,6 +17,7 @@ featuredImage: img0.jpg
 
   <div class="box">
       <img class="subimg" src="./img1.jpg">
+      <div class="photocredit">(photo by : 林彥翔)</div>
   </div>
 
 
@@ -29,22 +30,27 @@ featuredImage: img0.jpg
 
   <div class="box">
       <img class="subimg" src="./img2.jpg">
+      <div class="photocredit">(photo by : 林彥翔)</div>
   </div>
 
   <div class="box">
       <img class="subimg" src="./img3.jpg">
+      <div class="photocredit">(photo by : 林彥翔)</div>
   </div>
 
   <div class="box">
       <img class="subimg" src="./img4.jpg">
+      <div class="photocredit">(photo by : 林彥翔)</div>
   </div>
 
   <div class="box">
       <img class="subimg" src="./img5.jpg">
+      <div class="photocredit">(photo by : 林彥翔)</div>
   </div>
 
   <div class="box">
       <img class="subimg" src="./img6.jpg">
+      <div class="photocredit">(photo by : 林彥翔)</div>
   </div>
 
   <div class="box"></div>

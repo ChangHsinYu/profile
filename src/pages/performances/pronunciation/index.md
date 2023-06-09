@@ -19,21 +19,25 @@ featuredImage: img0.jpg
 
   <div class="box">
       <img class="subimg" src="./img3.jpg">
+      <div class="photocredit">(photo credit : 葉廷皓)</div>
   </div>
   <div class="box">
       <img class="subimg" src="./img4.jpg">
+      <div class="photocredit">(photo credit : 葉廷皓)</div>
   </div>
-  <div class="box">
+ <!--  <div class="box">
       <img class="subimg" src="./img5.jpg">
-  </div>
+  </div> -->
 
   <!-- <div class="box"></div> -->
 
   <div class="box">
       <img class="subimg" src="./img1.jpg">
+      <div class="photocredit">(photo credit : CHANG HSIN YU)</div>
   </div>
   <div class="box">
       <img class="subimg" src="./img2.jpg">
+      <div class="photocredit">(photo credit : CHANG HSIN YU)</div>
   </div>
 
   <div class="box"></div>

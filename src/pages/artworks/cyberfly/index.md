@@ -16,6 +16,7 @@ featuredImage: img0.jpg
 
   <div class="box">
       <img class="subimg" src="./img1.jpg">
+      <div class="photocredit">(photo credit : CHANG HSIN YU)</div>
   </div>
 
 
@@ -29,6 +30,7 @@ featuredImage: img0.jpg
 
   <div class="box">
       <img class="subimg" src="./img2.jpg">
+      <div class="photocredit">(photo credit : CHANG HSIN YU)</div>
   </div>
 
 

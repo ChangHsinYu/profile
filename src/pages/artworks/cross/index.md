@@ -16,6 +16,7 @@ featuredImage: img0.jpg
 
   <div class="box">
       <img class="subimg" src="./img1.jpg">
+      <div class="photocredit">(photo credit : CHANG HSIN YU)</div>
   </div>
 
 
@@ -29,33 +30,37 @@ featuredImage: img0.jpg
 
   <div class="box">
       <img class="subimg" src="./img2.jpg">
+      <div class="photocredit">(photo credit : CHANG HSIN YU)</div>
   </div>
 
-  <div class="box"></div>
 
-  <iframe title="vimeo-player" src="https://player.vimeo.com/video/530008996" frameborder="0" allowfullscreen></iframe>
-
+<!-- 
   <div class="box">
     <br>
   </div>
   <div class="box">
     <br>
-  </div>
+  </div> -->
 
   <div class="box">
       <img class="subimg" src="./img3.jpg">
+      <div class="photocredit">(photo credit : CHANG HSIN YU)</div>
   </div>
 
   <div class="box">
       <img class="subimg" src="./img4.jpg">
+      <div class="photocredit">(photo credit : CHANG HSIN YU)</div>
   </div>
 
   <div class="box">
       <img class="subimg" src="./img5.jpg">
+      <div class="photocredit">(photo credit : CHANG HSIN YU)</div>
   </div>
 
   <div class="box">
       <img class="subimg" src="./img6.jpg">
+      <div class="photocredit">(photo credit : CHANG HSIN YU)</div>
   </div>
 
-  <iframe title="vimeo-player" src="https://player.vimeo.com/video/548477446" frameborder="0" allowfullscreen></iframe>
+  <!-- <iframe title="vimeo-player" src="https://player.vimeo.com/video/548477446" frameborder="0" allowfullscreen></iframe> -->
+  <iframe title="vimeo-player" src="https://player.vimeo.com/video/530008996" frameborder="0" allowfullscreen></iframe>

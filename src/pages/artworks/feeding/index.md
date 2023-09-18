@@ -36,6 +36,10 @@ featuredImage: img0.jpg
     <div class="photocredit">(photo credit : CHANG HSIN YU)</div>
 </div>
 
+<div class="box">
+    <img class="subimg" src="./img0.jpg">
+    <div class="photocredit">(photo credit : CHANG HSIN YU)</div>
+</div>
 
 <div class="box"></div>
 

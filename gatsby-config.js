@@ -1,5 +1,4 @@
 module.exports = {
-
   siteMetadata: {
     title: "profile",
     siteUrl: `https://www.hsiinyu.com`,
@@ -14,7 +13,7 @@ module.exports = {
     `gatsby-transformer-remark`,
     `gatsby-transformer-sharp`,
     `gatsby-transformer-json`,
-
+    
     {
       resolve: `gatsby-plugin-typography`,
       options: {

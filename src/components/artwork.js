@@ -1,5 +1,5 @@
 import React from 'react';
-import Link from 'gatsby-link';
+import { Link }from 'gatsby-link';
 import { GatsbyImage } from "gatsby-plugin-image";
 
 class Artwork extends React.Component {

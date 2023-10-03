@@ -11,6 +11,8 @@
   "731-bbe0fbeb165956de95b2.js.map": "731-bbe0fbeb165956de95b2.js.map",
   "843-e5142403cc39bd2faf2f.js": "843-e5142403cc39bd2faf2f.js",
   "843-e5142403cc39bd2faf2f.js.map": "843-e5142403cc39bd2faf2f.js.map",
+  "86-5058b9da062a9674115d.js": "86-5058b9da062a9674115d.js",
+  "86-5058b9da062a9674115d.js.map": "86-5058b9da062a9674115d.js.map",
   "app-8c32c42d3cf43838f667.js.LICENSE.txt": "app-8c32c42d3cf43838f667.js.LICENSE.txt",
   "app-8c32c42d3cf43838f667.js.map": "app-8c32c42d3cf43838f667.js.map",
   "app.js": "app-8c32c42d3cf43838f667.js",
@@ -22,8 +24,9 @@
   "component---src-pages-codearts-js.js": "component---src-pages-codearts-js-19d9d4590feb728e2e19.js",
   "component---src-pages-cv-js-778ba334ef2e44ee1fda.js.map": "component---src-pages-cv-js-778ba334ef2e44ee1fda.js.map",
   "component---src-pages-cv-js.js": "component---src-pages-cv-js-778ba334ef2e44ee1fda.js",
+  "component---src-pages-index-js-145a2b5c2750ae7d669d.js.map": "component---src-pages-index-js-145a2b5c2750ae7d669d.js.map",
   "component---src-pages-index-js-2cf8df46c7b69d4cbfa4.js.map": "component---src-pages-index-js-2cf8df46c7b69d4cbfa4.js.map",
-  "component---src-pages-index-js.js": "component---src-pages-index-js-2cf8df46c7b69d4cbfa4.js",
+  "component---src-pages-index-js.js": "component---src-pages-index-js-145a2b5c2750ae7d669d.js",
   "component---src-pages-performances-js-7107edeee80e7e2060c2.js.map": "component---src-pages-performances-js-7107edeee80e7e2060c2.js.map",
   "component---src-pages-performances-js.js": "component---src-pages-performances-js-7107edeee80e7e2060c2.js",
   "component---src-pages-projects-js-c3166d7bd778831c39cb.js.LICENSE.txt": "component---src-pages-projects-js-c3166d7bd778831c39cb.js.LICENSE.txt",
@@ -77,5 +80,6 @@
   "static/vm.png": "static/vm-5b129662c6d9c82575cad053eb397f1c.png",
   "styles.css": "styles.3fb8695b5c4ea6a8c601.css",
   "webpack-runtime-46cdd04efac30cebe821.js.map": "webpack-runtime-46cdd04efac30cebe821.js.map",
-  "webpack-runtime.js": "webpack-runtime-46cdd04efac30cebe821.js"
+  "webpack-runtime-6658fe3b567bca28b2db.js.map": "webpack-runtime-6658fe3b567bca28b2db.js.map",
+  "webpack-runtime.js": "webpack-runtime-6658fe3b567bca28b2db.js"
 }

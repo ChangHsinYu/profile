@@ -57,30 +57,28 @@ const Artworks = ({ data }) =>  (
 
 export default Artworks;
 
-export const query = graphql`
-  query {
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
-      totalCount
-      edges {
-        node {
-          id
-          frontmatter {
-						title
-		        date
-		        category
-						event
-						featuredImage {
-		          childImageSharp {
-		            gatsbyImageData
-		          }
-		        }
+export const query = graphql`{
+  allMarkdownRemark(sort: {frontmatter: {date: DESC}}) {
+    totalCount
+    edges {
+      node {
+        id
+        frontmatter {
+          title
+          date
+          category
+          event
+          featuredImage {
+            childImageSharp {
+              gatsbyImageData
+            }
           }
-          fields {
-            slug
-          }
-          excerpt
         }
+        fields {
+          slug
+        }
+        excerpt
       }
     }
   }
-`
+}`

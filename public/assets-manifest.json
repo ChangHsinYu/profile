@@ -44,8 +44,9 @@
   "component---src-pages-404-js.js": "component---src-pages-404-js-c86378c68ea3efee64bc.js",
   "component---src-pages-artworks-js-18ac9dc1936b10cf5e6c.js.map": "component---src-pages-artworks-js-18ac9dc1936b10cf5e6c.js.map",
   "component---src-pages-artworks-js-36869c4631430a47323c.js.map": "component---src-pages-artworks-js-36869c4631430a47323c.js.map",
+  "component---src-pages-artworks-js-66877e581b6fface2105.js.map": "component---src-pages-artworks-js-66877e581b6fface2105.js.map",
   "component---src-pages-artworks-js-8bc9a83ea7fd5161cd43.js.map": "component---src-pages-artworks-js-8bc9a83ea7fd5161cd43.js.map",
-  "component---src-pages-artworks-js.js": "component---src-pages-artworks-js-8bc9a83ea7fd5161cd43.js",
+  "component---src-pages-artworks-js.js": "component---src-pages-artworks-js-66877e581b6fface2105.js",
   "component---src-pages-codearts-js-102cf332bf5b52a2e899.js.map": "component---src-pages-codearts-js-102cf332bf5b52a2e899.js.map",
   "component---src-pages-codearts-js-19d9d4590feb728e2e19.js.map": "component---src-pages-codearts-js-19d9d4590feb728e2e19.js.map",
   "component---src-pages-codearts-js-6f445a02f9a719666e9e.js.map": "component---src-pages-codearts-js-6f445a02f9a719666e9e.js.map",
@@ -135,7 +136,7 @@
   "static/portrait.jpg": "static/portrait-1d1bdd0805ece49b652c68333bf767a0.jpg",
   "static/tw.png": "static/tw-8e65601e69067aadfe551b6635ea3420.png",
   "static/vm.png": "static/vm-5b129662c6d9c82575cad053eb397f1c.png",
-  "styles.css": "styles.3fb8695b5c4ea6a8c601.css",
+  "styles.css": "styles.303767a891754e17a444.css",
   "webpack-runtime-072d068e7bca239fcd44.js.map": "webpack-runtime-072d068e7bca239fcd44.js.map",
   "webpack-runtime-0771d97703f45b256052.js.map": "webpack-runtime-0771d97703f45b256052.js.map",
   "webpack-runtime-08dc228794dd3a3ddb9c.js.map": "webpack-runtime-08dc228794dd3a3ddb9c.js.map",
@@ -148,10 +149,11 @@
   "webpack-runtime-6bfd686c854c12a64225.js.map": "webpack-runtime-6bfd686c854c12a64225.js.map",
   "webpack-runtime-735ea728964b9d74aab9.js.map": "webpack-runtime-735ea728964b9d74aab9.js.map",
   "webpack-runtime-74d3f5c751f77445b00b.js.map": "webpack-runtime-74d3f5c751f77445b00b.js.map",
+  "webpack-runtime-a24d0dd38606e1b17735.js.map": "webpack-runtime-a24d0dd38606e1b17735.js.map",
   "webpack-runtime-af19acca501284c4cece.js.map": "webpack-runtime-af19acca501284c4cece.js.map",
   "webpack-runtime-b9a83d0aa6f96389db4f.js.map": "webpack-runtime-b9a83d0aa6f96389db4f.js.map",
   "webpack-runtime-d2a21cc9712906772370.js.map": "webpack-runtime-d2a21cc9712906772370.js.map",
   "webpack-runtime-e5306cadc695698cf9ad.js.map": "webpack-runtime-e5306cadc695698cf9ad.js.map",
   "webpack-runtime-f4d9196f2ae75bff6a7d.js.map": "webpack-runtime-f4d9196f2ae75bff6a7d.js.map",
-  "webpack-runtime.js": "webpack-runtime-072d068e7bca239fcd44.js"
+  "webpack-runtime.js": "webpack-runtime-a24d0dd38606e1b17735.js"
 }

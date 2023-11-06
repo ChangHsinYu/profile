@@ -43,7 +43,35 @@ The physical feeling of wandering in the ambiguous junction zone alternately cha
 
   <div class="box">
       <img class="subimg" src="./img6.jpg">
-      <div class="photocredit">(photo by : 林彥翔, 謝佳瑜)</div>
+      <div class="photocredit">(photo by : phont)</div>
+  </div>
+
+  <div class="box">
+      <img class="subimg" src="./img7.jpg">
+      <div class="photocredit">(photo by : phont)</div>
+  </div>
+  <div class="box">
+      <img class="subimg" src="./img8.jpg">
+      <div class="photocredit">(photo by : phont)</div>
+  </div>
+
+  <div class="box">
+      <img class="subimg" src="./img9.jpg">
+      <div class="photocredit">(photo by : phont)</div>
+  </div>
+
+  <div class="box">
+      <img class="subimg" src="./img10.jpg">
+      <div class="photocredit">(photo by : phont)</div>
+  </div>
+  <div class="box">
+      <img class="subimg" src="./img11.jpg">
+      <div class="photocredit">(photo by : phont)</div>
+  </div>
+
+  <div class="box">
+      <img class="subimg" src="./img12.jpg">
+      <div class="photocredit">(photo by : phont)</div>
   </div>
 
   <div class="box"></div>

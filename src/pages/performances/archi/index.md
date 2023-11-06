@@ -3,7 +3,7 @@ title: "Dive in Architecture"
 date: '2023'
 category: 'Audio visual performance'
 event: " "
-featuredImage: img0.jpg
+featuredImage: img12.jpg
 ---
   <div class="box">
       <div class="dscrptn">
@@ -19,16 +19,16 @@ The physical feeling of wandering in the ambiguous junction zone alternately cha
   </div>
 
   <div class="box">
-      <img class="subimg" src="./img1.jpg">
+      <img class="subimg" src="./img0.jpg">
       <div class="photocredit">(photo by : 林彥翔, 謝佳瑜)</div>
   </div>
   <div class="box">
-      <img class="subimg" src="./img2.jpg">
+      <img class="subimg" src="./img1.jpg">
       <div class="photocredit">(photo by : 林彥翔, 謝佳瑜)</div>
   </div>
 
   <div class="box">
-      <img class="subimg" src="./img3.jpg">
+      <img class="subimg" src="./img2.jpg">
       <div class="photocredit">(photo by : 林彥翔, 謝佳瑜)</div>
   </div>
 
@@ -43,7 +43,7 @@ The physical feeling of wandering in the ambiguous junction zone alternately cha
 
   <div class="box">
       <img class="subimg" src="./img6.jpg">
-      <div class="photocredit">(photo by : phont)</div>
+      <div class="photocredit">(photo by : 林彥翔, 謝佳瑜)</div>
   </div>
 
   <div class="box">

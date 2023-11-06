@@ -16,6 +16,24 @@ featuredImage: img1.jpg
       </div>
   </div>
 
+  
+  <div class="box">
+      <img class="subimg" src="./img13.jpg">
+      <div class="photocredit">(photo credit: Taiwan Contemporary Culture Lab)</div>
+  </div>
+  <div class="box">
+      <img class="subimg" src="./img14.jpg">
+      <div class="photocredit">(photo credit : Taiwan Contemporary Culture Lab)</div>
+  </div>
+  <div class="box">
+      <img class="subimg" src="./img15.jpg">
+      <div class="photocredit">(photo credit : Taiwan Contemporary Culture Lab)</div>
+  </div>
+  <div class="box">
+      <img class="subimg" src="./img16.jpg">
+      <div class="photocredit">(photo credit : Taiwan Contemporary Culture Lab)</div>
+  </div>
+  
   <div class="box">
       <img class="subimg" src="./img9.jpg">
       <div class="photocredit">(photo credit : 桃園科技藝術節)</div>
@@ -46,7 +64,7 @@ featuredImage: img1.jpg
       <div class="photocredit">(photo credit : 台北流行音樂中心)</div>
   </div>
   <div class="box">
-      <img class="subimg" src="./img8.jpg"/>
+      <img class="subimg" src="./img8.jpg">
       <div class="photocredit">(photo credit : 台北流行音樂中心)</div>
   </div>
 
@@ -64,9 +82,11 @@ featuredImage: img1.jpg
       <div class="photocredit">(photo credit : 失聲祭, by RiMao)</div>
   </div>
   <div class="box">
-      <img class="subimg" src="./img4.jpg"/>
+      <img class="subimg" src="./img4.jpg">
       <div class="photocredit">(photo credit : 失聲祭, by RiMao)</div>
   </div>
+
+  
 
   <div class="box"></div>
 

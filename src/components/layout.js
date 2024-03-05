@@ -56,7 +56,6 @@ const Contact = props =>(
       <Icon href="https://vimeo.com/changhsinyu" icon={vmicon} />
       <Icon href="https://twitter.com/ChangHsinYu3" icon={twicon} />
       <Icon href="https://github.com/ChangHsinYu" icon={giticon} />
-      <Icon href="https://www.hicetnunc.xyz/tz/tz1PpCGDRWH757zKZKHuFHbjcCPg6C5snsrz" icon={shpicon} />
   </ul>
 )
 
@@ -64,7 +63,7 @@ const Foot = () =>{
   return(
     <div style={{width:'100%',float:'left'}}>
         <Contact className="contact"/>
-        <div className="copyright">CHANG HSIN YU © 2020</div>
+        <div className="copyright">CHANG HSIN YU © 2024</div>
     </div>
   );
 }

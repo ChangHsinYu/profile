@@ -23,7 +23,7 @@ const Cv = () =>{
           <div className="cv_content_language">
             <div style={{fontSize:'1.4rem'}}>Chang Hsin Yu<br/></div>
           <br/>
-          Chang Hsin Yu is an interactive, sound, installation artist based in Taiwan, born in HsinChu in 1999, currently studying in the Department of New Media Art of Taipei National University of the Arts.<br/>
+          Chang Hsin Yu is an interactive, sound, installation artist based in Taiwan, born in HsinChu in 1999, Graduated from the Department of New Media Art of Taipei National University of the Arts.<br/>
 For him, sound is an exploration of the world , an abstract but direct energy and an invisible mental power. His sound installation works discuss the spatiality, mechanism and translation of sound, and through the generative mechanism to response life experiences and issues. Compare to the complete planning and control, he think the randomness of sound and mechanism is more exciting and vitality.<br/>
 His audio/visual performances are usually created through programming, focused on the relationship between sound and image and extend possibilities of the purest elements. He generally create and destroy structures in performances, and seem noise as a liberating energy.<br/>
           <br/><br/>
@@ -110,7 +110,7 @@ His audio/visual performances are usually created through programming, focused o
           <div className="cv_content_language">
           <div style={{fontSize:'1.4rem'}}>張欣語<br/></div>
           <br/>
-          1999年生於新竹，互動、聲音、裝置創作者。喜歡實驗聲響。裝置作品經常探討聲音的空間性、發聲機制及訊號的轉譯，注重聲音生成的方法，同時透過運作的規則呼應生活中的經驗感受及議題。 比起完整規劃並控制最後的結果，在他創造的機制下產生的聲音的隨機性是更令人期待且有生命力 的。音像表演習慣透過編寫程式創作，關注聲音與影像之間相互觸發的關係，常用最單純的元素延 展出豐富的可能性。<br/>
+          1999年生於新竹，畢業於國立臺北藝術大學新媒體藝術學系，互動、聲音、裝置創作者。喜歡實驗聲響。裝置作品經常探討聲音的空間性、發聲機制及訊號的轉譯，注重聲音生成的方法，同時透過運作的規則呼應生活中的經驗感受及議題。 比起完整規劃並控制最後的結果，在他創造的機制下產生的聲音的隨機性是更令人期待且有生命力 的。音像表演習慣透過編寫程式創作，關注聲音與影像之間相互觸發的關係，常用最單純的元素延 展出豐富的可能性。<br/>
           <br/>
           <br/>
           <span className="cv_title">學歷</span><br/>

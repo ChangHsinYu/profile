@@ -16,12 +16,20 @@ import img14 from './codearts/img-14.jpg';
 import img15 from './codearts/img-15.jpg';
 import img16 from './codearts/img-16.jpg';
 import img17 from './codearts/img-17.jpg';
+import img18 from './codearts/img-18.jpg';
+import img19 from './codearts/img-19.jpg';
+import img20 from './codearts/img-20.jpg';
+import img21 from './codearts/img-21.jpg';
 
 import React from 'react';
 import './codearts.css';
 import Layout from '../components/layout'
 
 const codearts = [
+  img21,
+  img20,
+  img19,
+  img18,
   img17,
   img16,
   img15,

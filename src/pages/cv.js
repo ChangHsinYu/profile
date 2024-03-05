@@ -43,7 +43,9 @@ His audio/visual performances are usually created through programming, focused o
           <br/>
           <br/>
           <span className="cv_title">Exhibition</span><br/>
-          <List year="2023">Epicentrum-Ars Electronica. (Linz, Austria)</List>
+          <List year="2024">Yuejin Lantern Festival. (Tainan, Taiwan)</List>
+          <List year="2023">C-LAB Sound Festival: Diversonics. (Taipei, Taiwan)</List>
+          <List year="    ">Epicentrum-Ars Electronica. (Linz, Austria)</List>
           <List year="    ">Flow. (Taipei, Taiwan)</List>
           <List year="    ">Arte Laguna. (Venice, Italy)</List>
           <List year="2022">Taiwan International Light Festival. (Taichung, Taiwan)</List>
@@ -61,7 +63,13 @@ His audio/visual performances are usually created through programming, focused o
           <br/>
           <br/>
           <span className="cv_title">Performence</span><br/>
-          <List year="2023">Ars Electronica Sound Campus. (Linz, Austria)</List>
+          <List year="2024">Yuejin Lantern Festival. (Tainan, Taiwan)</List>
+          <List year="    ">Taipei Art Award. (Taipei, Taiwan)</List>
+          <List year="2023">Future Vision Party. (Taipei, Taiwan)</List>
+          <List year="    ">reCONNECT 2023: NEW CANVAS. (Taichung, Taiwan)</List>
+          <List year="    ">Public visual Tokyo. (Tokyo Japan)</List>
+          <List year="    ">C-LAB Sound Festival: Diversonics. (Taipei, Taiwan)</List>
+          <List year="    ">Ars Electronica Sound Campus. (Linz, Austria)</List>
           <List year="    ">Sensation Remix. (Luodong, Yilan)</List>
           <List year="    ">ABYSS ZONE. (Taipei, Taiwan)</List>
           <List year="    ">New Media Art Department 108 graduated production opening.(Taipei, Taiwan)</List>
@@ -102,7 +110,7 @@ His audio/visual performances are usually created through programming, focused o
           <div className="cv_content_language">
           <div style={{fontSize:'1.4rem'}}>張欣語<br/></div>
           <br/>
-          1999年生於新竹，互動、聲音、裝置創作者。喜歡實驗聲響。裝置作品經常探討聲音的空間性、發 聲機制及訊號的轉譯，注重聲音生成的方法，同時透過運作的規則呼應生活中的經驗感受及議題。 比起完整規劃並控制最後的結果，在他創造的機制下產生的聲音的隨機性是更令人期待且有生命力 的。音像表演習慣透過編寫程式創作，關注聲音與影像之間相互觸發的關係，常用最單純的元素延 展出豐富的可能性。<br/>
+          1999年生於新竹，互動、聲音、裝置創作者。喜歡實驗聲響。裝置作品經常探討聲音的空間性、發聲機制及訊號的轉譯，注重聲音生成的方法，同時透過運作的規則呼應生活中的經驗感受及議題。 比起完整規劃並控制最後的結果，在他創造的機制下產生的聲音的隨機性是更令人期待且有生命力 的。音像表演習慣透過編寫程式創作，關注聲音與影像之間相互觸發的關係，常用最單純的元素延 展出豐富的可能性。<br/>
           <br/>
           <br/>
           <span className="cv_title">學歷</span><br/>
@@ -121,7 +129,9 @@ His audio/visual performances are usually created through programming, focused o
           <br/>
           <br/>
           <span className="cv_title">展覽</span><br/>
-          <List year="2023">震源：林茲電子藝術節。SPLACE Gallery，林茲，奧地利</List>
+          <List year="2024">月津港燈節。月津港，台南，台灣</List>
+          <List year="2023">聲響藝術節：DIVERSONICS。C-Lab通訊展演分隊，台北，台灣</List>
+          <List year="    ">震源：林茲電子藝術節。SPLACE Gallery，林茲，奧地利</List>
           <List year="    ">潺Flow。潛艇藝術空間，台北，台灣</List>
           <List year="    ">拉古納藝術獎。威尼斯軍火庫，威尼斯，義大利</List>
           <List year="2022">數據光景:臺灣國際光影藝術節。國立臺灣美術館，台中，台灣</List>
@@ -139,7 +149,13 @@ His audio/visual performances are usually created through programming, focused o
           <br/>
           <br/>
           <span className="cv_title">表演</span><br/>
-          <List year="2023">林茲電子藝術節：Sound Campus。林茲藝術大學中庭，林茲，奧地利</List>
+          <List year="2024">月津港燈節。月津港，台南，台灣</List>
+          <List year="    ">台北美術獎。台北市立美術館，台北，台灣</List>
+          <List year="2023">未來視覺派對。C-LAB 未來視覺實驗室，台北，台灣</List>
+          <List year="    ">reCONNECT 2023: NEW CANVAS。台中國家歌劇院，台中，台灣</List>
+          <List year="    ">public visual Tokyo。Tunnel Tokyo，東京，日本</List>
+          <List year="    ">聲響藝術節：DIVERSONICS。C-LAB戶外舞台，台北，台灣</List>
+          <List year="    ">林茲電子藝術節：Sound Campus。林茲藝術大學中庭，林茲，奧地利</List>
           <List year="    ">感覺重混，羅東，宜蘭</List>
           <List year="    ">ABYSS ZONE。潛艇藝術空間，臺北，台灣</List>
           <List year="    ">新媒體藝術系108級畢業製作開幕表演。國立臺灣科學教育館，臺北，台灣</List>

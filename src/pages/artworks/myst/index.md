@@ -6,17 +6,17 @@ category: "Sound installation"
 event: " "
 featuredImage: img0.jpg
 ---
+
   <div class="box">
       <div class="dscrptn">
+      In the depictions of mysterious creatures in many film and television works, the most fascinating thing is often not their physical form, but the insinuations before they appear, the phenomena they cause, the vibrations of the body, the smell, the sound... . The installation work "Myst" creates the illusion of an incorporeal creature, using sound to keep the state in the imagination before the monster manifests. At the same time, it explores the control of water mist and its possibility as a sound medium<br>
       </div>
   </div>
-
 
   <div class="box">
       <img class="subimg" src="./img1.jpg">
       <div class="photocredit">(photo credit : CHANG HSIN YU)</div>
   </div>
-
 
   <div class="box">
       <div class="dscrptn">

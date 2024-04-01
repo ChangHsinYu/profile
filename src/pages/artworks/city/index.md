@@ -3,6 +3,7 @@ title: "Chaotic City"
 date: '2024'
 category: 'Audio visual performance'
 event: " "
+venue: "Taiwan Contemporary Culture Lab (TW), Digital Art Center Taipei (TW), Taipei Fine Arts Museum (TW)"
 featuredImage: img0.jpg
 ---
   <div class="box">

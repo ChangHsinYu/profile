@@ -3,6 +3,7 @@ title: "Counter"
 date: '2022'
 category: 'Audio visual performance'
 event: " "
+venue: "National Taiwan Science Education Center (TW), Digital Art Center Taipei (TW)"
 featuredImage: img2.jpg
 ---
   <div class="box">

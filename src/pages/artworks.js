@@ -6,28 +6,27 @@ import Layout from '../components/layout'
 
 const artworks = [
 	"Listen to the Light - routine",
-	"Chaotic City",
 	"Myst",
 	"Soul - Vinyl",
-	"Dive in Architecture",
-	"Space Surfing",
-	"Vibration of Ink Fluid",
 	"Tree Noise",
 	"Portal",
-	"Counter",
 	"Listen to the Light",
 	"Soul",
-	"Zebra's Dream",
-	"&#x611b (online version)",
 	"Cross",
 	"&#x611b",
 	"Cyberfly",
-	"Pronunciation Exercise",
 	"Feeding",
+	"Couldn't Find",
+	"Chaotic City",
+	"Dive in Architecture",
+	"Space Surfing",
+	"Vibration of Ink Fluid",
+	"Counter",
+	"Zebra's Dream",
+	"&#x611b (online version)",
+	"Pronunciation Exercise",
 	"Memory Noise",
 	"Sketch of Audio Visual",
-	"Stairway to Nothing",
-	"Couldn't Find",
 ];
 
 function findTitle(edges, title) {
@@ -43,16 +42,18 @@ function findTitle(edges, title) {
 const Artworks = ({ data }) =>  (
       <Layout pageTitle="chang hsin-yu 張欣語 works">
       <div className="work_main">
+      <div style={{width:'100%', display:'flex', justifyContent:'space-between', flexWrap:'wrap'}}>
         {artworks.map((p, index) => {
           const node = findTitle(data.allMarkdownRemark.edges, p);
 				  const dest = node ? node.fields.slug : '';
 					const img = node.frontmatter.featuredImage.childImageSharp.gatsbyImageData;
           return (
-            <div key={p}>
+            <div key={p} className="work">
               <Artwork
 												title={node.frontmatter.title}
 												category={node.frontmatter.category}
 												date={node.frontmatter.date}
+												venue={node.frontmatter.venue}
 												event={node.frontmatter.event}
 												img={img}
 												to={dest}
@@ -62,6 +63,7 @@ const Artworks = ({ data }) =>  (
             </div>
 				          );
         })}
+      </div>
       </div>
       </Layout>
 );
@@ -79,6 +81,7 @@ export const query = graphql`{
           date
           category
           event
+          venue
           featuredImage {
             childImageSharp {
               gatsbyImageData

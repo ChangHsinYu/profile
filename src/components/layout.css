@@ -148,6 +148,9 @@ li{
     margin:auto;
     text-align:justify;
     z-index: 0;
+    /*display:flex;
+    justifyContent:space-between;
+    flexWrap:wrap;*/
   }
   .icon{
     width:10%;
@@ -192,6 +195,7 @@ li{
     font-size: 0.6rem;
     text-align: left;
     margin-top: 5%;
+    margin-left: 0;
     float: right;
     display: block;
   }

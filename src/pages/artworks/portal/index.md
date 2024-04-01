@@ -4,6 +4,7 @@ title: "Portal"
 date: "2022"
 category: "Light installation"
 event: " "
+venue: "Abandoned factory (TW)"
 featuredImage: img0.jpg
 ---
   <div class="box">

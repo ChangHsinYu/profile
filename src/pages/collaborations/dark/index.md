@@ -1,6 +1,6 @@
 ---
 title: "闇物種"
-category: 'Visual Design 影像設計'
+category: 'Visual'
 date: "2020"
 event: "桃園科技文化城x文策院聯合記者會"
 location: "松菸文創園區"

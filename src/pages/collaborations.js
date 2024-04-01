@@ -6,12 +6,12 @@ import Layout from '../components/layout'
 
 const clbrtns = [
   "大象體操-名字",
-  "聲鏡 x 404.nf",
-  "聲響藝術節-大象體操",
-	"桃園科技藝術節 - DJ RayRay",
+  "聲鏡 x 404 N.F",
+  "聲響藝術節 x 大象體操",
+	"桃園科技藝術節 x DJ RayRay",
 	"TFN線上爬",
   "創世紀首部曲普羅米修斯的夢境",
-	"政大音樂節 - Hue",
+	"政大音樂節 x Hue",
   "闇物種",
 ];
 
@@ -28,16 +28,19 @@ function findTitle(edges, title) {
 const Clbrtns = ({ data }) =>  (
       <Layout pageTitle="chang hsin-yu 張欣語 collaborations">
       <div className="work_main">
+      <div style={{width:'100%', display:'flex', justifyContent:'space-between', flexWrap:'wrap'}}>
         {clbrtns.map((p, index) => {
           const node = findTitle(data.allMarkdownRemark.edges, p);
 				  const dest = node ? node.fields.slug : '';
 					const img = node.frontmatter.featuredImage.childImageSharp.gatsbyImageData;
           return (
-            <div key={p}>
+            <div key={p} className="work">
               <Artwork
 												title={node.frontmatter.title}
 												category={node.frontmatter.category}
 												date={node.frontmatter.date}
+                        venue={node.frontmatter.venue}
+                        event={node.frontmatter.event}
 												img={img}
 												to={dest}
 												index={index}
@@ -46,6 +49,7 @@ const Clbrtns = ({ data }) =>  (
             </div>
 				          );
         })}
+      </div>
       </div>
       </Layout>
 );
@@ -62,6 +66,8 @@ export const query = graphql`{
           title
           date
           category
+          event
+          venue
           featuredImage {
             childImageSharp {
               gatsbyImageData

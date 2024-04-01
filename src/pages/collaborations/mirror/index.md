@@ -1,8 +1,8 @@
 ---
-title: "聲鏡 x 404.nf"
+title: "聲鏡 x 404 N.F"
 date: '2024'
-category: 'Sound and Visual Design'
-event: " "
+category: 'Sound and Visual'
+event: "月津港燈節"
 featuredImage: img0.jpg
 ---
   <div class="box">

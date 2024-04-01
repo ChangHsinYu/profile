@@ -4,6 +4,7 @@ title: "&#x611b"
 date: "2020"
 category: "Sound installation"
 event: " "
+venue: "Songshan Cultural and Creative Park (TW)"
 featuredImage: img0.jpg
 ---
 <div class="box">

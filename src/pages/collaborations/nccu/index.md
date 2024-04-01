@@ -1,7 +1,7 @@
 ---
-title: "政大音樂節 - Hue"
+title: "政大音樂節 x Hue"
 date: '2021'
-category: 'Visual Design'
+category: 'Visual'
 event: "政大音樂節"
 location: "三創clap studio"
 featuredImage: img-0.png

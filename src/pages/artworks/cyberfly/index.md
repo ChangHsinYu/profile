@@ -4,6 +4,7 @@ title: "Cyberfly"
 date: "2020"
 category: "Sound installation"
 event: " "
+venue: "Taipei National University of the Arts (TW), Taipei Artist Village (TW)"
 featuredImage: img0.jpg
 ---
   <div class="box">

@@ -4,6 +4,7 @@ title: "Stairway to Nothing"
 date: "2018"
 category: "Installation"
 event: " "
+venue: "Taipei National University of the Arts (TW)"
 featuredImage: img0.jpg
 ---
   <div class="box">

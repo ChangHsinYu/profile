@@ -4,6 +4,7 @@ title: "Couldn't Find"
 date: "2018"
 category: "Installation"
 event: " "
+venue: "Taipei National University of the Arts (TW)"
 featuredImage: img-0.png
 ---
 <div class="box">

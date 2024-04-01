@@ -4,6 +4,7 @@ title: "Vibration of Ink Fluid"
 date: "2023"
 category: "Video"
 event: " "
+venue: "Submarine (TW)"
 featuredImage: img0.jpg
 ---
   <div class="box">

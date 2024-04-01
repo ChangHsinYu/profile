@@ -3,6 +3,7 @@ title: "Dive in Architecture"
 date: '2023'
 category: 'Audio visual performance'
 event: " "
+venue: "Submarine (TW), Universität für künstlerische und industrielle Gestaltung Linz (AT), Tunnel Tokyo (JP), Taipei Fine Arts Museum (TW)"
 featuredImage: img12.jpg
 ---
   <div class="box">

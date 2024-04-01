@@ -1,7 +1,7 @@
 ---
 title: "TFN線上爬"
 date: '2021'
-category: 'Installation Design'
+category: 'Installation'
 event: "C-LAB未來媒體藝術節"
 featuredImage: img-0.png
 ---

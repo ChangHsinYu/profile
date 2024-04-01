@@ -3,7 +3,8 @@ posttype: "work"
 title: "Listen to the Light - routine"
 date: "2024"
 category: "Sound installation"
-event: " "
+event: "新竹241藝術空間"
+venue: "241 Small Space (TW)"
 featuredImage: img0.jpg
 ---
   <div class="box">

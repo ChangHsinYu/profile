@@ -4,6 +4,7 @@ title: "Myst"
 date: "2023"
 category: "Sound installation"
 event: " "
+venue: "Taiwan Contemporary Culture Lab (TW)"
 featuredImage: img0.jpg
 ---
 

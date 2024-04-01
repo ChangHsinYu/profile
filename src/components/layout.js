@@ -130,7 +130,7 @@ class Layout extends React.Component {
                       </FadeIn>
                       <hr/>
                       <FadeIn x={{start: 100, end: 0, stiffness: 100, damping: 20,}}>
-                        <ListLink to="/performances"  mobile={true} click={this.closeMenu}>COLLABORATIONS</ListLink>
+                        <ListLink to="/collaborations"  mobile={true} click={this.closeMenu}>COLLABORATIONS</ListLink>
                       </FadeIn>
                       <hr/>
                       <FadeIn x={{start: 140, end: 0, stiffness: 100, damping: 20,}}>

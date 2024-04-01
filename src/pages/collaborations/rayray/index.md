@@ -1,8 +1,8 @@
 ---
-title: "桃園科技藝術節 - DJ RayRay"
+title: "桃園科技藝術節 x DJ RayRay"
 date: '2023'
-category: 'Visual Design'
-event: " "
+category: 'Visual'
+event: "桃園科技藝術節"
 featuredImage: img0.jpg
 ---
   <div class="box">

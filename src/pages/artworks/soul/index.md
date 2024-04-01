@@ -4,6 +4,7 @@ title: "Soul"
 date: "2022"
 category: "Sound installation"
 event: " "
+venue: "San Galerie (TW)"
 featuredImage: img0.jpg
 ---
   <div class="box">

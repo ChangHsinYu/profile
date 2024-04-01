@@ -3,6 +3,7 @@ title: "Sketch of Audio Visual"
 date: '2020'
 category: 'Audio visual performance'
 event: " "
+venue: "Taipei National University of the Arts (TW)"
 featuredImage: img0.jpg
 ---
   <div class="box">

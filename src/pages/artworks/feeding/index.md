@@ -4,6 +4,7 @@ title: "Feeding"
 date: "2020"
 category: "Sound installation"
 event: " "
+venue: "Taipei National University of the Arts (TW), Taoyuan Art Center (TW), Kaohsiung Museum of Fine Arts (TW), Universität für künstlerische und industrielle Gestaltung Linz (AT)"
 featuredImage: img0.jpg
 ---
 <div class="box">

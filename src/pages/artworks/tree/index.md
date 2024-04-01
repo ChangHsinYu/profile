@@ -4,6 +4,7 @@ title: "Tree Noise"
 date: "2022"
 category: "Sound and Light installation"
 event: " "
+venue: "National Taiwan Museum of Fine Arts (TW)"
 featuredImage: img0.jpg
 ---
   <div class="box">

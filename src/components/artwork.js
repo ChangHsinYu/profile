@@ -5,7 +5,7 @@ import { GatsbyImage } from "gatsby-plugin-image";
 class Artwork extends React.Component {
 	render() {
 		return (
-        <div className="work">
+        <div>
 
           <Link to={this.props.to}>
 					<div className="work_img">
@@ -16,14 +16,15 @@ class Artwork extends React.Component {
           <div className="work_inf_mobile">
 							<span style={{fontWeight:'700'}}>{this.props.title}</span>, {this.props.category}, {this.props.date}
 					</div>
+					<div className="work_inf2_mobile">
+							{this.props.venue}
+					</div>
 
           <ul className="work_inf">
-							<li style={{fontWeight:'700'}}>{this.props.title}<br /><br /></li>
-							<li>{this.props.category}<br /></li>
-							<li>{this.props.date}</li>
+							<li><span style={{fontWeight:'700'}}>{this.props.title}</span>, {this.props.category}, {this.props.date}</li>
 					</ul>
 					<ul className="work_inf2">
-							<li>{this.props.event}</li>
+							<li>{this.props.venue}</li>
 					</ul>
 
         </div>

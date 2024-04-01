@@ -1,8 +1,8 @@
 ---
-title: "聲響藝術節-大象體操"
+title: "聲響藝術節 x 大象體操"
 date: '2023'
-category: 'Sound and Visual Design'
-event: " "
+category: 'Sound and Visual'
+event: "聲響藝術節"
 featuredImage: img0.jpg
 ---
   <div class="box">

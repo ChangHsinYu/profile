@@ -1,8 +1,8 @@
 ---
 title: "大象體操-名字"
 date: '2024'
-category: 'Visual Design'
-event: " "
+category: 'Visual'
+event: "大象體操世界巡演"
 featuredImage: img0.jpg
 ---
   <div class="box">

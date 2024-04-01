@@ -4,6 +4,7 @@ title: "Cross"
 date: "2021"
 category: "Sound installation"
 event: " "
+venue: "Taipei National University of the Arts (TW), The Venetian Arsenal (IT)"
 featuredImage: img0.jpg
 ---
   <div class="box">

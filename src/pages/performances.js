@@ -5,6 +5,7 @@ import Artwork from '../components/artwork';
 import Layout from '../components/layout'
 
 const prfrmncs = [
+  "Chaotic City",
 	"Dive in Architecture",
 	"Space Surfing",
 	"Counter",

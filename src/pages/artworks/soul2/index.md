@@ -1,6 +1,6 @@
 ---
 posttype: "work"
-title: "Soul v2"
+title: "Soul - Vinyl"
 date: "2023"
 category: "Sound installation"
 event: " "

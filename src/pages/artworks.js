@@ -5,8 +5,9 @@ import Artwork from '../components/artwork';
 import Layout from '../components/layout'
 
 const artworks = [
+	"Listen to the Light - routine",
 	"Myst",
-	"Soul v2",
+	"Soul - Vinyl",
 	"Vibration of Ink Fluid",
 	"Tree Noise",
 	"Portal",

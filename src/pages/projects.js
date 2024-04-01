@@ -6,19 +6,13 @@ import Project from '../components/project';
 import Layout from '../components/layout'
 
 const projects = [
-	"大象體操-名字",
-	"桃園科技藝術節前夜派對",
 	"reCONNECT2021",
 	"高樓",
-	"TFN線上爬",
-	"創世紀首部曲普羅米修斯的夢境",
-	"政大音樂節",
 	"顫弩的吟詠",
 	"入眠自習",
 	"1:1",
 	"貴人散步音樂節",
 	"後花園-科技與音樂跨域實驗劇場",
-	"闇物種",
 	"異日方梭",
 	"歇斯底里的房間",
 	"無光風景-NTT TIFA駐館藝術家王連晟創作",

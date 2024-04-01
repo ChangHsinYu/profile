@@ -5,11 +5,10 @@ import './layout.css';
 import fbicon from '../icon/fb.png';
 import mailicon from '../icon/mail.png';
 import igicon from '../icon/ig.png';
-import yticon from '../icon/yt.png';
+// import yticon from '../icon/yt.png';
 import vmicon from '../icon/vm.png';
 import twicon from '../icon/tw.png';
 import giticon from '../icon/git.png';
-import shpicon from '../icon/shp.png';
 import menuicon from '../icon/menu.png';
 
 
@@ -52,7 +51,6 @@ const Contact = props =>(
       <Icon href="https://www.facebook.com/profile.php?id=100002291973060&viewas=&show_switched_toast=false" icon={fbicon} />
       <Icon href="Mailto:eddyeddy5825945@gmail.com" icon={mailicon} />
       <Icon href="https://www.instagram.com/hsiinyu.c/" icon={igicon} />
-      <Icon href="https://www.youtube.com/channel/UCX6nVMS9VkKdd-oJ_Dqd0Vg" icon={yticon} />
       <Icon href="https://vimeo.com/changhsinyu" icon={vmicon} />
       <Icon href="https://twitter.com/ChangHsinYu3" icon={twicon} />
       <Icon href="https://github.com/ChangHsinYu" icon={giticon} />
@@ -132,7 +130,7 @@ class Layout extends React.Component {
                       </FadeIn>
                       <hr/>
                       <FadeIn x={{start: 100, end: 0, stiffness: 100, damping: 20,}}>
-                        <ListLink to="/performances"  mobile={true} click={this.closeMenu}>PERFORMANCES</ListLink>
+                        <ListLink to="/performances"  mobile={true} click={this.closeMenu}>COLLABORATIONS</ListLink>
                       </FadeIn>
                       <hr/>
                       <FadeIn x={{start: 140, end: 0, stiffness: 100, damping: 20,}}>
@@ -162,7 +160,7 @@ class Layout extends React.Component {
             <ul className='menu'>
               <ListLink to="/cv"            mobile={false}>CV</ListLink>
               <ListLink to="/artworks"      mobile={false}>WORKS</ListLink>
-              <ListLink to="/performances"  mobile={false}>PERFORMANCES</ListLink>
+              <ListLink to="/collaborations"  mobile={false}>COLLABORATIONS</ListLink>
               <ListLink to="/projects"      mobile={false}>PROJECTS</ListLink>
               <ListLink to="/codearts"      mobile={false}>CREATIVE CODINGS</ListLink>
             </ul>

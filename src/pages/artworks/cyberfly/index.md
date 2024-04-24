@@ -2,6 +2,7 @@
 posttype: "work"
 title: "Cyberfly"
 date: "2020"
+material: 'speaker, microphone, motor'
 category: "Sound installation"
 event: " "
 venue: "Taipei National University of the Arts (TW), Taipei Artist Village (TW)"

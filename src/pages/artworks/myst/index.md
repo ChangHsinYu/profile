@@ -2,6 +2,7 @@
 posttype: "work"
 title: "Myst"
 date: "2023"
+material: "laser, photoresistance, contact speaker, mist, water, pvc board"
 category: "Sound installation"
 event: " "
 venue: "Taiwan Contemporary Culture Lab (TW)"

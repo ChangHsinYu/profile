@@ -2,6 +2,7 @@
 posttype: "work"
 title: "Soul"
 date: "2022"
+material: "static electricity, stainless steel, van der graaf generator, electromagnetic waves, speaker"
 category: "Sound installation"
 event: " "
 venue: "San Galerie (TW)"

@@ -1,8 +1,8 @@
 ---
-title: "桃園科技藝術節 x DJ RayRay"
+title: "Taoyuan Art x Technology Festival x DJ RayRay"
 date: '2023'
 category: 'Visual'
-event: "桃園科技藝術節"
+event: "Taoyuan Art x Technology Festival"
 featuredImage: img0.jpg
 ---
   <div class="box">

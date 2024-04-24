@@ -1,5 +1,5 @@
 ---
-title: "大象體操-名字"
+title: "Name x Elephant Gym"
 date: '2024'
 category: 'Visual'
 event: "大象體操世界巡演"

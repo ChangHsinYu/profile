@@ -1,6 +1,7 @@
 ---
 title: "Zebra's Dream"
 date: '2022'
+material: 'max/msp, processing'
 category: 'Audio visual performance'
 event: " "
 venue: "Digital Art Center Taipei (TW), Songshan Cultural and Creative Park (TW), Taoyuan Art Center (TW), Taipei Music Center (TW), Hualien Creative and Cultural Industries Park (TW)"

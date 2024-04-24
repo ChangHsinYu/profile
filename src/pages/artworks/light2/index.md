@@ -1,6 +1,7 @@
 ---
 posttype: "work"
 title: "Listen to the Light - routine"
+material: "solar panels, amplifier chips, led lights, glass, TV, extension cords, candle"
 date: "2024"
 category: "Sound installation"
 event: "新竹241藝術空間"
@@ -68,4 +69,4 @@ featuredImage: img0.jpg
 
   <div class="box"></div>
 
-  <!-- <iframe title="vimeo-player" src="https://player.vimeo.com/video/729937826?h=0de5e9faeb" frameborder="0" allowfullscreen></iframe> -->
+  <iframe title="vimeo-player" src="https://player.vimeo.com/video/936939354?h=b0dcd1ceb2" frameborder="0" allowfullscreen></iframe>

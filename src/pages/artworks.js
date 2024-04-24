@@ -52,6 +52,7 @@ const Artworks = ({ data }) =>  (
               <Artwork
 												title={node.frontmatter.title}
 												category={node.frontmatter.category}
+												material={node.frontmatter.material}
 												date={node.frontmatter.date}
 												venue={node.frontmatter.venue}
 												event={node.frontmatter.event}
@@ -79,6 +80,7 @@ export const query = graphql`{
         frontmatter {
           title
           date
+          material
           category
           event
           venue

@@ -2,6 +2,7 @@
 posttype: "work"
 title: "Soul - Vinyl"
 date: "2023"
+material: "static electricity, stainless steel, aluminum, motor, inductor, electromagnetic waves, speaker"
 category: "Sound installation"
 event: " "
 venue: "Taiwan Contemporary Culture Lab (TW)"

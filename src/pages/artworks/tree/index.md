@@ -2,6 +2,7 @@
 posttype: "work"
 title: "Tree Noise"
 date: "2022"
+material: 'tree, contact speaker, contact microphone'
 category: "Sound and Light installation"
 event: " "
 venue: "National Taiwan Museum of Fine Arts (TW)"

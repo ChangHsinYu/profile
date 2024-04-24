@@ -1,8 +1,8 @@
 ---
-title: "聲響藝術節 x 大象體操"
+title: "C-LAB Sound Festival x Elephant Gym"
 date: '2023'
 category: 'Sound and Visual'
-event: "聲響藝術節"
+event: "C-LAB Sound Festival"
 featuredImage: img0.jpg
 ---
   <div class="box">

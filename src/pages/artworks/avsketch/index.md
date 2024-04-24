@@ -1,6 +1,7 @@
 ---
 title: "Sketch of Audio Visual"
 date: '2020'
+material: 'max/msp, processing'
 category: 'Audio visual performance'
 event: " "
 venue: "Taipei National University of the Arts (TW)"

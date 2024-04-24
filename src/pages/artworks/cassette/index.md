@@ -1,6 +1,7 @@
 ---
 title: "Memory Noise"
 date: '2021'
+material: 'tape'
 category: 'Sound performance'
 event: " "
 venue: "Taipei National University of the Arts (TW)"

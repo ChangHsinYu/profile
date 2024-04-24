@@ -1,6 +1,7 @@
 ---
 title: "Counter"
 date: '2022'
+material: 'max/msp, processing'
 category: 'Audio visual performance'
 event: " "
 venue: "National Taiwan Science Education Center (TW), Digital Art Center Taipei (TW)"

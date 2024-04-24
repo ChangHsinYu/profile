@@ -2,6 +2,7 @@
 posttype: "work"
 title: "&#x611b (online version)"
 date: "2022"
+material: 'blender, max/msp'
 category: "3D Sculpture"
 event: " "
 venue: "New Art City (ONLINE)"

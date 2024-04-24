@@ -5,14 +5,15 @@ import Artwork from '../components/artwork';
 import Layout from '../components/layout'
 
 const clbrtns = [
-  "大象體操-名字",
-  "聲鏡 x 404 N.F",
-  "聲響藝術節 x 大象體操",
-	"桃園科技藝術節 x DJ RayRay",
-	"TFN線上爬",
-  "創世紀首部曲普羅米修斯的夢境",
-	"政大音樂節 x Hue",
-  "闇物種",
+  "reCONNECT2024 : NEW CANVAS",
+  "Name x Elephant Gym",
+  "Acoustics Mirror x 404 N.F",
+  "C-LAB Sound Festival x Elephant Gym",
+	"Taoyuan Art x Technology Festival x DJ RayRay",
+	"TFN(Technological Finding Netbot)",
+  "Genesis Part I. The Dream of Prometheus",
+	"NCCU Music Festival x Hue",
+  "Dark Species",
 ];
 
 function findTitle(edges, title) {

@@ -1,5 +1,5 @@
 ---
-title: "TFN線上爬"
+title: "TFN(Technological Finding Netbot)"
 date: '2021'
 category: 'Installation'
 event: "C-LAB未來媒體藝術節"

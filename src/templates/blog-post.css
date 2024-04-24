@@ -16,6 +16,7 @@
 }
 .inf{
   font-family: 'Kumbh Sans', sans-serif;
+  color: #888888;
   font-weight: 300;
   width:100%;
   margin-top: 10px;
@@ -82,6 +83,7 @@ iframe{
   }
   .inf{
     font-family: 'Kumbh Sans', sans-serif;
+    color: #888888;
     font-weight: 300;
     width:100%;
     margin-top: 10px;

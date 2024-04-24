@@ -2,6 +2,7 @@
 posttype: "work"
 title: "Portal"
 date: "2022"
+material: 'fluorescent tube'
 category: "Light installation"
 event: " "
 venue: "Abandoned factory (TW)"

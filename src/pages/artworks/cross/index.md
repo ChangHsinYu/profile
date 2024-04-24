@@ -2,6 +2,7 @@
 posttype: "work"
 title: "Cross"
 date: "2021"
+material: 'metal, speaker, microphone'
 category: "Sound installation"
 event: " "
 venue: "Taipei National University of the Arts (TW), The Venetian Arsenal (IT)"

@@ -2,6 +2,7 @@
 posttype: "work"
 title: "Listen to the Light"
 date: "2022"
+material: "solar panels, amplifier chips, led lights, glass, candle, sand"
 category: "Sound installation"
 event: " "
 venue: "San Galerie (TW)"

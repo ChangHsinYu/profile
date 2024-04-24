@@ -2,6 +2,7 @@
 posttype: "work"
 title: "Feeding"
 date: "2020"
+material: 'metal, sound sensor, condenser microphone, speaker, servo motor'
 category: "Sound installation"
 event: " "
 venue: "Taipei National University of the Arts (TW), Taoyuan Art Center (TW), Kaohsiung Museum of Fine Arts (TW), Universität für künstlerische und industrielle Gestaltung Linz (AT)"
@@ -83,6 +84,16 @@ Audio feedback is a phenomenon that easily occurs when we use a microphone and w
 
 <div class="box">
     <img class="subimg" src="./img6.jpg">
+    <div class="photocredit">(photo credit : 高雄市立美術館)</div>
+</div>
+
+<div class="box">
+    <img class="subimg" src="./img7.jpg">
+    <div class="photocredit">(photo credit : 高雄市立美術館)</div>
+</div>
+
+<div class="box">
+    <img class="subimg" src="./img8.jpg">
     <div class="photocredit">(photo credit : 高雄市立美術館)</div>
 </div>
 

@@ -1,5 +1,5 @@
 ---
-title: "闇物種"
+title: "Dark Species"
 category: 'Visual'
 date: "2020"
 event: "桃園科技文化城x文策院聯合記者會"

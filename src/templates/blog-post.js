@@ -17,7 +17,9 @@ export default function BlogPost({ data }) {
               {post.frontmatter.title}
           </div>
           <div className="inf">
-              {post.frontmatter.category}<br />
+              {post.frontmatter.category}<br/>
+              {post.frontmatter.material}<br/>
+              <br/>
               {post.frontmatter.date}
           </div>
         </div>
@@ -35,6 +37,7 @@ query PostQuery($slug: String!) {
     frontmatter {
         title
         date
+        material
         category
         featuredImage {
           childImageSharp {

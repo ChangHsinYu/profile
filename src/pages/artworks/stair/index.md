@@ -2,6 +2,7 @@
 posttype: "work"
 title: "Stairway to Nothing"
 date: "2018"
+material: 'wood'
 category: "Installation"
 event: " "
 venue: "Taipei National University of the Arts (TW)"

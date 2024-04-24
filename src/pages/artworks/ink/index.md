@@ -2,6 +2,7 @@
 posttype: "work"
 title: "Vibration of Ink Fluid"
 date: "2023"
+material: 'ableton Live, max/msp, processing'
 category: "Video"
 event: " "
 venue: "Submarine (TW)"

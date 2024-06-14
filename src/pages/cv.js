@@ -34,6 +34,7 @@ His audio/visual performances are usually created through programming, focused o
           <br/>
           <br/>
           <span className="cv_title">Award</span><br/>
+          <List year="2024">National Art Exhibition R.O.C Mixed media category - Second Award. (Taichung, Taiwan)</List>
           <List year="2023">16th Arte Laguna Prize - Final List.(Venis, Italy)</List>
           <List year="2022">Like Water NFT Award - Second Award.(Taipei, Taiwan)</List>
           <List year="    ">Kaohsiung Award - Shortlist.(Kaohsiung, Taiwan)</List>
@@ -43,7 +44,8 @@ His audio/visual performances are usually created through programming, focused o
           <br/>
           <br/>
           <span className="cv_title">Exhibition</span><br/>
-          <List year="2024">Yuejin Lantern Festival. (Tainan, Taiwan)</List>
+          <List year="2024">Shapes Of Every Day Life : Proposals For Perception Reboot. (HsinChu, Taiwan)</List>
+          <List year="    ">Yuejin Lantern Festival. (Tainan, Taiwan)</List>
           <List year="2023">C-LAB Sound Festival: Diversonics. (Taipei, Taiwan)</List>
           <List year="    ">Epicentrum-Ars Electronica. (Linz, Austria)</List>
           <List year="    ">Flow. (Taipei, Taiwan)</List>
@@ -63,7 +65,10 @@ His audio/visual performances are usually created through programming, focused o
           <br/>
           <br/>
           <span className="cv_title">Performence</span><br/>
-          <List year="2024">Yuejin Lantern Festival. (Tainan, Taiwan)</List>
+          <List year="2024">Tiny Opening. (Taipei, Taiwan)</List>
+          <List year="    ">reCONNECT 2024 : NEW CANVAS. (Taichung, Taiwan)</List>
+          <List year=".   ">VIVIDO: re-Action. (Taipei, Taiwan)</List>
+          <List year="    ">Yuejin Lantern Festival. (Tainan, Taiwan)</List>
           <List year="    ">Taipei Art Award. (Taipei, Taiwan)</List>
           <List year="2023">Future Vision Party. (Taipei, Taiwan)</List>
           <List year="    ">reCONNECT 2023: NEW CANVAS. (Taichung, Taiwan)</List>
@@ -120,6 +125,7 @@ His audio/visual performances are usually created through programming, focused o
           <br/>
           <br/>
           <span className="cv_title">獲獎</span><br/>
+          <List year="2024">全國美展綜合媒材類。銀牌，台灣</List>
           <List year="2023">拉古納藝術獎16th。決選，義大利</List>
           <List year="2022">若水NFT藝術獎。貳獎，台灣</List>
           <List year="    ">高雄獎。入選獎，台灣</List>
@@ -129,7 +135,8 @@ His audio/visual performances are usually created through programming, focused o
           <br/>
           <br/>
           <span className="cv_title">展覽</span><br/>
-          <List year="2024">月津港燈節。月津港，台南，台灣</List>
+          <List year="2024">日常的形狀：感知重啟提案。新竹241，新竹，台灣</List>
+          <List year="    ">月津港燈節。月津港，台南，台灣</List>
           <List year="2023">聲響藝術節：DIVERSONICS。C-Lab通訊展演分隊，台北，台灣</List>
           <List year="    ">震源：林茲電子藝術節。SPLACE Gallery，林茲，奧地利</List>
           <List year="    ">潺Flow。潛艇藝術空間，台北，台灣</List>
@@ -149,7 +156,10 @@ His audio/visual performances are usually created through programming, focused o
           <br/>
           <br/>
           <span className="cv_title">表演</span><br/>
-          <List year="2024">月津港燈節。月津港，台南，台灣</List>
+          <List year="2024">小開場：日常違例。北藝大科技藝術館，台北，台灣</List>
+          <List year="    ">reCONNECT 2024 : NEW CANVAS。台中國家歌劇院，台中，台灣</List>
+          <List year="    ">VIVIDO : re-Action。台北數位藝術中心，台北，台灣</List>
+          <List year=".   ">月津港燈節。月津港，台南，台灣</List>
           <List year="    ">台北美術獎。台北市立美術館，台北，台灣</List>
           <List year="2023">未來視覺派對。C-LAB 未來視覺實驗室，台北，台灣</List>
           <List year="    ">reCONNECT 2023: NEW CANVAS。台中國家歌劇院，台中，台灣</List>

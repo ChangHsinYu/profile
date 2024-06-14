@@ -121,6 +121,10 @@ class Layout extends React.Component {
                     }}
                   >
                     <ul className='menu_mobile_list'>
+                    <FadeIn x={{start: 20, end: 0, stiffness: 100, damping: 20,}}>
+                        <ListLink to="/news"            mobile={true} click={this.closeMenu}>NEWS</ListLink>
+                      </FadeIn>
+                      <hr/>
                       <FadeIn x={{start: 20, end: 0, stiffness: 100, damping: 20,}}>
                         <ListLink to="/cv"            mobile={true} click={this.closeMenu}>CV</ListLink>
                       </FadeIn>
@@ -158,9 +162,10 @@ class Layout extends React.Component {
               <img src={menuicon} style={{width:'100%'}} alt="menu icon"/>
             </button>
             <ul className='menu'>
+              <ListLink to="/news"          mobile={false}>NEWS</ListLink>
               <ListLink to="/cv"            mobile={false}>CV</ListLink>
               <ListLink to="/artworks"      mobile={false}>WORKS</ListLink>
-              <ListLink to="/collaborations"  mobile={false}>COLLABORATIONS</ListLink>
+              <ListLink to="/collaborations"mobile={false}>COLLABORATIONS</ListLink>
               <ListLink to="/projects"      mobile={false}>PROJECTS</ListLink>
               <ListLink to="/codearts"      mobile={false}>CREATIVE CODINGS</ListLink>
             </ul>

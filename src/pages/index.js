@@ -10,6 +10,7 @@ export default function Home({ data }) {
       <div style={{textAlign:'center'}}>
         <P5 />
       </div>
+      <div className="news_title">NEWS</div>
     </Layout>
   )
 }

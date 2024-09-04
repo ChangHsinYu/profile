@@ -5,28 +5,29 @@ import Artwork from '../components/artwork';
 import Layout from '../components/layout'
 
 const artworks = [
+	"Creature from Desolate Planet",
 	"Listen to the Light - routine",
+	"Chaotic City",
 	"Myst",
 	"Soul - Vinyl",
+	"Dive in Architecture",
+	"Vibration of Ink Fluid",
+	"Space Surfing",
+	"&#x611b (online version)",
 	"Tree Noise",
+	"Counter",
 	"Portal",
+	"Zebra's Dream",
 	"Listen to the Light",
 	"Soul",
 	"Cross",
+	"Pronunciation Exercise",
 	"&#x611b",
 	"Cyberfly",
 	"Feeding",
-	"Couldn't Find",
-	"Chaotic City",
-	"Dive in Architecture",
-	"Space Surfing",
-	"Vibration of Ink Fluid",
-	"Counter",
-	"Zebra's Dream",
-	"&#x611b (online version)",
-	"Pronunciation Exercise",
 	"Memory Noise",
 	"Sketch of Audio Visual",
+	"Couldn't Find",
 ];
 
 function findTitle(edges, title) {

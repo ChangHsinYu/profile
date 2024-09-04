@@ -5,7 +5,7 @@ material: "solar panels, amplifier chips, led lights, glass, TV, extension cords
 date: "2024"
 category: "Sound installation"
 event: "新竹241藝術空間"
-venue: "241 Small Space (TW)"
+venue: "241 Small Space (TW), Lapin et Halot (JP)"
 featuredImage: img0.jpg
 ---
   <div class="box">

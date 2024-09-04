@@ -4,7 +4,7 @@ date: '2024'
 material: 'max/msp, processing'
 category: 'Audio visual performance'
 event: " "
-venue: "Taiwan Contemporary Culture Lab (TW), Digital Art Center Taipei (TW), Taipei Fine Arts Museum (TW)"
+venue: "Taiwan Contemporary Culture Lab (TW), Digital Art Center Taipei (TW), Taipei Fine Arts Museum (TW), Lapin et Halot (JP)"
 featuredImage: img0.jpg
 ---
   <div class="box">
@@ -29,7 +29,7 @@ featuredImage: img0.jpg
   </div>
   <div class="box">
       <img class="subimg" src="./img3.jpg">
-      <div class="photocredit">(photo by : 李林)</div>
+      <div class="photocredit">(photo by : 螢幕截圖)</div>
   </div>
   <div class="box">
       <img class="subimg" src="./img4.jpg">

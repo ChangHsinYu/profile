@@ -67,6 +67,52 @@ featuredImage: img0.jpg
       <div class="photocredit">(photo credit : 均勻製作 by : 房敬智)</div>
   </div>
 
+  <div class="box">
+      <img class="subimg" src="./img9.jpg">
+      <div class="photocredit">(photo credit : CHANG HSIN YU)</div>
+  </div>
+
+  <div class="box">
+      <img class="subimg" src="./img10.jpg">
+      <div class="photocredit">(photo credit : CHANG HSIN YU)</div>
+  </div>
+
+  <div class="box">
+      <img class="subimg" src="./img11.jpg">
+      <div class="photocredit">(photo credit : CHANG HSIN YU)</div>
+  </div>
+
+  <div class="box">
+      <img class="subimg" src="./img12.jpg">
+      <div class="photocredit">(photo credit : CHANG HSIN YU)</div>
+  </div>
+  <div class="box">
+      <img class="subimg" src="./img13.jpg">
+      <div class="photocredit">(photo credit : CHANG HSIN YU)</div>
+  </div>
+  <div class="box">
+      <img class="subimg" src="./img14.jpg">
+      <div class="photocredit">(photo credit : CHANG HSIN YU)</div>
+  </div>
+
+  <div class="box">
+      <img class="subimg" src="./img15.jpg">
+      <div class="photocredit">(photo credit : helloworld futurearts by : kito li)</div>
+  </div>
+
+  <div class="box">
+      <img class="subimg" src="./img16.jpg">
+      <div class="photocredit">(photo credit : helloworld futurearts by : kito li)</div>
+  </div>
+  <div class="box">
+      <img class="subimg" src="./img17.jpg">
+      <div class="photocredit">(photo credit : helloworld futurearts by : kito li)</div>
+  </div>
+  <div class="box">
+      <img class="subimg" src="./img18.jpg">
+      <div class="photocredit">(photo credit : helloworld futurearts by : kito li)</div>
+  </div>
+
   <div class="box"></div>
 
   <iframe title="vimeo-player" src="https://player.vimeo.com/video/936939354?h=b0dcd1ceb2" frameborder="0" allowfullscreen></iframe>

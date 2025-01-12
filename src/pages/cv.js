@@ -29,7 +29,7 @@ His audio/visual performances are usually created through programming, focused o
           <br/><br/>
           <span className="cv_title">Education</span><br/>
           <div className="cv_year">NOW</div><div className="cv_inf"></div><br/>
-          <List year="&nbsp;&nbsp;&nbsp;&nbsp;|">Tainan National University of the Arts Graduate Institute of Plastic Arts - Studying</List>
+          <List year="&nbsp;&nbsp;&nbsp;&nbsp;|">Tainan National University of the Arts Graduate Institute of Plastic Arts - Drop out</List>
           <div className="cv_year">2024</div><div className="cv_inf"></div><br/>
           <br/>
           <div className="cv_year">2023</div><div className="cv_inf"></div><br/>
@@ -38,7 +38,8 @@ His audio/visual performances are usually created through programming, focused o
           <br/>
           <br/>
           <span className="cv_title">Award</span><br/>
-          <List year="2024">National Art Exhibition R.O.C Mixed media category - Second Award. (Taichung, Taiwan)</List>
+          <List year="2024">S-AN Aesthetics Award. (Taipei, Taiwan)</List>
+          <List year=".   ">National Art Exhibition R.O.C Mixed media category - Second Award. (Taichung, Taiwan)</List>
           <List year="2023">16th Arte Laguna Prize - Final List.(Venis, Italy)</List>
           <List year="2022">Like Water NFT Award - Second Award.(Taipei, Taiwan)</List>
           <List year="    ">Kaohsiung Award - Shortlist.(Kaohsiung, Taiwan)</List>
@@ -72,7 +73,10 @@ His audio/visual performances are usually created through programming, focused o
           <br/>
           <br/>
           <span className="cv_title">Performence</span><br/>
-          <List year="2024">interactivité. (Tokyo, Japan)</List>
+          <List year="2024">White Noise Weaving YEH. (Taipei, Taiwan)</List>
+          <List year="    ">Internal Echo Ep.1. (Taipei, Taiwan)</List>
+          <List year="    ">interactivité. (Tokyo, Japan)</List>
+          <List year="    ">Sense data: sensual measurement. (Taipei, Taiwan)</List>
           <List year="    ">National Art Exhibition R.O.C. opening. (Taichung, Taiwan)</List>
           <List year="    ">Tiny Opening. (Taipei, Taiwan)</List>
           <List year="    ">reCONNECT 2024 : NEW CANVAS. (Taichung, Taiwan)</List>
@@ -103,6 +107,7 @@ His audio/visual performances are usually created through programming, focused o
           <br/>
           <br/>
           <span className="cv_title">Design</span><br/>
+          <List year="2024">KINGDOM, Sound Design. (Taipei, Taiwan)</List>
           <List year="2023">Epicentrum-Ars Electronica, Technical Design. (Linz, Austria)</List>
           <List year="2022">Taoyuan Art x Technology Festival opening feat.DJ RAYRAY, Video Design. (Taichung, Taiwan)</List>
           <List year="2021">reCONNECT2021, Performer. (Taichung, Taiwan)</List>
@@ -129,7 +134,7 @@ His audio/visual performances are usually created through programming, focused o
           <br/>
           <span className="cv_title">學歷</span><br/>
           <div className="cv_year">NOW</div><div className="cv_inf"></div><br/>
-          <List year="&nbsp;&nbsp;&nbsp;&nbsp;|">國立台南藝術大學 造型藝術研究所 在學</List>
+          <List year="&nbsp;&nbsp;&nbsp;&nbsp;|">國立台南藝術大學 造型藝術研究所 休學</List>
           <div className="cv_year">2024</div><div className="cv_inf"></div><br/>
           <br/>
           <div className="cv_year">2023</div><div className="cv_inf"></div><br/>
@@ -138,7 +143,8 @@ His audio/visual performances are usually created through programming, focused o
           <br/>
           <br/>
           <span className="cv_title">獲獎</span><br/>
-          <List year="2024">全國美展綜合媒材類。銀牌，台灣</List>
+          <List year="2024">世安美學造型藝術獎。台灣</List>
+          <List year="    ">全國美展綜合媒材類。銀牌，台灣</List>
           <List year="2023">拉古納藝術獎16th。決選，義大利</List>
           <List year="2022">若水NFT藝術獎。貳獎，台灣</List>
           <List year="    ">高雄獎。入選獎，台灣</List>
@@ -172,12 +178,15 @@ His audio/visual performances are usually created through programming, focused o
           <br/>
           <br/>
           <span className="cv_title">表演</span><br/>
-          <List year="2024">interactivité。Lapin et Halot，東京，日本</List>
+          <List year="2024">耶深仍勁，C-LAB 圖書館，台北，台灣</List>
+          <List year="    ">Internal Echo Ep.1，台灣藝術大學聲響中心，台北，台灣</List>
+          <List year="    ">interactivité。Lapin et Halot，東京，日本</List>
+          <List year="    ">感知的基質，C-LAB 聯合餐廳，台北，台灣</List>
           <List year="    ">全國美展頒獎典禮。國立台灣美術館，台中，台灣</List>
           <List year="    ">小開場：日常違例。北藝大科技藝術館，台北，台灣</List>
           <List year="    ">reCONNECT 2024 : NEW CANVAS。台中國家歌劇院，台中，台灣</List>
           <List year="    ">VIVIDO : re-Action。台北數位藝術中心，台北，台灣</List>
-          <List year=".   ">月津港燈節。月津港，台南，台灣</List>
+          <List year="    ">月津港燈節。月津港，台南，台灣</List>
           <List year="    ">台北美術獎。台北市立美術館，台北，台灣</List>
           <List year="2023">未來視覺派對。C-LAB 未來視覺實驗室，台北，台灣</List>
           <List year="    ">reCONNECT 2023: NEW CANVAS。台中國家歌劇院，台中，台灣</List>
@@ -203,6 +212,7 @@ His audio/visual performances are usually created through programming, focused o
           <br/>
           <br/>
           <span className="cv_title">設計</span><br/>
+          <List year="2024">KINGDOM。台北數位藝術中心，台北，台灣</List>
           <List year="2023">震源：林茲電子藝術節。布展技術統籌。SPLACE Gallery，林茲，奧地利</List>
           <List year="2022">桃園科技藝術節 DJ RAYRAY共演。影像設計。桃園展演中心，桃園，台灣</List>
           <List year="    ">漸漸：古名伸x王連晟。技術及聲音執行。衛武營國家藝術文化中心，高雄，台灣</List>

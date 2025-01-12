@@ -5,6 +5,7 @@ import Artwork from '../components/artwork';
 import Layout from '../components/layout'
 
 const clbrtns = [
+  "Sense data: sensual measurement x LIN Ying-Chen x CHAO Ting-Ting",
   "reCONNECT2024 : NEW CANVAS",
   "Name x Elephant Gym",
   "Acoustics Mirror x 404 N.F",

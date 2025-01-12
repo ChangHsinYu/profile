@@ -21,19 +21,19 @@ featuredImage: img0.jpg
 
   <div class="box">
       <img class="subimg" src="./img1.jpg">
-      <div class="photocredit">(photo by : 謝艾倫 credit : 台北數位藝術中心)</div>
+      <div class="photocredit">(photo by : 吳璨)</div>
   </div>
   <div class="box">
       <img class="subimg" src="./img2.jpg">
-      <div class="photocredit">(photo by : 李林)</div>
+      <div class="photocredit">(photo by : 吳璨)</div>
   </div>
   <div class="box">
       <img class="subimg" src="./img3.jpg">
-      <div class="photocredit">(photo by : 螢幕截圖)</div>
+      <div class="photocredit">(photo by : 謝艾倫 credit : 台北數位藝術中心)</div>
   </div>
   <div class="box">
       <img class="subimg" src="./img4.jpg">
-      <div class="photocredit">(photo by : 謝艾倫 credit : 台北數位藝術中心)</div>
+      <div class="photocredit">(photo by : 李林)</div>
   </div>
   <div class="box">
       <img class="subimg" src="./img5.jpg">

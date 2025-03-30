@@ -23,7 +23,14 @@ const News = () =>{
           <br/>
           <br/>
           <span className="news_title">Upcoming</span><br/>
-          <List year="2025 (Group Exhibition)" location="(Netherlands)"><a href="https://0-1.gallery/open-calls/esc-2034/" target="_blank" rel="noreferrer">ESC 2034: 0→1</a></List>
+          <List year="2025 April 18th (Performance)" location="臺灣當代文化實驗場">北藝大新媒系畢制開幕</List>
+          <List year="2025 April 20th (Performance)" location="臺北流行音樂中心">perspectives 透視</List>
+          <List year="2025 May (Group Exhibition)" location="(Netherlands)"><a href="https://0-1.gallery/open-calls/esc-2034/" target="_blank" rel="noreferrer">ESC 2034: 0→1</a></List>
+          <List year="2025 June 1rst (Performance)" location="高雄承億酒店">未來影音藝術饗域</List>
+          <List year="2025 June (Workshop)" location="國立台灣美術館">聲音藝術工作坊</List>
+          <List year="2025 July (Exhibition)" location="陸府生活美學基金會">聲音藝術展覽</List>
+          <List year="2025 August (Solo Exhibition)" location="水谷藝術">個展</List>
+          <List year="2025 October (Exhibition)" location="基隆">基隆潮藝術</List>
           </div>
         </div>
       </div>

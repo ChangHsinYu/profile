@@ -5,6 +5,8 @@ import Artwork from '../components/artwork';
 import Layout from '../components/layout'
 
 const artworks = [
+	"Sparks",
+	"Void",
 	"Creature from Desolate Planet",
 	"Listen to the Light - routine",
 	"Chaotic City",

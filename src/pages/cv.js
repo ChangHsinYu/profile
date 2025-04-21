@@ -28,10 +28,6 @@ For him, sound is an exploration of the world , an abstract but direct energy an
 His audio/visual performances are usually created through programming, focused on the relationship between sound and image and extend possibilities of the purest elements. He generally create and destroy structures in performances, and seem noise as a liberating energy.<br/>
           <br/><br/>
           <span className="cv_title">Education</span><br/>
-          <div className="cv_year">NOW</div><div className="cv_inf"></div><br/>
-          <List year="&nbsp;&nbsp;&nbsp;&nbsp;|">Tainan National University of the Arts Graduate Institute of Plastic Arts - Drop out</List>
-          <div className="cv_year">2024</div><div className="cv_inf"></div><br/>
-          <br/>
           <div className="cv_year">2023</div><div className="cv_inf"></div><br/>
           <List year="&nbsp;&nbsp;&nbsp;&nbsp;|">Taipei National University of the Arts Department of New Media Arts - BA</List>
           <div className="cv_year">2017</div><div className="cv_inf"></div><br/>
@@ -133,10 +129,6 @@ His audio/visual performances are usually created through programming, focused o
           <br/>
           <br/>
           <span className="cv_title">學歷</span><br/>
-          <div className="cv_year">NOW</div><div className="cv_inf"></div><br/>
-          <List year="&nbsp;&nbsp;&nbsp;&nbsp;|">國立台南藝術大學 造型藝術研究所 休學</List>
-          <div className="cv_year">2024</div><div className="cv_inf"></div><br/>
-          <br/>
           <div className="cv_year">2023</div><div className="cv_inf"></div><br/>
           <List year="&nbsp;&nbsp;&nbsp;&nbsp;|">國立臺北藝術大學 新媒體藝術學系 學士</List>
           <div className="cv_year">2017</div><div className="cv_inf"></div><br/>

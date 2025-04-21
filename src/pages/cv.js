@@ -45,8 +45,8 @@ His audio/visual performances are usually created through programming, focused o
           <br/>
           <br/>
           <span className="cv_title">Exhibition</span><br/>
-          <List year="2024">Xinying Shimmer Festival : Among The Trails (Tainan, Taiwan)</List>
-          <List year="    ">Taiwan Technology x Culture Expo 2024 : G.A.M.E. (Kaohsiung, Taiwan)</List>
+          <List year="2025">Xinying Shimmer Festival : Among The Trails (Tainan, Taiwan)</List>
+          <List year="2024">Taiwan Technology x Culture Expo 2024 : G.A.M.E. (Kaohsiung, Taiwan)</List>
           <List year="    ">interactivité. (Tokyo, Japan)</List>
           <List year="    ">National Art Exhibition R.O.C. (Taichung, Taiwan)</List>
           <List year=".   ">Shapes Of Every Day Life : Proposals For Perception Reboot. (HsinChu, Taiwan)</List>
@@ -149,8 +149,8 @@ His audio/visual performances are usually created through programming, focused o
           <br/>
           <br/>
           <span className="cv_title">展覽</span><br/>
-          <List year="2024">新營波光節：路徑之間。新營天鵝湖公園，台南，台灣</List>
-          <List year="    ">台灣科技文化大會：G.A.M.E.未來主題展。駁二蓬萊倉庫，高雄，台灣</List>
+          <List year="2025">新營波光節：路徑之間。新營天鵝湖公園，台南，台灣</List>
+          <List year="2024">台灣科技文化大會：G.A.M.E.未來主題展。駁二蓬萊倉庫，高雄，台灣</List>
           <List year="    ">interactivité。Lapin et Halot，東京，日本</List>
           <List year="    ">全國美術展。國立台灣美術館，台中，台灣</List>
           <List year="    ">日常的形狀：感知重啟提案。新竹241，新竹，台灣</List>

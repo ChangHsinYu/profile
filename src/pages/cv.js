@@ -34,14 +34,15 @@ His audio/visual performances are usually created through programming, focused o
           <br/>
           <br/>
           <span className="cv_title">Award</span><br/>
-          <List year="2024">S-AN Aesthetics Award. (Taipei, Taiwan)</List>
-          <List year=".   ">National Art Exhibition R.O.C Mixed media category - Second Award. (Taichung, Taiwan)</List>
-          <List year="2023">16th Arte Laguna Prize - Final List.(Venis, Italy)</List>
-          <List year="2022">Like Water NFT Award - Second Award.(Taipei, Taiwan)</List>
-          <List year="    ">Kaohsiung Award - Shortlist.(Kaohsiung, Taiwan)</List>
-          <List year="2021">Contemporary Art Prize - Exellence award.(Taipei, Taiwan)</List>
-          <List year="    ">24th Japan Media Art Festival - Art divition jury selection. (Tokyo, Japan)</List>
-          <List year="2020">Taoyuan Technology Performing Art Awards - Exellence award.(Taoyuan, Taiwan)</List>
+          <List year="2025">Futuretense Award - Media Art Honorable Mention。(Honkong)</List>
+          <List year="2024">S-AN Aesthetics Award. (Taiwan)</List>
+          <List year=".   ">National Art Exhibition R.O.C Mixed media category - Second Award. (Taiwan)</List>
+          <List year="2023">16th Arte Laguna Prize - Final List.(Italy)</List>
+          <List year="2022">Like Water NFT Award - Second Award.(Taiwan)</List>
+          <List year="    ">Kaohsiung Award - Shortlist.(Taiwan)</List>
+          <List year="2021">Contemporary Art Prize - Exellence award.(Taiwan)</List>
+          <List year="    ">24th Japan Media Art Festival - Art divition jury selection. (Japan)</List>
+          <List year="2020">Taoyuan Technology Performing Art Awards - Exellence award.(Taiwan)</List>
           <br/>
           <br/>
           <span className="cv_title">Exhibition</span><br/>
@@ -72,6 +73,7 @@ His audio/visual performances are usually created through programming, focused o
           <span className="cv_title">Performence</span><br/>
           <List year="2025">Perspectives: Audio-Visual Art. (Taipei Taiwan)</List>
           <List year="    ">New Media Art Department 110 graduated production opening. (Taipei Taiwan)</List>
+          <List year="    ">TAOYUAN INTERNATIONAL ART AWARD. (Taoyuan Taiwan)</List>
           <List year="2024">White Noise Weaving YEH. (Taipei, Taiwan)</List>
           <List year="    ">Internal Echo Ep.1. (Taipei, Taiwan)</List>
           <List year="    ">interactivité. (Tokyo, Japan)</List>
@@ -138,6 +140,7 @@ His audio/visual performances are usually created through programming, focused o
           <br/>
           <br/>
           <span className="cv_title">獲獎</span><br/>
+          <List year="2025">Futuretense Award。媒體藝術優異獎。香港</List>
           <List year="2024">世安美學造型藝術獎。台灣</List>
           <List year="    ">全國美展綜合媒材類。銀牌，台灣</List>
           <List year="2023">拉古納藝術獎16th。決選，義大利</List>
@@ -176,6 +179,7 @@ His audio/visual performances are usually created through programming, focused o
           <span className="cv_title">表演</span><br/>
           <List year="2025">Perspectives: Audio-Visual Art，台北流行音樂中心，台北，台灣</List>
           <List year="    ">新媒體藝術系110級畢業製作開幕表演，C-LAB 圖書館，台北，台灣</List>
+          <List year="    ">桃園國際藝術獎開幕，桃園展演中心，桃園，台灣</List>
           <List year="2024">耶深仍勁，C-LAB 圖書館，台北，台灣</List>
           <List year="    ">Internal Echo Ep.1，台灣藝術大學聲響中心，台北，台灣</List>
           <List year="    ">interactivité。Lapin et Halot，東京，日本</List>

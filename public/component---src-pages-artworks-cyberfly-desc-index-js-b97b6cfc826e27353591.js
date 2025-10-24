@@ -1,2 +1,0 @@
-(self.webpackChunkprofile=self.webpackChunkprofile||[]).push([[9989],{7246:function(e,t,a){"use strict";a.r(t),a.d(t,{default:function(){return i}});var i={title:"Cyberfly",category:"Sound installation",year:"2020",img:a.p+"static/img-0-aacd638ddd983b035405200268cf05ac.png"}}}]);
-//# sourceMappingURL=component---src-pages-artworks-cyberfly-desc-index-js-b97b6cfc826e27353591.js.map

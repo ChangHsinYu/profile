@@ -1,2 +1,0 @@
-(self.webpackChunkprofile=self.webpackChunkprofile||[]).push([[1327],{6091:function(e,t,f){"use strict";f.r(t),f.d(t,{default:function(){return i}});var i={title:"",category:"",year:"",img:f.p+"static/img-0-b78b13528f549337f7761a2e3c1e38b9.jpg"}}}]);
-//# sourceMappingURL=component---src-pages-codearts-img-1-desc-index-js-634407fc99adc0cb0ca3.js.map

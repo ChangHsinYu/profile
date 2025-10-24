@@ -1,2 +1,0 @@
-(self.webpackChunkprofile=self.webpackChunkprofile||[]).push([[478],{5426:function(e,t,n){"use strict";n.r(t),n.d(t,{default:function(){return a}});var a={title:"Couldn't Find",category:"Installation",year:"2018",img:n.p+"static/img-0-4a640531fb6f816c4c45fc90cdaee573.png"}}}]);
-//# sourceMappingURL=component---src-pages-artworks-find-desc-index-js-3dbaef5e0b2869329d17.js.map

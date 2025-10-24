@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkprofile=self.webpackChunkprofile||[]).push([[678],{6558:function(e,t,n){n.r(t),n.d(t,{default:function(){return r}});var l=n(7294),i=n(1010),u=n(392);const a=l.lazy((()=>Promise.all([n.e(161),n.e(741)]).then(n.bind(n,9741))));function r(e){let{data:t}=e;return(0,u.tZ)(i.Z,{pageTitle:"chang hsin-yu 張欣語"},(0,u.tZ)("div",{style:{textAlign:"center"}},(0,u.tZ)(l.Suspense,{fallback:(0,u.tZ)("div",null,"Loading...")},(0,u.tZ)(a,null))))}}}]);
-//# sourceMappingURL=component---src-pages-index-js-6cd8857f4852df5c2985.js.map

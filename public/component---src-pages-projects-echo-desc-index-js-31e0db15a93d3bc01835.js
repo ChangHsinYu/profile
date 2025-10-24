@@ -1,2 +1,0 @@
-(self.webpackChunkprofile=self.webpackChunkprofile||[]).push([[6318],{4293:function(t,e,i){"use strict";i.r(e),i.d(e,{default:function(){return n}});var n={title:"貴人散步音樂節",position:"Visual Code Design 影像程式設計",year:"2020",event:"貴人散步音樂節",location:"台南全美戲院",others:"\n\t\t\t\t\t藝術家 : 吳柏蒼、王連晟 <br>\n\t\t\t\t ",img:i.p+"static/img-0-db89ebabfea2e6f7cfa0dde5ab922b06.png",smlimg:[]}}}]);
-//# sourceMappingURL=component---src-pages-projects-echo-desc-index-js-31e0db15a93d3bc01835.js.map

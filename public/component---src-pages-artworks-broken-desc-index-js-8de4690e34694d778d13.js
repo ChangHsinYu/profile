@@ -1,2 +1,0 @@
-(self.webpackChunkprofile=self.webpackChunkprofile||[]).push([[685],{6262:function(e,c,t){"use strict";t.r(c),t.d(c,{default:function(){return i}});var i={title:"Broken",category:"Video",year:"2019",img:t.p+"static/img-0-1b57dc7eeeb05043b35f2cdcadb4d01c.png"}}}]);
-//# sourceMappingURL=component---src-pages-artworks-broken-desc-index-js-8de4690e34694d778d13.js.map

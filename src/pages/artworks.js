@@ -5,6 +5,13 @@ import Artwork from '../components/artwork';
 import Layout from '../components/layout'
 
 const artworks = [
+	"Listen to the Light - Keelung ver.",
+	"Sun Dairy",
+	"Inert Gas Resonance",
+	"Rainforest",
+	"Aftershocks in the Crevice",
+	"Microbial Ensemble",
+	"Myst(Box Version)",
 	"□○△",
 	"Sparks",
 	"Void",

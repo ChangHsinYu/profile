@@ -19,6 +19,15 @@ featuredImage: img0.jpg
       </div>
   </div>
 
+  <div class="box">
+      <img class="subimg" src="./img7.jpg">
+      <div class="photocredit">(credit : Keelung Ciao Art)</div>
+  </div>
+
+  <div class="box">
+      <img class="subimg" src="./img8.jpg">
+      <div class="photocredit">(credit : Keelung Ciao Art)</div>
+  </div>
 
   <div class="box">
       <img class="subimg" src="./img1.jpg">
@@ -54,6 +63,7 @@ featuredImage: img0.jpg
       <div class="photocredit">(photo by : me)</div>
   </div>
 
+  
   
 
   <div class="box"></div>

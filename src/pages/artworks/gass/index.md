@@ -48,5 +48,6 @@ featuredImage: img0.jpg
   <div class="box"></div>
 
   <!-- <iframe title="vimeo-player" src="https://player.vimeo.com/video/1069926808?h=06fb2c96db" frameborder="0" allowfullscreen></iframe> -->
+  <iframe src="https://www.youtube.com/embed/F7NAI0mREjw?si=Q3H4-MinxX9mgkj2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
   <div class="box"></div>

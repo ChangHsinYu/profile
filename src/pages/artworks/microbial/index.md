@@ -4,11 +4,12 @@ date: '2025'
 material: 'mud, microbial, carbon, water, KCL, agar'
 category: 'Sound installation'
 event: " "
-venue: "Waley Art"
+venue: "Waley Art (TW)"
 featuredImage: img0.jpg
 ---
   <div class="box">
       <div class="dscrptn">
+        "Microbial Ensemble" is part of the ongoing exploration of invisible signals, and from this work, I began developing physically triggered instruments.Responding to the swamp history of the exhibition site, it uses microbial electrical signals extracted from nearby wetland mud to drive a set of drums. The wetland and its microorganisms symbolize the sedimentation and metabolism of the city's memory. Through sound, the work attempts to reveal the unseen agitation that lies beneath the ground.
         <br>
       </div>
   </div>

@@ -4,11 +4,15 @@ date: '2025'
 material: 'inert gas, electromagnetic wave microphone, glass, speaker'
 category: 'Sound installation'
 event: " "
-venue: "Waley Art"
+venue: "Waley Art (TW)"
 featuredImage: img0.jpg
 ---
   <div class="box">
       <div class="dscrptn">
+        Inert Gas Resonance use radio technology to capture the electromagnetic waves generated when
+inert gases are glow under high voltage. These signals are then amplified and played through
+speakers, allowing the gathered gases to “sing” together. Presented on the fourth floor of the
+exhibition space, its conceptual elevation corresponds to the Earth’s ionosphere.
         <br>
       </div>
   </div>

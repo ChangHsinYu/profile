@@ -4,11 +4,18 @@ date: '2025'
 material: 'laser, photoresistance, contact speaker, mist, water'
 category: 'Sound installation'
 event: " "
-venue: "Waley Art"
+venue: "Waley Art (TW)"
 featuredImage: img0.jpg
 ---
   <div class="box">
       <div class="dscrptn">
+        <Myst> creates the illusion of an incorporeal creature, using sound to keep the state in the
+imagination before the monster manifests. At the same time, it explores the control of water mist
+and its possibility as a sound medium. The work uses small water drop floating in the air to
+interfere with laser light, causing the current that flow through the photoresistor be unstable. By
+amplifying this signal, some low-frequency noise are generated, and be send to resonance
+speakers, It sounded like a low hum from a fog monster behind the wall, vibrating the entire
+space.
         <br>
       </div>
   </div>

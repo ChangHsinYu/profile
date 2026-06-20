@@ -4,11 +4,16 @@ date: '2025'
 material: 'rock, crevice, vinyl, resonance speaker'
 category: 'Sound installation'
 event: " "
-venue: "Waley Art"
+venue: "Waley Art (TW)"
 featuredImage: img0.jpg
 ---
   <div class="box">
       <div class="dscrptn">
+        In "Aftershocks in the Crevice" I slowly pressed a skateboard over the cracks on the road,
+recording the sounds with a contact microphone. The recordings were made into a vinyl record,
+where the cracks on the ground correspond to the grooves on the vinyl, like an imprint of sound.
+In the exhibition, these grooves are played back through modified ceiling lamps and windows,
+producing sounds and bodily sensations that resemble a real earthquake.
         <br>
       </div>
   </div>

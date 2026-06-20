@@ -4,7 +4,7 @@ date: '2025'
 material: 'max/msp, processing'
 category: 'Audio visual performance'
 event: " "
-venue: "Taiwan Contemporary Culture Lab (TW), Taipei Music Center (TW)"
+venue: "The Kuala Lumpur Performing Arts Centre (KLPAC), Taiwan Contemporary Culture Lab (TW), Taipei Music Center (TW)"
 featuredImage: img0.jpg
 ---
   <div class="box">

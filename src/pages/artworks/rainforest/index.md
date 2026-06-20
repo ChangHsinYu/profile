@@ -4,11 +4,12 @@ date: '2025'
 material: 'wood, motor, nail, brush, contact microphone, speaker'
 category: 'Sound installation'
 event: " "
-venue: "Waley Art"
+venue: "Waley Art (TW)"
 featuredImage: img0.jpg
 ---
   <div class="box">
       <div class="dscrptn">
+        "Rainforest" follows a kind of foley-like logic: the soft, bristled texture of the brush produces dripping, rain-like sounds as it brushes across metal nails.
         <br>
       </div>
   </div>

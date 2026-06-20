@@ -24,12 +24,14 @@
   "component---src-pages-collaborations-js-b63b7058beeb81af0392.js.map": "component---src-pages-collaborations-js-b63b7058beeb81af0392.js.map",
   "component---src-pages-collaborations-js-c8b0f3b2dd1802e21b8e.js.map": "component---src-pages-collaborations-js-c8b0f3b2dd1802e21b8e.js.map",
   "component---src-pages-collaborations-js.js": "component---src-pages-collaborations-js-b63b7058beeb81af0392.js",
+  "component---src-pages-cv-js-1e52c5ccb53e7694ccce.js.map": "component---src-pages-cv-js-1e52c5ccb53e7694ccce.js.map",
   "component---src-pages-cv-js-25b85d5697caef061545.js.map": "component---src-pages-cv-js-25b85d5697caef061545.js.map",
-  "component---src-pages-cv-js.js": "component---src-pages-cv-js-25b85d5697caef061545.js",
+  "component---src-pages-cv-js.js": "component---src-pages-cv-js-1e52c5ccb53e7694ccce.js",
   "component---src-pages-index-js-c451f6f89b6822745aa2.js.map": "component---src-pages-index-js-c451f6f89b6822745aa2.js.map",
   "component---src-pages-index-js.js": "component---src-pages-index-js-c451f6f89b6822745aa2.js",
+  "component---src-pages-news-js-9a1595f849cf9bc6ca2b.js.map": "component---src-pages-news-js-9a1595f849cf9bc6ca2b.js.map",
   "component---src-pages-news-js-b929bf8954b1dd6d3876.js.map": "component---src-pages-news-js-b929bf8954b1dd6d3876.js.map",
-  "component---src-pages-news-js.js": "component---src-pages-news-js-b929bf8954b1dd6d3876.js",
+  "component---src-pages-news-js.js": "component---src-pages-news-js-9a1595f849cf9bc6ca2b.js",
   "component---src-pages-projects-js-4bd9ddeb029a038feff9.js.LICENSE.txt": "component---src-pages-projects-js-4bd9ddeb029a038feff9.js.LICENSE.txt",
   "component---src-pages-projects-js-4bd9ddeb029a038feff9.js.map": "component---src-pages-projects-js-4bd9ddeb029a038feff9.js.map",
   "component---src-pages-projects-js.js": "component---src-pages-projects-js-4bd9ddeb029a038feff9.js",
@@ -67,7 +69,8 @@
   "static/tw.png": "static/tw-8e65601e69067aadfe551b6635ea3420.png",
   "static/vm.png": "static/vm-5b129662c6d9c82575cad053eb397f1c.png",
   "styles.css": "styles.bf59e88a5b1fd2894326.css",
+  "webpack-runtime-6b1de2a71e67067e581f.js.map": "webpack-runtime-6b1de2a71e67067e581f.js.map",
   "webpack-runtime-b69cafff62f8f1de64d7.js.map": "webpack-runtime-b69cafff62f8f1de64d7.js.map",
   "webpack-runtime-b91f08d301145fc3faf2.js.map": "webpack-runtime-b91f08d301145fc3faf2.js.map",
-  "webpack-runtime.js": "webpack-runtime-b91f08d301145fc3faf2.js"
+  "webpack-runtime.js": "webpack-runtime-6b1de2a71e67067e581f.js"
 }

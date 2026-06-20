@@ -10,6 +10,12 @@ featuredImage: img0.jpg
 ---
   <div class="box">
       <div class="dscrptn">
+        Exhibited at the Keelung Ciao Art, the work is installed inside
+an air-raid shelter built during the Japanese colonial period in Taiwan. The original lighting of the
+cave was replaced with my sound-embedded lamps. The sound draws inspiration from wartime
+propaganda songs of that era, which compared fighter planes to mosquitoes and dragonflies,
+Through the concept, I linking vehicles and insects, and evoking the relationship between insect
+sounds and electronic signals.
       <br>
       </div>
   </div>

@@ -33,8 +33,11 @@ His audio/visual performances are usually created through programming, focused o
           <div className="cv_year">2017</div><div className="cv_inf"></div><br/>
           <br/>
           <br/>
-          <span className="cv_title">Award</span><br/>
-          <List year="2025">Futuretense Award - Media Art Honorable Mention。(Honkong)</List>
+          <span className="cv_title">Honors & Recognitions</span><br/>
+          
+          <List year="2026">Taishin Arts Award Nominators - Finalists (Kingdom, Sound Desing). (Taiwan)</List>
+          <List year="    ">Taishin Arts Award Nominators - Nominee (Sonic Alchemy, solo exhibition)(Taiwan)</List>
+          <List year="2025">Futuretense Award - Media Art Honorable Mention. (Honkong)</List>
           <List year="2024">S-AN Aesthetics Award. (Taiwan)</List>
           <List year=".   ">National Art Exhibition R.O.C Mixed media category - Second Award. (Taiwan)</List>
           <List year="2023">16th Arte Laguna Prize - Final List.(Italy)</List>
@@ -46,7 +49,12 @@ His audio/visual performances are usually created through programming, focused o
           <br/>
           <br/>
           <span className="cv_title">Exhibition</span><br/>
-          <List year="2025">Xinying Shimmer Festival : Among The Trails (Tainan, Taiwan)</List>
+          <List year="2026">Lay Down. (Kaohsuing, Taiwan)</List>
+          <List year="2025">Roaring Into Being. (The Hague，Netherlands)</List>
+          <List year="    ">Keelung Ciao Art (Keelung, Taiwan)</List>
+          <List year="    ">Futuretense exhibition (Hong Kong))</List>
+          <List year="    ">Sonic Alchemy - Hsin-Yu Chang Solo Exhibition (Taipei，Taiwan)</List>
+          <List year="    ">Xinying Shimmer Festival : Among The Trails (Tainan, Taiwan)</List>
           <List year="2024">Taiwan Technology x Culture Expo 2024 : G.A.M.E. (Kaohsiung, Taiwan)</List>
           <List year="    ">interactivité. (Tokyo, Japan)</List>
           <List year="    ">National Art Exhibition R.O.C. (Taichung, Taiwan)</List>
@@ -71,9 +79,12 @@ His audio/visual performances are usually created through programming, focused o
           <br/>
           <br/>
           <span className="cv_title">Performence</span><br/>
-          <List year="2025">Perspectives: Audio-Visual Art. (Taipei Taiwan)</List>
-          <List year="    ">New Media Art Department 110 graduated production opening. (Taipei Taiwan)</List>
-          <List year="    ">TAOYUAN INTERNATIONAL ART AWARD. (Taoyuan Taiwan)</List>
+          <List year="2026">Current New Media, (Santa Fe, United States)</List>
+          <List year="2025">Tekka. (Kuala Lumpur, Malaysia)</List>
+          <List year="    ">PROTO.N. (Kaohsuing, Taiwan)</List>
+          <List year="    ">Perspectives: Audio-Visual Art. (Taipei, Taiwan)</List>
+          <List year="    ">New Media Art Department 110 graduated production opening. (Taipei, Taiwan)</List>
+          <List year="    ">TAOYUAN INTERNATIONAL ART AWARD. (Taoyuan, Taiwan)</List>
           <List year="2024">White Noise Weaving YEH. (Taipei, Taiwan)</List>
           <List year="    ">Internal Echo Ep.1. (Taipei, Taiwan)</List>
           <List year="    ">interactivité. (Tokyo, Japan)</List>
@@ -108,6 +119,8 @@ His audio/visual performances are usually created through programming, focused o
           <br/>
           <br/>
           <span className="cv_title">Design</span><br/>
+          <List year="2025">KINGDOM, Taiwan Sound Lab. (Taipei, Taiwan)</List>
+          <List year="    ">Light Keeper。Singapore Biennale，(Singapore)</List>
           <List year="2024">KINGDOM, Sound Design. (Taipei, Taiwan)</List>
           <List year="2023">Epicentrum-Ars Electronica, Technical Design. (Linz, Austria)</List>
           <List year="2022">Taoyuan Art x Technology Festival opening feat.DJ RAYRAY, Video Design. (Taichung, Taiwan)</List>
@@ -139,7 +152,9 @@ His audio/visual performances are usually created through programming, focused o
           <div className="cv_year">2017</div><div className="cv_inf"></div><br/>
           <br/>
           <br/>
-          <span className="cv_title">獲獎</span><br/>
+          <span className="cv_title">獲獎與榮譽</span><br/>
+          <List year="2026">台新藝術獎入圍(Kingdom, 聲音設計)。台灣</List>
+          <List year="    ">台新藝術獎提名(煉聲術-張欣語個展)。台灣</List>
           <List year="2025">Futuretense Award。媒體藝術優異獎。香港</List>
           <List year="2024">世安美學造型藝術獎。台灣</List>
           <List year="    ">全國美展綜合媒材類。銀牌，台灣</List>
@@ -152,7 +167,12 @@ His audio/visual performances are usually created through programming, focused o
           <br/>
           <br/>
           <span className="cv_title">展覽</span><br/>
-          <List year="2025">新營波光節：路徑之間。新營天鵝湖公園，台南，台灣</List>
+          <List year="2026">還是先躺一下再說？。駁二當代館，高雄，台灣</List>
+          <List year="2025">Roaring Into Being。Quartair，海牙，荷蘭</List>
+          <List year="    ">基隆潮藝術。信二防空洞，基隆，台灣</List>
+          <List year="    ">Futuretense exhibition。ArtisTree，香港</List>
+          <List year="    ">煉聲術-張欣語個展。水谷藝術，台北，台灣</List>
+          <List year="    ">新營波光節：路徑之間。新營天鵝湖公園，台南，台灣</List>
           <List year="2024">台灣科技文化大會：G.A.M.E.未來主題展。駁二蓬萊倉庫，高雄，台灣</List>
           <List year="    ">interactivité。Lapin et Halot，東京，日本</List>
           <List year="    ">全國美術展。國立台灣美術館，台中，台灣</List>
@@ -177,7 +197,10 @@ His audio/visual performances are usually created through programming, focused o
           <br/>
           <br/>
           <span className="cv_title">表演</span><br/>
-          <List year="2025">Perspectives: Audio-Visual Art，台北流行音樂中心，台北，台灣</List>
+          <List year="2026">Current New Media ，El Museo Cultural De Santa Fe，聖塔菲，美國</List>
+          <List year="2025">Tekka，Pentas 2，吉隆坡，馬來西亞</List>
+          <List year="    ">未來禪 PROTO.N，承億酒店，高雄，台灣</List>
+          <List year="    ">Perspectives: Audio-Visual Art，台北流行音樂中心，台北，台灣</List>
           <List year="    ">新媒體藝術系110級畢業製作開幕表演，C-LAB 圖書館，台北，台灣</List>
           <List year="    ">桃園國際藝術獎開幕，桃園展演中心，桃園，台灣</List>
           <List year="2024">耶深仍勁，C-LAB 圖書館，台北，台灣</List>
@@ -214,6 +237,8 @@ His audio/visual performances are usually created through programming, focused o
           <br/>
           <br/>
           <span className="cv_title">設計</span><br/>
+          <List year="2025">KINGDOM。台灣聲響實驗室，台北，台灣</List>
+          <List year="    ">Light Keeper。新加坡雙年展，新加坡</List>
           <List year="2024">KINGDOM。台北數位藝術中心，台北，台灣</List>
           <List year="2023">震源：林茲電子藝術節。布展技術統籌。SPLACE Gallery，林茲，奧地利</List>
           <List year="2022">桃園科技藝術節 DJ RAYRAY共演。影像設計。桃園展演中心，桃園，台灣</List>

@@ -19,13 +19,12 @@ const News = () =>{
         <div className="news_content">
           <div className="news_content_language">
           <span className="news_title">Current</span><br/>
-          no<br/>
+          <List year="2026" location="駁二當代館"><a href="https://pier2.org/exhibition/info/1922/" target="_blank" rel="noreferrer">還是先躺一下再說？ Lay Down</a></List>
+          <br/>
           <br/>
           <br/>
           <span className="news_title">Upcoming</span><br/>
-          <List year="2025 August (Solo Exhibition)" location="水谷藝術">個展</List>
-          <List year="2025 October (Exhibition)" location="基隆">基隆潮藝術</List>
-          <List year="2025 October (Group Exhibition)" location="(Netherlands)"><a href="https://0-1.gallery/open-calls/esc-2034/" target="_blank" rel="noreferrer">ESC 2034: 0→1</a></List>
+          <List year="2026" location="當代藝術館"></List>
           </div>
         </div>
       </div>

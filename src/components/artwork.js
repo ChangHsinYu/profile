@@ -16,12 +16,15 @@ class Artwork extends React.Component {
           <div className="work_inf_mobile">
 							<span style={{fontWeight:'700'}}>{this.props.title}</span>, {this.props.category}, {this.props.date}
 					</div>
+					<br></br>
 					<div className="work_inf2_mobile">
 							{this.props.venue}
 					</div>
 
           <ul className="work_inf">
-							<li><span style={{fontWeight:'700'}}>{this.props.title}</span>, {this.props.category}, {this.props.date}</li>
+							<li><span style={{fontWeight:'700'}}>{this.props.title}</span></li>
+							<li> {this.props.category}</li>
+							<li>{this.props.date}</li>
 					</ul>
 					<ul className="work_inf2">
 							<li>{this.props.venue}</li>
